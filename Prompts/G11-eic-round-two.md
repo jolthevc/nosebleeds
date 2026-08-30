@@ -1,0 +1,3 @@
+# G11 · EIC, Round Two
+
+Same prompt as G8, with this replacement for the reviewer inputs: you receive the revised article, the Research document, and the Cold Final Review only. Write a narrow brief addressing the cold review’s must-fix items and its strongest reason not to publish. Protect every item in strengths_to_preserve, and preserve any other concrete passage or function you independently judge excellent. Do not infer paragraph-level protection from a high dimension score alone. Mode is revise; regeneration is not available in round two. Writer revision (G9) and Cold Final Review (G10) then run again unchanged.
