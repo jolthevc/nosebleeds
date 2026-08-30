@@ -16,7 +16,7 @@ Nosebleeds wants stories underneath sports people already love. A strong concept
 
 A candidate is not merely an athlete, game, team, topic, statistic, or interesting fact. The hook should appear to open onto a story worth investigating.
 
-Search broadly. Aim for roughly twenty to thirty strong conceptions, but do not pad the list to hit a number. Fewer strong ideas are better than filler.
+Search broadly and return exactly 10 strong story conceptions. Do not pad the list with weak ideas. If necessary, keep searching until you have found 10 conceptions you genuinely believe are worth putting before the commissioning editor.
 
 For each conception, do only enough web research to establish that the central hook is real enough to commission further research.
 
