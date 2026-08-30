@@ -1,31 +1,67 @@
 # NOSEBLEEDS
-## Brand Bible v1.3
+## Brand Bible v1.4
 ### The magical stories behind the games we love.
 
-**Status:** Canonical Batch One brand doctrine for Claude review.  
-**Supersedes:** Brand Bible v1.2.  
-**Locked:** Publication name, slogan, fan-first posture, text-first launch, consumer sports-story positioning.  
-**Mascot:** Lou, a pigeon who lives in Section 412.
+**Status:** Canonical brand doctrine.  
+**Supersedes:** Brand Bible v1.3.  
+**Locked:** Name, slogan, fan-first posture, consumer sports entertainment positioning, Lou as public face, text-first launch.
 
 ---
 
 # 0. PURPOSE
 
-This document defines what Nosebleeds is as a brand and how it should feel to a reader.
+This document defines what Nosebleeds is, what it is allowed to care about, what relationship it has with the reader, and what every visible editorial decision should protect.
 
-It does not prescribe every sentence of article prose. That belongs to the Voice Bible and Voice Kernel.
-
-It does not define the forensic scoring system. That belongs to the review bench and master rubric.
-
-It does not define the research workflow. That belongs to the Research Standard.
+It does not force every piece into the same narrative structure. It does not prescribe a subject taxonomy. It does not turn the publication into a sports-history magazine, a sports-business publication, or a news product.
 
 Its job is simpler:
 
-> **What is Nosebleeds, what relationship does it have with sports and the reader, and what should every visible brand decision protect?**
+> **What is Nosebleeds, and why would a sports-obsessed person keep coming back?**
 
 ---
 
 # 1. THE ONE IDEA
+
+## Nosebleeds is entertainment for people who cannot get enough sports.
+
+Nosebleeds roams the entire world of sports and finds the most interesting, entertaining, surprising, moving, funny, revealing, or irresistible things inside it.
+
+The publication is unified by taste, not by a narrow subject category.
+
+A Nosebleeds piece can live inside:
+
+- a game
+- an athlete
+- a team
+- a coach
+- a fan
+- a rivalry
+- a league
+- an owner
+- a business
+- a brand
+- a contract
+- a rule
+- a strategy
+- a scandal
+- a stadium
+- an object
+- a photograph
+- a tradition
+- a media company
+- a piece of technology
+- a cultural phenomenon
+- a forgotten person
+- a famous moment
+- something we have not thought to name
+
+The subject changes.
+
+The taste does not.
+
+---
+
+# 2. THE ORIGINAL BRAND IDEA
 
 ## Nosebleeds is the fan in the worst seat who knows the best story in the building.
 
@@ -41,27 +77,41 @@ Nosebleeds knows more because it did the reading, not because it wants the reade
 
 ---
 
-# 2. THE SOUL
+# 3. THE SOUL
 
 ## We love sports.
 
 This is the non-ironic premise.
 
-Sports are allowed to matter because sports matter to people. They can also be deeply ridiculous. Nosebleeds should understand both facts at the same time.
+Sports are allowed to matter because sports matter to people. They are also deeply ridiculous. Nosebleeds understands both facts at the same time.
 
-Sports contain brilliance, obsession, family, rivalry, stupidity, history, money, luck, beauty, bureaucracy, grief, superstition, unfairness, joy, spectacle, and people caring far too much about strangers in matching clothes.
+Sports contain brilliance, obsession, family, rivalry, stupidity, history, money, luck, beauty, bureaucracy, grief, superstition, unfairness, joy, spectacle, commerce, technology, power, identity, and people caring far too much about strangers in matching clothes.
 
-We do not use sports as a disguise for a more respectable subject. If race, labor, money, politics, technology, family, or culture are essential to the sports story, we follow them. But basketball does not need to become sociology before it is worth our attention.
+We can follow any of those threads when they lead somewhere interesting.
 
-Sometimes basketball is incredible because basketball is incredible.
+But sport remains the center of gravity.
+
+Basketball does not need to become sociology before it is worth our attention.
+
+A story about Nike can still be a basketball story.
+
+A story about a salary cap can still be a story about what fans saw on the floor.
+
+A story from 1968 can feel alive.
+
+A story from 2024 can already be evergreen.
+
+The question is never whether a subject sounds respectable enough.
+
+The question is whether the piece is worth a sports fan's time.
 
 ---
 
-# 3. WHAT NOSEBLEEDS SHOULD FEEL LIKE
+# 4. THE CONSUMER EXPERIENCE
 
 Reading Nosebleeds should feel like the moment when somebody at the table says:
 
-> Wait, you've never heard this?
+> **Wait, you've never heard this?**
 
 And everyone else stops talking.
 
@@ -70,35 +120,220 @@ The usual emotional sequence is:
 1. **Wait, what?**
 2. **I had no idea.**
 3. **Keep going.**
-4. Then whatever the story earns: laughter, awe, anger, argument, affection, a lump in the throat, or the simple feeling that sports are incredible.
+4. Then whatever the material earns: laughter, awe, anger, nostalgia, tension, affection, admiration, disbelief, argument, a lump in the throat, or the simple feeling that sports are incredible.
 
-Nosebleeds does not announce the desired emotion. It creates the conditions for one.
+Nosebleeds does not announce the desired emotion.
 
-The experience should never feel like being taught a lesson about why sports secretly matter.
+It creates the conditions for one.
 
----
+A reader should not finish a piece thinking only, "I learned something."
 
-# 4. THE NAME AND THE SLOGAN
+A stronger reaction is:
 
-# NOSEBLEEDS
-
-## The magical stories behind the games we love.
-
-The name and slogan deliberately pull in opposite directions.
-
-**Nosebleeds** is physical, cheap-seat, funny, slightly self-deprecating, and unpretentious.
-
-**The magical stories behind the games we love** is sincere.
-
-That tension is the brand.
-
-Irreverence without sincerity becomes snark. Sincerity without irreverence becomes sentimentality. Together they feel like a fan.
-
-The word **magical** belongs primarily to the slogan and selective brand copy. Article prose should usually create that feeling rather than name it.
+> **I have to send this to someone.**
 
 ---
 
-# 5. PERSONALITY
+# 5. FAME, OBSCURITY, AND DISCOVERY
+
+## Fame is not a problem.
+
+Popular things are popular because people care about them.
+
+A famous athlete, team, league, game, rivalry, stadium, photograph, brand, scandal, or moment arrives with built-in reader investment. That is useful.
+
+Famous subjects carry a higher discovery burden, not a penalty.
+
+The question is:
+
+> **What can Nosebleeds show the reader underneath something they already care about?**
+
+The best territory is often an unknown part of a known thing.
+
+## Obscurity earns no points by itself.
+
+An unknown person or forgotten event can become a fantastic Nosebleeds piece, but it must create its own reason to care.
+
+"Most readers have never heard of this" is not a value proposition.
+
+If the only interesting thing about a subject is that it is obscure, it is probably not enough.
+
+---
+
+# 6. HISTORY, BUSINESS, AND OTHER SURFACES
+
+## Not sports history does not mean no history.
+
+History is one of the richest surfaces in sports.
+
+Nosebleeds can tell stories from 1919, 1974, 1998, 2016, or last season.
+
+The prohibition is against becoming a publication whose default answer to "what should we make?" is "find an old sports fact."
+
+Evergreen does not mean old.
+
+A historical piece should feel alive, specific, and worth consuming now.
+
+## Not sports business does not mean no business.
+
+Money, ownership, media rights, brands, contracts, labor, technology, distribution, and commercial strategy are embedded in sports.
+
+Nosebleeds should absolutely follow them when the result is a compelling consumer sports piece.
+
+But we are not a trade publication.
+
+A sports-business story should be written for the person who cares about the game, not the person whose job is to attend an industry conference.
+
+The spreadsheet can enter the piece.
+
+It cannot become the reader.
+
+## The same rule applies everywhere.
+
+Politics, law, culture, technology, science, fashion, architecture, gambling, media, and commerce may all matter.
+
+They are routes into sports, not excuses to leave sports.
+
+---
+
+# 7. STORY IS THE PROMISE. PIECE IS THE OPERATING UNIT.
+
+Publicly, Nosebleeds tells great sports stories.
+
+Internally, the editorial system should think in terms of **pieces**.
+
+That distinction protects creative range.
+
+A great Nosebleeds piece may be:
+
+- a narrative reconstruction
+- a character story
+- a profile
+- a mystery
+- an argument
+- an explanation
+- an anatomy of a phenomenon
+- a business story
+- a cultural story
+- a rivalry
+- an obsession
+- a myth audit
+- a rise or collapse
+- a fan story
+- a famous event seen from another side
+
+No form receives automatic prestige.
+
+No form is mandatory.
+
+The material should choose the form.
+
+---
+
+# 8. WHAT NOSEBLEEDS SELECTS FOR
+
+Strong pieces usually have several of these qualities:
+
+## Immediate pull
+
+The premise makes a reader lean forward.
+
+## Specificity
+
+A person, game, decision, number, photograph, contract, summer, mistake, feud, object, or other concrete thing makes the piece graspable.
+
+## Discovery
+
+The reader learns something load-bearing, or sees something familiar from an angle that changes it.
+
+## Feeling
+
+The material can plausibly produce fascination, delight, awe, laughter, anger, nostalgia, tension, tenderness, admiration, disbelief, grief, or another earned reaction.
+
+## Movement
+
+Something happens, changes, spreads, fails, collides, gets decided, gets resisted, gets misunderstood, or becomes clear.
+
+Movement does not require one datable narrative hinge.
+
+## Sports gravity
+
+The piece could not migrate cleanly into a generic business, history, culture, or technology publication without losing its reason to exist.
+
+## Contagion
+
+At least one fact, image, argument, number, line, or feeling is likely to escape the piece into conversation.
+
+---
+
+# 9. WHAT NOSEBLEEDS IS NOT
+
+Nosebleeds is not:
+
+- sports news
+- sports business as an identity
+- sports history as an identity
+- a rules explainer service
+- a nostalgia feed
+- a trivia feed
+- a trade publication
+- a prestige-longform status project
+- a hot-take account
+- a statistics site
+- a documentary pitch deck in text
+- an archive for obscure facts nobody asked for
+
+Any one of those surfaces can contain a Nosebleeds piece.
+
+None of them defines Nosebleeds.
+
+---
+
+# 10. THE READER
+
+The reader is:
+
+## Someone who loves sports, or knows what it feels like to.
+
+There is no intellectual-status filter.
+
+The audience includes obsessives, casual fans, people who watch one sport, people who watch everything, people who care only during the Olympics, people who know every roster, people who follow athletes more than teams, and people who remember games because of who they watched them with.
+
+The emotional requirement is simple:
+
+> **You have cared about something with a scoreboard.**
+
+The publication should reward the obsessive without requiring the reader to be one.
+
+---
+
+# 11. THE COMPETITION
+
+Nosebleeds competes for leisure attention.
+
+The reader could spend the next ten minutes with:
+
+- a game
+- highlights
+- ESPN
+- YouTube
+- a sports podcast
+- Reddit
+- TikTok
+- a documentary
+- a group chat
+- another article
+- nothing at all
+
+Therefore:
+
+> **Being accurate is mandatory. Being worthy is not enough. The piece must be worth choosing.**
+
+The standard is consumer pull.
+
+---
+
+# 12. PERSONALITY
 
 ## Five words
 
@@ -106,7 +341,13 @@ The word **magical** belongs primarily to the slogan and selective brand copy. A
 
 If Nosebleeds were a person, it would be a lifelong fan with a library card.
 
-It has seen thousands of games and read about the ones it missed. It has strong opinions about owners and governing bodies. It has no opinion about whether your team is worth loving. It owns too much memorabilia. It can make fun of the stadium nachos and still remember exactly where it was when the team finally won.
+It has strong opinions about owners and governing bodies. It has no opinion about whether your team is worth loving.
+
+It owns too much memorabilia.
+
+It knows when something is absurd.
+
+It also knows when to stop joking.
 
 It does not perform intelligence.
 
@@ -116,13 +357,13 @@ It simply cares.
 
 ---
 
-# 6. VALUES
+# 13. VALUES
 
 ## We love sports
 
 Every other value serves this one.
 
-## The story is the star
+## The piece is the star
 
 Not the writer. Not the mascot. Not the research. Not the system.
 
@@ -134,37 +375,45 @@ Respecting the reader's time is a form of affection.
 
 We love the legend enough to check what actually happened.
 
-## We are in the stands
+## Consumer pull
 
-Never above the people who care.
-
-## Deep underneath, easy on top
-
-The research can be difficult. The reading should not feel difficult.
+The reader owes us nothing. The piece has to earn attention.
 
 ## Range
 
-Sports can be profound and stupid in the same afternoon. Nosebleeds should be capable of both.
+Sports can be profound and stupid in the same afternoon.
+
+## Deep underneath, easy on top
+
+The work can be difficult. The reading should not feel difficult.
+
+## Famous is welcome
+
+Recognition can be a powerful hook when discovery follows.
+
+## Obscure must earn it
+
+Novelty is not the same as interest.
 
 ---
 
-# 7. ANTI-VALUES
+# 14. ANTI-VALUES
 
 ## Prestige
 
-No self-conscious "longform" posture. No literary peacocking. No wrapper that makes the reader feel they have been assigned homework.
+No self-conscious literary peacocking. No wrapper that makes the reader feel assigned homework.
 
 ## Insider
 
-No access flexing. No industry language for its own sake. No assumption that the reader already belongs to the club.
+No access flexing. No industry language for its own sake.
 
 ## Newsy
 
-No recaps, rumors, picks, transactions, or hot takes as the product. A timely event may trigger a story, but the story should outlive the week.
+No recaps, rumors, transactions, or hot takes as the core product.
 
 ## Cynical
 
-No ironic distance from fandom. No treating fans as specimens.
+No ironic distance from fandom.
 
 ## Sentimental
 
@@ -172,75 +421,23 @@ No manufactured transcendence. No announcing that something was "more than a gam
 
 ## Corporate
 
-No bland neutrality when the evidence supports judgment. No brand-safe flattening of personality.
+No brand-safe flattening of personality.
 
 ## Juvenile
 
 The mascot can be funny. The publication does not become a bit.
 
----
+## Dutiful
 
-# 8. THE READER
-
-The reader is:
-
-## Someone who loves sports, or knows what it feels like to.
-
-There is no intellectual-status filter.
-
-The audience includes obsessives, casual fans, people who watch one sport, people who watch everything, people who only care during the Olympics, people who know every roster, and people who remember games because of who they watched them with.
-
-The emotional requirement is simple:
-
-> You have cared about something with a scoreboard.
+A technically good piece that feels like homework is not a Nosebleeds success.
 
 ---
 
-# 9. THE READER RELATIONSHIP
-
-Nosebleeds and the reader sit in the same section.
-
-The publication shares rather than lectures. The reader is trusted to understand significance, notice humor, feel emotion, form an opinion, and disagree.
-
-The publication's authority comes from doing the work.
-
-Its intimacy comes from loving the same thing.
-
-The desired reader reaction over time is not "this publication is sophisticated." It is:
-
-> They always find the good part.
-
----
-
-# 10. POSITIONING
+# 15. POSITIONING
 
 ## Category
 
-**Consumer sports storytelling.**
-
-Not sports news. Not sports business. Not sports history. Not sports literature as a status category.
-
-A great sports story, in writing, for people who love sports.
-
-## Intended whitespace
-
-Nosebleeds aims to combine:
-
-- evergreen sports storytelling
-- fan-first posture
-- factual rigor
-- mass-accessible length
-- humor without cynicism
-- emotional range
-- a recognizable non-founder face
-- a resurfacing archive
-- text as the Day 1 product
-
-The goal is not to claim that nobody else has ever combined these qualities. The goal is to make this combination distinct enough that readers recognize it as Nosebleeds.
-
----
-
-# 11. HOW TO EXPLAIN NOSEBLEEDS
+**Consumer sports entertainment through deeply researched writing.**
 
 ## Five words
 
@@ -248,246 +445,114 @@ The goal is not to claim that nobody else has ever combined these qualities. The
 
 ## One sentence
 
-Nosebleeds tells the extraordinary stories underneath the sports you already love, from the cheap seats and with the homework already done.
+Nosebleeds finds the most irresistible stories, characters, ideas, and strange truths inside the sports people already love.
 
 ## Two sentences
 
-Every week, Nosebleeds finds a sports story you did not know, did not fully understand, or have never seen this way. It gets to the good part fast, checks the legend against the record, and gives you something worth sending to somebody.
+Every issue starts somewhere inside the world of sports and goes wherever the most interesting thing leads. The result might be a famous game seen from the side nobody remembers, a superstar's hidden business, a fan obsession, a league fight, a bizarre rule, a cultural phenomenon, or something nobody thought to look for.
 
-## One paragraph
+## Editorial shorthand
 
-Nosebleeds is a sports publication for people who love sports. Not the news, not the takes, not an industry memo: the stories underneath. The bizarre rule, the forgotten character, the game everyone remembers from the angle nobody does, the fan who waited a lifetime, the business decision that changed what happened in the stands. Some stories are hilarious. Some hurt. Some are simply unbelievable. The common promise is that the story is worth your time.
+**Pretty Penny curiosity meets 30 for 30 story instinct, built for the sports fan.**
 
----
-
-# 12. BRAND FURNITURE
-
-These are supporting lines, not replacements for the locked slogan.
-
-Strong options include:
-
-- **We always find the good part.**
-- **Worst seat. Best story.**
-- **From Section 412.**
-- **You have to hear this one.**
-- **Best view in the building.**
-- **Save me a seat.**
-- **Get the next one.**
-- **Sit with us.**
-
-Use them sparingly.
-
-A good line becomes weak when repeated until it behaves like a catchphrase.
+This shorthand is internal positioning, not public-facing copy.
 
 ---
 
-# 13. THE MASCOT
+# 16. LOU
 
 ## Decision
 
-# Lou
-
-Lou is a pigeon who lives in Section 412.
+**Lou** is a pigeon who lives in Section 412.
 
 Public-facing usage should usually be:
 
 > **By Lou**
 
-The phrase **Lou the Pigeon** is useful in internal documentation and occasional introductory brand material. It should not be repeated constantly in consumer copy.
+Lou is the frame around the picture, never a figure in it.
 
----
-
-# 14. WHY LOU
-
-The mascot must do more than be funny. It has to embody the brand without overtaking it.
-
-A pigeon works because it is naturally stadium-native, global, scrappy, unpretentious, slightly pathetic in an endearing way, and capable of being both funny and quiet. Pigeons turn up around sporting venues without invitation, which is precisely the right relationship to access for a publication that lives in the cheap seats rather than the press box.
-
-Lou also has an important advantage over more concept-heavy mascots: he requires almost no explanation. The reader sees a rumpled pigeon in Section 412 with binoculars and understands the joke.
-
-The proprietary value should come from the specific design, posture, wardrobe, seat, and repeated association with Nosebleeds, not from inventing elaborate mythology.
-
----
-
-# 15. LOU'S ROLE
-
-## Lou is the frame, never a figure in the picture.
-
-Lou is:
+He is:
 
 - the byline
 - the avatar
 - the newsletter face
-- a social identity
 - a small recurring brand signature
 - potentially a future merchandise character if the brand earns it
 
-Lou is not:
+He is not:
 
-- the hero of the articles
-- a cartoon narrator inside the body copy
-- a source of catchphrases
-- a live-game hot-take account
+- the hero of articles
+- the narrator inside article prose
 - a fictional reporter claiming access
-- a comedy layer pasted over serious stories
+- a catchphrase machine
+- a comedy layer pasted over serious material
 
-The articles remain Nosebleeds journalism.
+Article prose is written in the Nosebleeds editorial voice, not "as Lou."
 
-Lou gives the publication a face.
-
----
-
-# 16. LOU'S MYTHOLOGY
-
-Keep it small.
-
-Five facts are enough:
-
-1. His name is Lou.
-2. He lives in Section 412.
-3. He has spent an unreasonable amount of time watching sports from very far away.
-4. He carries binoculars and a notebook.
-5. He sincerely believes the worst seat in the building can still be the best place to see the whole story.
-
-No origin story.
-
-No family tree.
-
-No nemesis.
-
-No sidekick universe.
-
-No lore the reader has to learn.
-
-If additional personality emerges over years, let it emerge through use.
+A newsletter note may occasionally use Lou in first person, capped at two sentences. There is no separate Lou Voice Module in the runtime.
 
 ---
 
-# 17. LOU'S VISUAL DIRECTION
+# 17. VISUAL POSTURE
 
-Lou should look like a real pigeon that has spent too much time at stadiums, not like a plush toy.
+Nosebleeds should be recognizable without making every piece look the same.
 
-The design should favor:
-
-- recognizably pigeon proportions, slightly softened
-- a rumpled or weathered appearance
-- one or two asymmetries that make the silhouette his
-- an old jacket, cap, scarf, or similar sports-fan clothing used sparingly
-- oversized binoculars
-- a small notebook
-- expressive eyes and posture
-- a consistent relationship with an upper-deck seat or stadium ledge
-
-The silhouette must read at avatar scale.
-
-The expression should carry more personality than the props.
-
-The design should never become cute for cuteness's sake.
-
----
-
-# 18. SERIOUS-STORY GUARDRAIL
-
-Lou should not disappear when the subject becomes serious. That would teach readers that he is only a comedy device.
-
-Instead:
-
-> **The presentation becomes quieter.**
-
-No joke in the newsletter note. No expressive mascot badge competing with the story. No visual wink.
-
-The byline remains.
-
-The visual system can determine what "quieter" means. Do not build a detailed costume rulebook before the character is actually illustrated.
-
----
-
-# 19. BYLINE AND VOICE DISTINCTION
-
-The displayed byline may be:
-
-# By Lou
-
-But article prose is not written "as Lou."
-
-The prose is written in the Nosebleeds editorial voice.
-
-Lou may speak in first person only in the narrow presentation surfaces defined by the separate Lou Voice Module.
-
-The newsletter note is capped at two sentences. Social use is occasional and story-register dependent.
-
-He does not speak inside the article.
-
-This distinction is mandatory.
-
----
-
-# 20. LOU AND STORY IMAGERY
-
-Lou never appears in the hero image or inside archival, documentary, or evidence-bearing visuals.
-
-The hero belongs to the story.
-
-Lou may appear as a small brand mark or badge around the package when appropriate, but never in a way that competes with the actual athlete, place, object, crowd, document, or moment.
-
----
-
-# 21. VISUAL IDENTITY PRINCIPLE
-
-Nosebleeds should be recognizable without making every story look the same.
-
-The recurring system should be built around:
+The recurring system is built around:
 
 - strong title
-- subtitle
+- strong subtitle
 - distinctive hero image or visual object
 - consistent typography
 - consistent story-card architecture
-- real sports imagery as the default when reality itself is the story
-- archival material when it deepens or proves the story
+- real sports imagery as evidence where appropriate
+- archival material when it deepens or proves
 - original diagrams or illustration when they explain better
-- Lou as a small brand signature, not a recurring hero image
+- Lou as a small brand signature, not the hero
 
 The subject changes.
 
 The design language stays coherent.
 
-Detailed implementation belongs in the Visual System.
-
 ---
 
-# 22. WHAT THE BRAND MUST NEVER BECOME
+# 18. FAILURE MODES
 
 Nosebleeds fails if it becomes:
 
-- a mascot brand with sports articles attached
 - a history magazine for dead men
-- sports business in a funny jacket
-- "smart sports writing" for insiders
+- a sports-business hub
+- a rule-origin factory
 - generic AI nostalgia
-- a trivia feed
-- a cynical sports account
-- a luxury-magazine imitation
-- a documentary pitch deck in text
-- a machine that explains why sports matter instead of telling stories that make the reader feel it
+- a trivia account
+- an "interesting facts about sports" feed
+- a publication that confuses obscurity with discovery
+- a publication that confuses importance with entertainment
+- a publication that explains why sports matter instead of telling pieces that make the reader feel it
+- a machine that repeatedly discovers the same kind of thing
+
+A slate of ten individually competent pieces can still fail if all ten feel like the same publication section.
 
 ---
 
-# 23. THE BRAND TEST
+# 19. THE BRAND TEST
 
-Before approving a major brand decision, ask:
+Before approving a major editorial or brand decision, ask:
+
+### Would a sports-obsessed consumer actually choose this?
+
+### Is there an immediate reason to care?
+
+### Is the conception more specific than "the history/rise/business of X"?
+
+### Does the piece discover something?
+
+### Does it have a plausible emotional or entertainment payoff?
+
+### Does sport remain the center of gravity?
 
 ### Does this feel like it came from the upper deck?
 
-### Does it love the game?
-
-### Is the story still the star?
-
-### Is it warm without becoming sentimental?
-
-### Is it funny without becoming a bit?
-
-### Is it distinctive without becoming gimmicky?
+### Is the story or idea still the star?
 
 ### Would a normal sports fan want in?
 
@@ -495,24 +560,16 @@ If yes, it is probably Nosebleeds.
 
 ---
 
-# 24. CHANGE LOG
+# 20. CHANGE LOG
 
-## v1.3
+## v1.4
 
-- Kept **Lou the Pigeon** as the mascot and Section 412 as his home.
-- Preserved the principle that Lou is the frame, not the article narrator.
-- Pointed first-person mascot usage to the separate Lou Voice Module instead of duplicating presentation doctrine.
-- Restored the explicit two-sentence maximum for newsletter notes.
-- Kept Lou out of hero imagery and evidence-bearing article visuals.
-- Preserved the simplified mascot mythology and deferred detailed visual implementation to the future Visual System.
-
-## v1.2
-
-- Restored **Lou the Pigeon** as the mascot.
-- Preserved the principle that Lou is the frame, not the article narrator.
-- Kept Section 412 as the mascot's home and brand anchor.
-- Simplified mascot mythology and removed premature costume, animation, and merchandise doctrine.
-- Restored the rule that Lou never appears in hero imagery or evidence-bearing article visuals.
-- Reframed competitive whitespace as an intended position rather than an absolute claim.
-- Removed unverified story examples from permanent brand-positioning copy.
-- Moved detailed visual implementation out of brand doctrine and into the future Visual System.
+- Re-centered Nosebleeds as entertainment for people who cannot get enough sports.
+- Clarified that the publication is unified by taste, not subject category.
+- Clarified that history and business are valid surfaces but not publication identities.
+- Added the fame principle: famous subjects are welcome and carry a discovery burden.
+- Added the obscurity principle: obscurity earns no credit by itself.
+- Distinguished the public promise of stories from the internal operating unit of pieces.
+- Broadened accepted forms beyond mandatory historical narrative.
+- Added consumer-attention competition as an explicit editorial standard.
+- Removed the stale dependency on a separate Lou Voice Module.

@@ -1,726 +1,598 @@
 # NOSEBLEEDS
-## Ideation and Selection Standard v1.2
-### Batch Two
+## Ideation and Commissioning Standard v2.0
+### Discovery should roam. Commissioning should bite.
 
-**Covers:** Story Discovery and Ideation System; Story Qualification and Scoring System.  
-**Inherits:** Master Handoff; Editorial OS v1.0; Build Clarification; Brand Bible v1.3; Voice Bible v0.8.  
-**Relationship to inherited doctrine:** binds by reference and does not restate it.
-
-## Governing asymmetry
-
-> **Batch Four runtime clarification.**
-> This Standard remains the canonical map of Nosebleeds story taste, discovery territory, and editorial judgment. It is not a mandatory runtime schema.
-> The current Batch Four Ideation workflow deliberately separates expansive discovery from expensive research. I1 is a scout, not a Research agent or Story Architect. It is not required to determine a definitive narrative hinge, human carrier, category, archetype, era, turn year, distribution metadata, format target, saturation analysis, or complete Story Brief before a conception may reach the cold evaluator.
-> I2 uses the gates, dimensions, categories, and archetypes below as judgment aids rather than a mechanical checklist. It may commission an idea when the precise hinge, carrier, or final conception remains a research question, provided there is a sourced hook, a plausible story beyond trivia, sports essentiality, sufficient settledness, a credible research path, and no unacceptable harm or living-subject problem.
-> The fourteen-dimensional scorecard remains useful editorial doctrine but is not emitted by the current runtime. I2 returns one holistic Idea Score.
-> Where this document's legacy field requirements or orchestration mechanics conflict with the current Batch Four implementation specification, Batch Four governs runtime behavior.
-
-**Discovery is expansive. Commitment is ruthless.**
-
-The discovery engine is allowed to be generous, weird, and wide. The selection gate is allowed to be cold.
-
-Nothing enters full research until it has survived qualification. Research is the expensive stage, and a polished research packet for a story that cannot become a great Nosebleeds piece is one of the most expensive wastes the system can produce.
+**Status:** Canonical Ideation doctrine.  
+**Supersedes:** Ideation and Selection Standard v1.2.  
+**Runtime roles:** I1 Candidate Generator and I2 Cold Idea Evaluator.
 
 ---
 
-# 1. WHAT MAKES A NOSEBLEEDS STORY
+# 0. THE PURPOSE
 
-A Nosebleeds story is a sports story a fan already half-cares about, in which something turned or decisively changed, people lived through the consequences, the reader discovers something worth knowing, and at least one part of the story escapes the article into conversation.
+Ideation is the most taste-sensitive part of Nosebleeds.
 
-Selection does not test whether the subject is "important." It tests whether there is a story.
+Research can make a good idea truer.
 
-Three operating additions matter.
+Writing can make a good idea better.
 
-## 1.1 The hook fact is a research object before it is a writing object
+Editing can make a good draft sharper.
 
-A pitch is not qualified until it names a specific fact, contradiction, image, number, decision, or situation capable of carrying the first paragraph.
+None of them can reliably rescue a slate built from boring conceptions.
 
-"The shot clock story" is a subject.
+The purpose of Ideation is therefore not to prove the whole article before research.
 
-"An NBA game ended 19 to 18 and a bowling-alley owner helped design the fix" is a candidate hook fact, subject to verification.
-
-Discovery produces subjects.
-
-Qualification demands hook facts.
-
-## 1.2 The narrative hinge must be locatable in time
-
-Prefer a specific game, ruling, decision, arrival, departure, injury, accident, invention, act, or other moment with a visible before and after.
-
-A tightly bounded sequence may qualify when reducing it to one date would falsify the story. The system should record the beginning, end, and decisive moment or moments.
-
-Diffuse evolution without a locatable narrative hinge is an explainer and is rejected or reframed.
-
-"The three-point shot became accepted over time" is not enough.
-
-"The NBA adopted the line in 1979, after years of experimentation, and usage changed sharply over the following decade" contains a hinge and a bounded aftermath.
-
-## 1.3 Settled, not necessarily old
-
-The turn or hinge must have happened and enough aftermath must be visible to tell the story honestly.
-
-A story still changing underneath the writer is news.
-
-The test is:
-
-> **Would the core story, central claim, and reason to read remain valid two years from now?**
-
-The article may still contain dates, anniversaries, or present-day context. Evergreen means the story remains true and interesting, not that every sentence is frozen forever.
+It is to find pieces that justify spending real editorial resources.
 
 ---
 
-# 2. THE STORY UNIVERSE
+# 1. THE GOVERNING PRINCIPLE
 
-## 2.1 Categories
+> **Discovery is creatively expansive. Commissioning is ruthlessly consumer-focused.**
 
-### Canon
+I1 roams.
 
-Famous subjects.
+I2 commits.
 
-Burden:
+Neither node is responsible for pre-writing the article.
 
-> Why does the reader need this version?
+Neither node must lock:
 
-A Canon idea requires a stated revision mechanism such as:
+- a final thesis
+- a definitive protagonist
+- a narrative hinge
+- an article architecture
+- an ending
+- an archetype
+- a category
+- a format
+- a complete chronology
+- a complete source chain
 
-- a neglected character
-- contemporaneous evidence that contradicts the myth
-- the losing side's view
-- a mechanism the standard telling skips
-- documentary evidence the common version does not use
-- a meaningful claim-calibration problem
-
-"Fresh framing" alone does not pass.
-
-### Unknown Part of a Known Thing
-
-The reader already cares about the object, game, athlete, team, league, or event.
-
-Nosebleeds reveals what is underneath.
-
-This is expected to be the highest-velocity acquisition category and should receive disproportionate discovery effort without becoming a quota.
-
-### True Discovery
-
-The subject is unfamiliar to most readers.
-
-Burden:
-
-> Why should I care?
-
-A True Discovery story needs a universal carrier: human stakes, a joke, awe, obsession, injustice, an impossible-looking number, or another instantly legible form of tension.
-
-## 2.2 Archetypes
-
-The primary search lenses are:
-
-- Heretic
-- Problem
-- Institution
-- Wrong Ending
-- Accident
-- Obsession
-- Fan
-- Ending
-- Joke
-
-A strong idea often sits in two.
-
-Archetypes are tags and search lenses, not templates.
-
-## 2.3 Recency
-
-Recency is a **slate-level requirement**, not an individual-story gate.
-
-Every candidate is tagged with the year or bounded period of its narrative hinge.
-
-The visible publication must feel like sports, not sports history. The slate check enforces recent-past representation across published pieces and the research queue.
-
-Individual stories are selected story-first.
-
-## 2.4 Distribution metadata
-
-Every idea carries, from discovery onward:
-
-- natural fanbase
-- team, city, country, or sport community
-- calendar windows in which the story naturally resurfaces
-- declared contagion type: fact, argument, image, feeling
-
-These fields do not rescue a weak story.
-
-They become useful later for slate balance and distribution.
+Those belong to Generation.
 
 ---
 
-# 3. ORIGINALITY AND SATURATION
+# 2. WHAT WE ARE ACTUALLY LOOKING FOR
 
-Saturation is measured against comparable treatments in any medium:
+Nosebleeds is entertainment for people who cannot get enough sports.
 
-- books
-- documentaries
-- podcasts
-- major features
-- long-form video
-- viral threads
-- well-known oral histories
+The ideation engine should therefore ask:
 
-A subject is saturated when a fan who cares about it has probably encountered the standard telling.
+> **What would a sports-obsessed consumer genuinely want to spend time with?**
 
-Saturation does not automatically kill an idea.
+A conception can come from anywhere inside sports:
 
-It raises the burden.
+- games
+- players
+- coaches
+- teams
+- fans
+- rivalries
+- leagues
+- owners
+- stadiums
+- businesses
+- brands
+- contracts
+- labor
+- money
+- media
+- technology
+- rules
+- strategy
+- statistics
+- scandals
+- photographs
+- objects
+- traditions
+- culture
+- superstition
+- fashion
+- equipment
+- cities
+- families
+- communities
+- governing bodies
+- strange one-off events
+- anything else that genuinely belongs to sports
 
-The conception must name what the standard telling gets wrong, leaves out, cannot prove, or has never had. That departure should usually be a fact, person, document, perspective, mechanism, or claim-calibration problem rather than an abstract "angle."
+These are search surfaces.
 
-Canon always carries a saturation note.
+They are not archetypes to fill.
 
-Unknown-Known usually does.
+There are no quotas.
 
-True Discovery rarely does. When it does, the category may be wrong.
+There is no required balance grid.
 
----
+The best slate may contain several pieces from one sport and none from another.
 
-# 4. PUSH DISCOVERY
-
-Push discovery runs on schedule and writes candidates into the backlog. It never selects its own output.
-
-Each run works a rotating set of lanes so the backlog does not collapse toward one sport, era, register, or story shape.
-
-## 4.1 Discovery lanes
-
-### 1. Mythology audit
-Famous stories with a suspected gap between legend and record.
-
-### 2. Rule archaeology
-Why a rule exists, and the incident or problem that created it.
-
-### 3. The ban list
-Things that worked and were later outlawed or constrained.
-
-### 4. Box-score anomalies
-Scores, lines, times, percentages, and records that look wrong or impossible.
-
-### 5. The losing side
-Famous moments reconstructed from the opponent's bench, broadcast, locker room, press, city, or country.
-
-### 6. Court and contract
-Litigation, arbitration, antitrust, labor, eligibility, and restraint-of-trade cases with concrete human consequences.
-
-### 7. Broadcast and media history
-Tape delay, blackouts, cutaways, rights decisions, the first transmission, the last local broadcast, or another media decision that materially changed what fans could see.
-
-### 8. Equipment and technology
-The object that changed the sport and the people around it.
-
-### 9. Promotional disasters and stunts
-Owners, promoters, broadcasters, and leagues with an idea.
-
-### 10. Endings
-Last games, demolished stadiums, relocated teams, final seasons, retirements, discontinued events, and endings that did not go as planned.
-
-### 11. The fan record
-Documented rituals, walls, ownership schemes, protests, pilgrimages, inherited seats, memorials, and collective acts.
-
-### 12. Obituaries of the obscure
-Recent obituaries of people who did one remarkable thing in sports.
-
-### 13. Global sports, familiar shapes
-Cricket, rugby, sumo, cycling, handball, speedskating, athletics, and other sports whose story shape is legible even when the rules are not.
-
-### 14. Olympic oddities
-Discontinued events, wildcard entrants, judging controversies, measurement failures, eligibility anomalies, and strange institutional decisions.
-
-### 15. The number nobody questions
-Famous statistics whose provenance is shaky, definition changed, or conditions no longer exist.
-
-## 4.2 Discovery sources
-
-Discovery may use broad and imperfect sources to find leads. The Research Standard governs evidence.
-
-Useful lead surfaces include newspaper archive indexes; official league and federation databases; sport-specific statistical references; historical societies; sports-law databases; broadcast archives; museums and halls of fame; oral-history projects; documentary catalogues; sports-history podcasts and long-form video; Reddit and sport-specific forums as demand signals and lead sources only; Wikipedia and fan wikis as maps and citation trails only; biographies and autobiographies as leads and attributed accounts; and major and regional obituaries.
-
-Discovery is not permitted to silently promote a lead into evidence.
-
-## 4.3 Lane rotation
-
-Each scheduled discovery run works at least four lanes.
-
-The same combination should not repeat mechanically in consecutive runs.
-
-Every run includes at least one recent-past lane or search strategy and at least one lane likely to yield Joke, Fan, or another lighter human register.
-
-The run records which lanes it worked so the next run can rotate intelligently.
-
-## 4.4 Recent-past lanes
-
-The recent past, roughly the last five to twenty years, receives dedicated search effort because its sources and hindsight problems differ from older history.
-
-Useful recent-past shapes include famous recent games reconstructed from odds, broadcasts, contemporary commentary, and social media; rule changes and the incidents behind them; bans and reversals; stadium or team endings; settled ownership or institutional turns; documented fan actions; and recent famous moments reconstructed before the outcome became obvious in memory.
-
-Every recent-past candidate carries a living-subject flag.
-
-## 4.5 Discovery output
-
-Each candidate is a compact card, not a story brief.
-
-```text
-candidate_id
-working_title
-one_line_hook_fact
-subject_summary
-category: canon | unknown_known | true_discovery
-archetypes: []
-sport
-era
-hinge_date_or_period
-turn_year
-country
-lane
-natural_fanbase
-calendar_windows: []
-contagion_type: fact | argument | image | feeling
-living_subject_flag: yes | no
-lead_sources: [up to 5 URLs actually found]
-saturation_note
-why_now_or_never: optional
-```
-
-Discovery may not invent a hook fact it did not actually find.
-
-A card whose hook fact has no lead source is stored as a **subject**, not a qualified candidate, and cannot pass Gate 1.
+What matters is that the ideas are great and the slate does not reveal lazy search clustering.
 
 ---
 
-# 5. PULL DISCOVERY
+# 3. FAME IS USEFUL
 
-Pull triggers start an investigation outside the weekly push run.
+Famous subjects are welcome.
 
-## Calendar
-A nightly workflow checks the next eight weeks for anniversaries and event windows. Timing is an accelerant, not a selection advantage.
+A famous athlete, team, game, rivalry, photograph, stadium, brand, or league comes with built-in reader investment.
 
-## Current conversation
-A live event may make a settled story newly relevant. The candidate is the settled story, not the live news.
+Do not reject a conception because the surface is familiar.
 
-## Adjacent leads
-Every completed Research Packet produces two to five spinoff leads when they genuinely exist. Over time, this should become one of the engine's highest-quality discovery sources.
+Instead ask:
 
-## Reader replies
-Reader submissions enter the same qualification system.
+> **What is underneath the familiar thing that creates a fresh reason to care?**
 
-## Existing coverage failing
-A viral thread, documentary, feature, or common retelling that appears wrong can generate a mythology-audit candidate.
+A famous subject may be commissioned through:
 
----
+- an unknown side
+- a forgotten person
+- a hidden mechanism
+- a strange business decision
+- a myth that does not survive the record
+- a surprising consequence
+- a perspective fans rarely hear
+- an overlooked object
+- a cultural explanation
+- a human aftermath
+- a better frame for something everybody remembers
 
-# 6. DEDUPLICATION AND COVERAGE SCAN
+Fame increases the discovery burden.
 
-Before qualification, every candidate is checked against the Nosebleeds archive and backlog and against external coverage in any medium.
-
-The scan returns:
-
-```text
-duplicate | adjacent_to: [ids]
-saturation: none | light | heavy
-standard_telling: one line
-```
-
-Exact duplicates are merged. Adjacent stories are linked. Heavy saturation raises the originality burden but does not automatically reject.
+It does not reduce the score.
 
 ---
 
-# 7. BINARY GATES
+# 4. OBSCURITY MUST EARN ATTENTION
 
-A candidate that fails a gate does not proceed to scoring.
+Obscurity is not originality.
 
-## Gate 1: Hook fact exists
-There is one specific fact, contradiction, image, number, decision, or situation with at least one retrieved lead source that actually supports the candidate formulation.
+"Most people have never heard of this" is not enough.
 
-## Gate 2: A locatable narrative hinge exists
-There is a specific moment or tightly bounded sequence that creates a visible before and after. Diffuse evolution with no locatable hinge fails or is reframed.
+An obscure subject must create its own immediate reason to care.
 
-## Gate 3: Human stakes exist
-Someone experienced the consequence. A named person is preferred and is usually the strongest carrier. A documented crowd, team, family, city, fan group, or other collective may carry the story when the collective experience is itself the subject and the consequences are concrete. The system must not invent an artificial protagonist merely to satisfy the gate.
+The test is simple:
 
-## Gate 4: Sport is essential
-The piece fails the different-industry test. Business, media, technology, and legal stories pass only when the turn materially changed what athletes, fans, teams, or the game experienced.
+> **If the reader does not recognize the subject, is the premise itself strong enough to make recognition unnecessary?**
 
-## Gate 5: Settled enough to tell
-The hinge has happened and enough aftermath exists to evaluate its consequences.
-
-## Gate 6: Mass-accessible stakes
-A reader with no specialized knowledge of the sport can understand why the story matters after brief, well-placed explanation. One or two sentences is often enough. The gate is not a literal sentence count.
-
-## Gate 7: Not merely trivia
-The hook opens onto a story with a hinge, human experience, and consequence.
-
-## Gate 8: Preliminary verifiability
-The hook and hinge appear capable of being tested against acceptable sources. A retold anecdote with no traceable origin may pass only as a mythology-audit conception.
-
-## Gate 9: Harm check
-Serious stories are allowed. Exploitation is not.
-
-## Gate 10: Living-subject risk
-For conduct by a living person, the relevant conduct must already be a matter of public record, an on-air event, an official finding, or the person's own public admission in a fit source.
-
-A failed conception may be reframed. The subject itself is not blacklisted.
+If no, reject it.
 
 ---
 
-# 8. FORMAT CLASSIFICATION
+# 5. TOPIC IS NOT CONCEPTION
 
-## Social post
-A single fact with no editorial turn worth telling, or a turn that can be fully delivered in a few sentences.
+I1 should not return categories.
 
-## Quick Story
-**Target:** 600 to 1,000 words. One premise, one hinge, one reaction or consequence, high density.
+Bad:
 
-## Core Story
-**Target:** 1,600 to 2,400 words. Premise, human carrier, reconstruction, hinge, aftermath, and one adjacent thread if useful. Default format.
+> The rise of sports analytics.
 
-## Big Story
-**Target:** 2,800 to 4,000+ words. Rare. Requires at least two genuinely necessary threads, full characters on both sides, or a long institutional aftermath that would become dishonest or thin at Core length.
+Better:
 
-The brief must answer:
+> The number that helped convince basketball to stop taking one of its most familiar shots.
 
-> What specifically cannot be done at 2,400 words?
+Bad:
 
-## Reframe
-The subject is good and the conception is not. Return it to discovery with the failure reason and a suggested new hook, human carrier, hinge, category, or format.
+> How salary caps work.
 
----
+Better:
 
-# 9. THE IDEA SCORECARD
+> The summer one flood of television money distorted the NBA's economy and helped build a superteam everyone hated.
 
-Use the same 0 to 10 scale, in half-point increments, as the article rubric.
+Bad:
 
-The scorecard produces a **profile**, not an average.
+> Stadium naming rights.
 
-Every dimension carries a one-sentence justification grounded in something specific about the candidate or its lead sources.
+Better:
 
-## 9.1 Dimensions
+> How a booming company put its name on one of America's most visible arenas, then disappeared.
 
-### Hook strength
-9+: the hook fact is a bar sentence on its own.  
-7: interesting to a fan of the sport.  
-5: interesting only once explained.  
-Below 5: the article would have to manufacture interest.
+Bad:
 
-### Narrative hinge
-9+: a specific moment or tight sequence with a visible before and after.  
-7: clear hinge with somewhat diffuse edges.  
-5: broad period or evolution.  
-Below 5: no real narrative hinge.
+> The history of free agency.
 
-### Human stakes
-9+: a named person or richly documented collective whose experience visibly bends.  
-7: concrete human consequences but thinner documentation.  
-5: stakes belong mainly to an institution or abstraction.  
-Below 5: nobody in particular experienced anything.
+Better:
 
-### Discovery
-9+: a load-bearing fact, document, or contradiction most fans do not know.  
-7: known fact from an unfamiliar side.  
-5: familiar story told well.  
-Below 5: retelling.
+> The player who knowingly risked his career to challenge the system that controlled where he could work.
 
-### Originality of conception
-9+: no comparable treatment, or the standard telling is demonstrably wrong or incomplete in a load-bearing way.  
-7: comparable treatments exist, but this conception has a distinct hook, human carrier, or finding.  
-5: standard telling with better prose.  
-Below 5: derivative.
+The second version in each pair is not automatically good.
 
-### Mass accessibility
-9+: the stakes are legible with essentially no specialized explanation.  
-7: brief explanation makes them legible.  
-5: needs a setup paragraph.  
-Below 5: insider-only.
-
-### Sports essentiality
-9+: the sport is the sun and every outward thread returns.  
-7: sport is essential, though adjacent themes create some outward pull.  
-5: sport is mostly the setting.  
-Below 5: should have failed Gate 4.
-
-### Emotional potential
-9+: the source material naturally produces laughter, awe, anger, tenderness, dread, or another earned response.  
-7: register is clear and achievable.  
-5: emotional effect depends mostly on execution.  
-Below 5: flat.
-
-### Contagion
-9+: two strong contagious units, with at least one a fact, argument, or image.  
-7: one strong unit.  
-5: shareable mainly inside a narrow fanbase.  
-Below 5: little escapes.
-
-### Researchability
-9+: fit primary or contemporaneous source paths are already visible.  
-7: strong secondary paths with traceable chains.  
-5: record appears thin or contested.  
-Below 5: anecdotal foundation.
-
-### Visual potential
-9+: a real object, document, scoreboard, photograph, map, or artifact could prove or materially deepen the story.  
-7: good real imagery exists.  
-5: illustration or diagram likely needed.  
-Below 5: no clear visual center.
-
-### Fanbase and distribution
-9+: a specific fanbase, city, country, or sport community will naturally carry it, and a strong calendar window exists.  
-7: one of those is clear.  
-5: only the general sports audience.  
-Below 5: no obvious carrier.
-
-### Slate contribution
-9+: fills a named gap in sport, country, era, register, archetype, or category.  
-7: neutral.  
-5: duplicates the visible slate's current center.
-
-### Living-subject risk, inverse
-10: no meaningful living-subject exposure.  
-7: living subjects, load-bearing conduct already on the public record.  
-5: public record incomplete and research must resolve it.  
-Below 5: should have failed Gate 10.
-
-## 9.2 Gating dimensions
-
-- Hook strength: **7.0**
-- Narrative hinge: **7.0**
-- Human stakes: **7.0**
-- Researchability: **7.0**
-- Discovery: **6.0 for Canon and Unknown-Known; 5.0 for True Discovery**
-
-These are viability minimums, not PROCEED thresholds.
-
-## 9.3 Decision
-
-### PROCEED
-Requires all binary gates, all gating thresholds, no dimension below 5.0, at least one of Hook, Discovery, or Originality at 8.5+, at least three editorial-core dimensions at 8.0+, and no fatal target-length objection from the cold skeptic.
-
-Editorial-core dimensions are: Hook, Narrative Hinge, Human Stakes, Discovery, Originality, Mass Accessibility, Sports Essentiality, Emotional Potential, Researchability.
-
-Distribution, visuals, and slate contribution may strengthen a story. They may not substitute for a weak editorial core.
-
-### DEVELOP
-The core gates clear but the conception is not strong enough to justify full research. Return with a specific development instruction.
-
-### REFRAME
-The subject remains promising but the conception is wrong.
-
-### REJECT
-The conception is logged and blocked from automatic regeneration. The subject is not blacklisted.
-
-There is no overall idea number. Store the fourteen-dimensional profile string and the decision.
+It is simply a **piece** rather than a category.
 
 ---
 
-# 10. DEVELOPER AND COLD SKEPTIC
+# 6. WHAT A STRONG CONCEPTION USUALLY HAS
 
-The developer builds the strongest specific case for the idea.
+A strong conception usually contains several of the following.
 
-The cold skeptic receives the candidate, coverage scan, and lead sources but does not receive developer scores or justifications.
+## Consumer pull
 
-The skeptic asks:
+The premise makes a person lean forward.
 
-- What is the standard telling?
-- Does this actually depart from it?
-- Is the hook real or a repeated anecdote?
-- Is the hinge actually locatable?
-- Who experienced the consequence?
-- If the story uses collective stakes, is the collective a real human subject with documented experience and specific consequences, or is "the collective" covering for a missing protagonist?
-- Would a fan outside the sport care?
-- What is the strongest reason this fails at target length?
-- What finding would destroy the conception?
+## Specificity
 
-The skeptic scores independently.
+There is something graspable: a person, event, summer, number, photograph, object, decision, feud, contract, mistake, ritual, or contradiction.
 
-A disagreement of 2.0 or more on a gating dimension is flagged and not averaged. Under the conservative autonomous policy, the lower gating score governs.
+## Discovery
 
-Orchestration organizes judgment. It does not manufacture consensus.
+A sports fan is likely to learn something load-bearing or see something familiar differently.
 
----
+## Feeling
 
-# 11. THE STORY BRIEF
+There is a plausible emotional or entertainment payoff: fascination, laughter, awe, anger, nostalgia, tension, admiration, tenderness, disbelief, grief, delight, or argument.
 
-```text
-brief_id
-candidate_id
-title_working
-subtitle_working
-category
-archetypes: []
-sport
-era
-hinge_date_or_period
-turn_year
-country
-format_target: quick | core | big
-format_justification: required if big
+## Movement
 
-hook_fact
-hook_fact_sources: []
+Something changes, spreads, fails, collides, gets decided, gets resisted, gets misunderstood, gets revealed, or accumulates.
 
-narrative_hinge
-hinge_sources: []
+Movement does not require one datable hinge.
 
-people_or_collective:
-  - name_or_group
-  - role
-  - why_they_carry_the_story
-  - living: yes | no | mixed
+## Sports gravity
 
-collective_stakes_justification:
-  required when the primary human carrier is a collective;
-  one or two sentences explaining why the collective is itself the subject
-  rather than a substitute for a missing protagonist
+The piece genuinely belongs to sports.
 
-discovery_claim
-discovery_current_sources: []
+## Contagion
 
-standard_telling
-departure
+At least one part seems likely to escape into conversation.
 
-register_expected:
-  delight | reconstruction | bite | warmth | restraint | awe
+## Researchability
 
-contagion_type:
-  fact | argument | image | feeling
-
-candidate_contagious_unit
-natural_fanbase
-calendar_windows: []
-visual_leads: []
-
-research_questions: [5 to 10]
-disconfirmation: what finding would kill or materially reframe this conception
-
-risk_flags:
-  living_subject
-  myth_audit_required
-  thin_record
-  harm_sensitive
-
-idea_profile:
-  developer_scores
-  skeptic_scores
-  disagreements
-
-decision: PROCEED
-decision_date
-```
-
-The brief is immutable after PROCEED.
-
-Research may destroy it, improve on it, or force a new conception. Research does not quietly edit history.
+There is a credible path to finding out what actually happened.
 
 ---
 
-# 12. THE SLATE CHECK
+# 7. THE DINNER-TABLE TEST
 
-Run before each selection cycle on the last eight published pieces and the active research queue.
+One of the best Nosebleeds tests is:
 
-Questions include whether the slate feels like sports or sports history, whether recent-past stories are adequately represented, whether Canon dominates, which sports and countries are visible, which registers dominate, whether something funny has appeared recently, whether a Fan or Ending story is present, whether one fanbase is over-served, and whether headline structures are repeating.
+> **Could you describe the premise in one or two sentences at dinner and make people stop talking?**
 
-The output is a short slate note. The next discovery run weights relevant lanes. It does not lower the selection bar.
+Useful reactions include:
 
----
+- "Wait, what?"
+- "Who is this person?"
+- "They did what?"
+- "How did I not know that?"
+- "That is hilarious."
+- "That is brutal."
+- "That is unbelievably cool."
+- "I remember that. I had no idea this was underneath it."
 
-# 13. HUMAN ROLE
+Not every piece needs shock.
 
-There is no mandatory mid-pipeline human gate.
-
-The human may add candidates, mark DO NOT PURSUE, manually promote a DEVELOP idea, or override a model decision.
-
-Every override is logged:
-
-```text
-model_decision
-human_decision
-rationale
-```
-
-The override log becomes taste calibration data.
+But every commissioned piece needs pull.
 
 ---
 
-# 14. RUNTIME IMPLICATIONS
+# 8. HISTORY IS NOT THE DEFAULT
 
-Two discovery workflows write to one backlog:
+Historical material is welcome.
 
-1. Evergreen discovery.
-2. Pull discovery.
+A historical identity is not.
 
-Research workflows write adjacent leads back to the same backlog.
+The discovery engine should not equate "evergreen" with "old."
 
-Qualification runs in batch:
+A slate dominated by pre-2000 pieces is usually evidence that the search has narrowed too far.
 
-1. coverage scan
-2. binary gates
-3. format classification
-4. developer score
-5. cold skeptic score
-6. decision
-7. Story Brief creation on PROCEED
+Recent-past sports is especially valuable because readers remember uncertainty, personalities, media environments, and emotional context firsthand.
 
-Blindness is enforced by the runtime context matrix.
+Use the entire timeline.
 
-The research queue is FIFO among PROCEED briefs, except the slate note may promote a brief that fills a named gap.
+Do not impose a recency quota.
 
-Every candidate, gate, score, disagreement, and decision is written to the ledger with version metadata and timestamp.
-
-From run one, the ledger also tracks the downstream fate of every PROCEED brief:
-
-```text
-research_outcome:
-  PROCEED | REFRAME | KILL
-
-research_fallout_reason:
-  hook_failed
-  hinge_collapsed
-  discovery_saturated
-  discovery_false
-  missing_human_carrier
-  collective_was_missing_protagonist
-  thin_record
-  myth_only
-  living_subject_risk
-  better_conception_found
-  format_change
-  other
-```
-
-The system reports:
-
-```text
-research_fallout_rate =
-  (research REFRAME + research KILL) / idea-stage PROCEED
-```
-
-The rate is monitored from the first run and reviewed after roughly twenty researched briefs.
-
-A high fallout rate does not automatically raise the PROCEED threshold. Research is supposed to destroy weak premises and sometimes discovers a better story. Tighten selection only when a material share of fallout comes from conditions the idea stage reasonably could have detected, such as a missing human carrier, weak hinge, obvious saturation, or a hook whose source path was already thin.
-
-Discovery models may search freely. They may not assert a hook fact without a retrieved source.
+Do notice when the model keeps returning to the museum.
 
 ---
 
-# CHANGE LOG
+# 9. BUSINESS IS NOT THE DEFAULT
 
-## v1.2
+Sports business is rich material.
 
-- Added the cold-skeptic test for whether collective stakes are genuinely the subject or are masking a missing protagonist.
-- Added `collective_stakes_justification` to the Story Brief when a collective is the primary human carrier.
-- Added downstream research-fallout monitoring from run one, with categorized REFRAME/KILL reasons and a review point after roughly twenty researched briefs.
-- Clarified that a high fallout rate only tightens PROCEED when the fallout reflects conditions selection reasonably could have detected.
+It should not dominate the slate merely because money, contracts, and ownership produce easy causal structures.
 
-## v1.1
+A business conception belongs when the reader-facing experience is strong.
 
-- Updated inheritance to Brand Bible v1.3 and Voice Bible v0.8.
-- Replaced the hard "datable turn" rule with a locatable narrative hinge and bounded-sequence exception.
-- Allowed concrete collective human stakes where forcing a named protagonist would falsify the story.
-- Clarified that recency is enforced at the slate level, not as an individual-story quota.
-- Replaced "publish unchanged in two years" with an evergreen-core test.
-- Softened mass-accessibility sentence counting into a functional test.
-- Reworked PROCEED so distribution, visuals, and slate contribution cannot substitute for a weak editorial core.
-- Preserved developer/skeptic blindness, conservative disagreement handling, lane rotation, Story Brief immutability, and the slate check.
+Good questions include:
+
+- What did this decision change about the game?
+- Why did fans care?
+- What strange person or conflict carries the mechanism?
+- What does the money explain that the reader already felt?
+- What did this business decision create, destroy, or distort?
+
+If the piece reads like an industry memo with a jersey on, reject it.
+
+---
+
+# 10. CREATIVE SEARCH SURFACES
+
+The following are prompts for roaming, not categories to fill:
+
+- famous thing, unknown side
+- unforgettable character
+- obsession
+- fan behavior
+- rivalry
+- absurdity
+- mistake
+- scam
+- superstition
+- forgotten loser
+- accidental hero
+- wrong ending
+- collapse
+- rise
+- transformation
+- business inside the game
+- owner behavior
+- labor fight
+- media change
+- technology
+- equipment
+- strategy
+- rule
+- cultural spread
+- ritual
+- city
+- family
+- object
+- photograph
+- record
+- phrase everybody repeats
+- myth versus record
+- beautiful act
+- cruel act
+- impossible coincidence
+- famous game from another angle
+- recent event whose real story is already settled
+- something the scout cannot neatly classify
+
+A great idea that fits none of these is better than a mediocre idea that fits one perfectly.
+
+---
+
+# 11. ANTI-CLUSTERING
+
+I1 should explore much more broadly than the ten candidates it returns.
+
+If the emerging slate clusters around:
+
+- rule origins
+- broadcast technology
+- old institutional history
+- court cases
+- sports business
+- scandal
+- equipment
+- any single sport
+- any single era
+- any single emotional register
+- any other repeated search pattern
+
+the model should keep searching before finalizing.
+
+This is not a quota system.
+
+It is a protection against lazy local maxima.
+
+Ten individually defensible ideas can still be a bad slate if they are ten versions of the same curiosity.
+
+---
+
+# 12. I1: THE DISCOVERY SCOUT
+
+I1's job is:
+
+> **Find exactly ten conceptions that are worth putting in front of a commissioning editor.**
+
+I1 should internally explore far more than ten possibilities.
+
+It should discard competent but ordinary ideas.
+
+For each returned conception, I1 does only enough web research to establish that the central hook is real enough to commission further research.
+
+I1 must open at least one source that directly supports the hook.
+
+I1 is not a Research agent.
+
+Its output stays lean.
+
+Required fields:
+
+- Working Title
+- Core Premise
+- Hook
+- Hook Source URL
+- Hook Source Support
+- Why This Could Work
+- Sport
+- Source Leads
+
+---
+
+# 13. I2: THE COLD COMMISSIONING EDITOR
+
+I2 did not generate the candidates.
+
+It has no obligation to pass any of them.
+
+Its question is:
+
+> **Would you be genuinely excited to spend a full Nosebleeds Generation run discovering and telling the best truthful version of this piece?**
+
+I2 should imagine the piece competing with:
+
+- a sports documentary
+- YouTube
+- a podcast
+- highlights
+- Reddit
+- ESPN
+- TikTok
+- a group chat
+- another article
+
+Would a sports-obsessed consumer choose this?
+
+---
+
+# 14. THE COMMISSIONING TEST
+
+I2 judges holistically:
+
+## Consumer pull
+
+Do I want to read this?
+
+## Conception strength
+
+Is this a specific piece rather than a topic label?
+
+## Discovery
+
+Is there likely to be something new, corrective, or newly framed?
+
+## Entertainment / feeling
+
+Is there a plausible emotional experience?
+
+## Specificity
+
+Can I already glimpse what makes this piece distinct?
+
+## Sports gravity
+
+Does it genuinely belong to the world of sports?
+
+## Contagion
+
+Will something likely escape into conversation?
+
+## Research promise
+
+Is there a credible path to finding the best truthful version?
+
+No dimension is mechanically weighted.
+
+Do not emit a bureaucratic dimension-by-dimension scorecard.
+
+---
+
+# 15. TRUE REJECTION CONDITIONS
+
+Reject when:
+
+- the provided source does not meaningfully support the central hook
+- the conception is merely trivia with no plausible piece behind it
+- the idea is a broad topic with no compelling framing
+- sport is incidental rather than essential
+- the central story is still unfolding in a way that makes evergreen treatment premature
+- there is no plausible responsible research path
+- the framing depends on exploitation
+- a material allegation about a living person lacks public-record grounding
+- the conception feels dutiful rather than genuinely worth consuming
+
+Do not reject merely because:
+
+- the subject is famous
+- the subject is obscure
+- the subject is historical
+- the subject involves business
+- the final hinge is unknown
+- the final protagonist is unknown
+- the final thesis is unknown
+- the final structure is unknown
+- the piece may ultimately be explanatory rather than purely narrative
+
+Those are Generation questions.
+
+---
+
+# 16. THE IDEA SCORE
+
+I2 returns one holistic Idea Score from 0 to 10 in half-point increments.
+
+The launch floor is:
+
+## **8.5**
+
+An 8.5 means:
+
+> **This is promising enough that Nosebleeds should commit real research and editorial resources to figuring out what the best truthful piece actually is.**
+
+It does not mean:
+
+> The article is already figured out.
+
+Passing is a commitment.
+
+Three ideas you cannot wait to research are better than nine competent ones.
+
+Zero passes is acceptable.
+
+A weak slate should not be rescued by lowering the bar.
+
+---
+
+# 17. SLATE CONTEXT
+
+Slate context is a tiebreaker only.
+
+Useful context:
+
+- recent Working Titles
+- recent Core Premises
+- recent Sport counts
+- existing Working Titles + Core Premises for deduplication
+
+Do not use:
+
+- archetype quotas
+- category quotas
+- Story Type quotas
+- era quotas
+- mandatory balance rules
+
+Diversity is valuable because repetition becomes boring.
+
+It is not valuable enough to justify commissioning a weaker piece.
+
+---
+
+# 18. IDEATION QUALITY CONTROL
+
+After each live Ideation run, inspect:
+
+- raw I1 candidate count
+- malformed candidate count
+- I2 received count
+- I2 passed count
+- dropped below 8.5
+- dedup drops
+- rows written
+- thematic clustering
+- era clustering
+- sport clustering
+- whether the ten premises actually feel like ten different reasons to read
+
+A healthy run should not be judged only by pass count.
+
+The better question is:
+
+> **Did the scout bring us ten things a serious sports editor would enjoy arguing about?**
+
+---
+
+# 19. FINAL DOCTRINE
+
+> **Ideation asks: Is there probably an excellent piece here?**
+
+> **Research asks: What is actually true, and what is the best truthful conception?**
+
+> **Editorial Generation asks: What form will make this irresistible?**
+
+> **Review asks: Did we actually make something worth a sports fan's time?**
+
+Ideation is where we kill ideas.
+
+Generation is where we make accepted ideas great.
