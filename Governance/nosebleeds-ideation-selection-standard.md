@@ -8,6 +8,13 @@
 
 ## Governing asymmetry
 
+> **Batch Four runtime clarification.**
+> This Standard remains the canonical map of Nosebleeds story taste, discovery territory, and editorial judgment. It is not a mandatory runtime schema.
+> The current Batch Four Ideation workflow deliberately separates expansive discovery from expensive research. I1 is a scout, not a Research agent or Story Architect. It is not required to determine a definitive narrative hinge, human carrier, category, archetype, era, turn year, distribution metadata, format target, saturation analysis, or complete Story Brief before a conception may reach the cold evaluator.
+> I2 uses the gates, dimensions, categories, and archetypes below as judgment aids rather than a mechanical checklist. It may commission an idea when the precise hinge, carrier, or final conception remains a research question, provided there is a sourced hook, a plausible story beyond trivia, sports essentiality, sufficient settledness, a credible research path, and no unacceptable harm or living-subject problem.
+> The fourteen-dimensional scorecard remains useful editorial doctrine but is not emitted by the current runtime. I2 returns one holistic Idea Score.
+> Where this document's legacy field requirements or orchestration mechanics conflict with the current Batch Four implementation specification, Batch Four governs runtime behavior.
+
 **Discovery is expansive. Commitment is ruthless.**
 
 The discovery engine is allowed to be generous, weird, and wide. The selection gate is allowed to be cold.
