@@ -1,85 +1,196 @@
 # NOSEBLEEDS
-## Runtime Prompt Registry v2.0
+## Runtime Prompt Registry v2.1
+### Source-of-truth map for live prompt files
 
-**Status:** Canonical prompt index.  
-**Source of truth:** individual files under `/Prompts`.
-
-This document deliberately does not duplicate the full runtime prompt text.
-
-The split prompt files are canonical so that n8n always fetches one unambiguous source of truth and governance cannot silently drift from runtime.
+**Status:** Canonical registry  
+**Important:** The individual files in `/Prompts` are the runtime source of truth. This document maps roles and dependencies. It should not duplicate full prompt text.
 
 ---
 
-# Ideation
+# IDEATION
 
-- `Prompts/I1-candidate-generator.md`
-- `Prompts/I2-cold-idea-evaluator.md`
+## I1-candidate-generator.md
+Default Discovery and commissioning.
 
-I1 discovers exactly 10 candidates.
+Provider:
+OpenAI with web search enabled.
 
-I2 is the cold commissioning editor.
+Returns:
+Exactly 10 commissioned ideas.
 
-Current idea floor: **8.5**.
+Key doctrine:
+- appeal before novelty
+- audience gravity
+- famous is welcome
+- no second-model taste gate
+- no numeric idea score
+- find the interesting version
+- default discovery does not fill categories
+
+## I1D-directed-ideation.md
+Directed Ideation for UI requests.
+
+Provider:
+OpenAI with web search enabled.
+
+Supports:
+- profile
+- business / commercial
+- strategy / tactics
+- game / moment
+- season / era
+- team / organization
+- league / institution
+- culture / fandom
+- media
+- money / contracts
+- rules / innovation
+- myth / memory
+- rivalry
+- politics / society
+- place / stadium
+- object / artifact
+- subject-specific or sport-specific combinations
+
+Returns:
+Exactly 10 conceptions unless UI overrides the count.
+
+## I2-cold-idea-evaluator.md
+Deprecated.
+
+Do not call in the live Ideation workflow.
+
+The previous Anthropic 8.5 commissioning gate is removed.
 
 ---
 
-# Generation
+# GENERATION
 
-- `Prompts/G1-research-pass-1.md`
-- `Prompts/G2-research-pass-2.md`
-- `Prompts/G3-research-compiler.md`
-- `Prompts/G4-writer-draft.md`
-- `Prompts/G5-reviewer-a-story.md`
-- `Prompts/G6-reviewer-b-voice.md`
-- `Prompts/G7-reviewer-c-truth.md`
-- `Prompts/G8-eic.md`
-- `Prompts/G9-writer-revision.md`
-- `Prompts/G10-cold-final-review.md`
-- `Prompts/G11-eic-round-two.md`
-- `Prompts/G12-packaging.md`
+## G1-research-pass-1.md
+Landscape, verification, discovery, and opening-up research.
+
+Provider:
+OpenAI with web search.
+
+## G2-research-pass-2.md
+Context, adversary, competing explanations, and deeper-layer testing.
+
+Provider:
+OpenAI with web search.
+
+## G3-research-compiler.md
+Canonical Research document and final conception.
+
+Provider:
+Anthropic or strongest non-browsing editorial model.
+
+## G4-writer-draft.md
+First draft.
+
+Provider:
+Anthropic or strongest long-form writing model.
+
+## G5-reviewer-a-story.md
+Story, depth, cohesion, reader experience.
+
+Provider:
+Fresh-context editorial model.
+
+## G6-reviewer-b-voice.md
+Voice, prose, contextual honesty, emotional payoff, sports magic, contagion.
+
+Provider:
+Fresh-context editorial model.
+
+## G7-reviewer-c-truth.md
+Truth and evidence.
+
+Provider:
+Prefer a provider different from the Writer.
+
+## G8-eic.md
+Round One EIC synthesis.
+
+Provider:
+Strongest editorial model.
+
+## G9-writer-revision.md
+Targeted revision.
+
+Provider:
+Writer model.
+
+## G10-cold-final-review.md
+Fresh-context final review.
+
+Provider:
+Prefer provider different from Writer.
+
+## G11-eic-round-two.md
+Narrow Round Two brief.
+
+Provider:
+Strongest editorial model.
+
+## G12-packaging.md
+Titles, subtitles, hero and supporting visual package.
+
+Provider:
+Strong editorial model.
 
 ---
 
-# Universal
+# UNIVERSAL
 
-- `Prompts/universal-preamble.md`
+## universal-preamble.md
+Compact runtime identity and truth rules.
 
----
+Use only where useful.
 
-# Runtime doctrine
-
-The prompt pack inherits:
-
-- Brand Bible
-- Voice Bible
-- Voice Kernel
-- Ideation and Commissioning Standard
-- Research Standard
-- Narrative Architectures
-- Master Scoring Rubric
-- Production and Review Standard
-- Batch Four Implementation
-
-Where an old duplicated prompt in another document conflicts with a split file under `/Prompts`, the split file governs runtime behavior.
+Do not overload creative Ideation with full downstream production doctrine.
 
 ---
 
-# Editorial v2 shift
+# RUNTIME CONTEXT PRINCIPLE
 
-The current system is built around:
+Default Ideation needs:
 
-> **Nosebleeds is entertainment for people who cannot get enough sports.**
+- compact brand identity
+- Ideation Standard or compact derivative
+- I1
+- relevant recent slate context
 
-History is a surface, not the identity.
+Directed Ideation needs:
 
-Business is a surface, not the identity.
+- compact brand identity
+- Ideation Standard or compact derivative
+- I1D
+- requested lens / subject / sport / query
+- recent slate context where useful
 
-Fame is welcome.
+Research and Generation may load deeper governance.
 
-Obscurity must earn attention.
+Creative discovery should not carry the full production operating system.
 
-The internal operating unit is the piece, not a mandatory historical narrative.
+---
 
-Research locks an editorial spine. It locks a narrative hinge only when one genuinely exists.
+# EDITORIAL V3 SHIFT
 
-This registry exists to prevent prompt duplication from becoming a second source of truth.
+The central change is:
+
+> Start with something worth caring about. Find everything interesting inside it. Choose the version that produces the best reading experience.
+
+Runtime implications:
+
+- audience appeal outranks novelty
+- famous subjects are assets
+- lower-gravity sports face context tax
+- pure sports stories remain valid
+- recap is insufficient
+- every strong piece should open beyond the surface where useful
+- no smoking gun is required
+- multi-dimensional research is encouraged
+- finished articles must remain cohesive
+- profiles are lenses, not biographies
+- hero worship is prohibited
+- article length follows the material

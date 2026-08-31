@@ -1,46 +1,37 @@
 # NOSEBLEEDS
-## Master Scoring Rubric v2.0
-### Measure the piece we actually made.
+## Master Scoring Rubric v2.1
+### Judge the reading experience we actually made.
 
-**Status:** Canonical review instrument.  
-**Supersedes:** Master Scoring Rubric v1.2.
-
-The rubric is an instrument, not a judge.
-
-The EIC produces the editorial verdict.
-
-The human final gate retains taste veto.
-
-A piece that satisfies the instrument and does not feel alive does not publish automatically.
+**Status:** Canonical scoring system  
+**Scale:** 0 to 10, half-point increments  
+**Dimensions:** 17
 
 ---
 
 # 1. SCALE
 
-Every applicable dimension uses:
+## 10
+Exceptional. Memorable. Difficult to improve without changing the piece.
 
-**0 to 10, half-point increments.**
+## 9 to 9.5
+Publication-level excellent. Strong enough to make the archive better.
 
-If a dimension genuinely does not apply:
+## 8 to 8.5
+Very good but with visible opportunity to sharpen.
 
-```text
-N/A
-reason
-```
+## 7 to 7.5
+Competent and useful, but not yet distinctive enough.
 
-Shared anchors:
+## 5 to 6.5
+Dutiful. The piece works mechanically but is not strong consumer entertainment.
 
-**10:** exemplar-level; no meaningful improvement identified.  
-**9.5:** exceptional; publication quality with nothing a strong editor is likely to change.  
-**9:** excellent; one small improvement may exist.  
-**8:** good; a specific meaningful improvement exists.  
-**7:** adequate; does the job but would not be remarked upon.  
-**6:** weak; a reader notices the shortfall.  
-**5:** failing; the shortfall undermines the piece.  
-**3:** badly failing.  
-**0:** absent, fabricated, or actively harmful where applicable.
+## 3 to 4.5
+Homework. Significant editorial failure.
 
-The aspiration is 9.5.
+## 0 to 2.5
+Broken, unsafe, unsupported, or fundamentally unusable.
+
+Scores are judgments against anchors, not arithmetic.
 
 ---
 
@@ -50,77 +41,68 @@ The aspiration is 9.5.
 
 ## A1. Hook
 
-Does the opening give a consumer sports reader a reason to continue?
+Does the opening create an immediate reason to continue?
 
-**9.5:** immediate, specific, and repeatable; first paragraph justifies the click.  
-**8:** clear but mildly delayed or softened.  
-**7:** hook exists but reader works to find it.  
-**5:** setup, biography, context, or thesis arrives before the interesting thing.  
-**3:** could open almost any sports feature.
+**9.5:** Specific, legible, alive, and difficult to ignore.  
+**8:** Strong but could be sharper or faster.  
+**5:** Context before desire.  
+**3:** Generic setup.
 
----
+## A2. Editorial Spine and Depth
 
-## A2. Story
+Does the article have one clear organizing movement, and does it keep rewarding the reader after the initial hook?
 
-Does the piece have a strong organizing conception, or editorial spine, and genuine movement?
+This replaces any requirement for a mandatory hinge.
 
-"Story" here does not mean every piece must be a historical narrative with one hinge and one protagonist.
+**9.5:** The spine is strong, the piece deepens naturally, and the reader keeps receiving new value.  
+**8:** Clear structure with some thinner or less necessary material.  
+**5:** A series of interesting facts without enough organizing force, or a strong hook that becomes thin.  
+**3:** Recap, dump, or shapeless essay.
 
-The spine may be event, character, mystery, argument, mechanism, transformation, rise, collapse, rivalry, obsession, escalation, anatomy, cultural spread, fan experience, or another coherent shape.
+## A3. Human Stakes and Lived Consequence
 
-**9.5:** every major section advances a distinct spine appropriate to the material; the piece could not be reduced to a reference entry.  
-**8:** strong spine with one soft or redundant section.  
-**7:** coherent but familiar or visibly structured.  
-**5:** explainer, retelling, or collection of information without movement.  
-**3:** pile of facts.
+Do people, teams, fans, cities, organizations, or communities experience something that matters?
 
-A single narrative hinge is not required.
+A single named protagonist is not required.
 
----
+**9.5:** Consequences feel concrete and lived.  
+**8:** Stakes are clear but not fully embodied.  
+**5:** Abstract importance.  
+**3:** No felt consequence.
 
-## A3. Human Stakes
+## A4. Discovery and Insight
 
-Does the piece make clear what real people experienced, wanted, lost, gained, changed, or cared about?
+Does the reader get more than the surface version?
 
-"Human Stakes" does not require one named protagonist. It measures lived consequence and human meaning appropriate to the piece.
+Discovery may be:
 
-**9.5:** human consequence is concrete and integral to the piece.  
-**8:** stakes are specific but occasionally told rather than shown.  
-**7:** consequences are legible but texture is thin.  
-**5:** stakes stay abstract or institutional.  
-**3:** nobody experiences anything.
+- factual
+- perspectival
+- causal
+- emotional
+- strategic
+- cultural
+- commercial
+- mythological
+- structural
 
-A named protagonist is not required.
+A secret is not required.
 
-A team, fan collective, city, league, or documented group may carry full human stakes.
+**9.5:** The reader sees the subject differently or more fully.  
+**8:** Meaningful new understanding.  
+**5:** Mostly familiar material.  
+**3:** Summary.
 
-For a mechanism piece, full marks may come from showing how the mechanism changed real choices or experiences.
+## A5. Conception Strength
 
----
+Is this the compelling version of the subject?
 
-## A4. Discovery
+This dimension is not a novelty score.
 
-Does a lifelong fan learn something load-bearing or see something familiar differently?
-
-**9.5:** discovery materially changes the reader's understanding.  
-**8:** strong discovery but less central.  
-**7:** familiar material seen from a useful new side.  
-**5:** standard telling.  
-**3:** nothing beyond the obvious summary.
-
----
-
-## A5. Originality
-
-Relative to the standard telling in the Research Packet:
-
-**9.5:** materially distinct in hook, person, source, mechanism, perspective, argument, or finding.  
-**8:** distinct conception using familiar material.  
-**7:** familiar conception with better execution.  
-**5:** standard treatment.  
-**3:** derivative of a specific treatment.
-
-Obscurity does not count as originality by itself.
+**9.5:** The framing feels inevitable once seen and gives the subject a strong reason to exist as a Nosebleeds piece.  
+**8:** Good conception with some generic edges.  
+**5:** Broad topic or familiar treatment.  
+**3:** Wikipedia premise.
 
 ---
 
@@ -128,112 +110,93 @@ Obscurity does not count as originality by itself.
 
 ## B1. Momentum
 
-Does the piece keep earning the next paragraph?
+Does the reader want the next paragraph?
 
-**9.5:** no meaningful stall; background arrives when the reader wants it.  
-**8:** one soft patch.  
-**7:** one real stall.  
-**5:** sections exist because the research packet contained material.  
-**3:** the reader stops.
+**9.5:** Sustained pull with purposeful changes of pace.  
+**8:** Strong overall with minor stalls.  
+**5:** Dutiful stretches.  
+**3:** Frequently stops.
 
----
+## B2. Structure and Cohesion
 
-## B2. Structure and Flow
+Do multiple dimensions feel woven into one piece?
 
-Is the architecture right for this piece and largely invisible?
-
-**9.5:** order serves the editorial spine; transitions feel necessary; no forced hinge or artificial suspense.  
-**8:** one structural improvement exists.  
-**7:** shape works but shows.  
-**5:** material fights its order.  
-**3:** structure actively obscures the piece.
-
----
+**9.5:** Game, character, business, culture, psychology, or other layers transition naturally and all serve one spine.  
+**8:** Mostly cohesive with visible seams.  
+**5:** Separate mini-essays stacked together.  
+**3:** Fragmented.
 
 ## B3. Accessibility
 
-Could someone who does not follow this sport or mechanism understand the stakes without being treated like an outsider?
+Can a broad sports fan enter without being patronized?
 
-**9.5:** specialized knowledge is explained only when needed and in the smallest useful amount.  
-**8:** one explanation is early, long, or technical.  
-**7:** readable but requires patience.  
-**5:** assumes insider knowledge.  
-**3:** insider-only.
+This includes context tax for lower-gravity sports.
 
----
+**9.5:** Specialized material feels effortless.  
+**8:** Mostly clear with small barriers.  
+**5:** Assumes too much or overexplains.  
+**3:** Insider or textbook language.
 
 ## B4. Entertainment
 
-Is the article a pleasure to read in the register it chose?
+Was this worth choosing over another form of sports entertainment?
 
-Entertainment may mean:
+This is a publication-level dimension.
 
-- delight
-- dread
-- awe
-- tension
-- tenderness
-- fascination
-- anger
-- nostalgia
-- laughter
-- admiration
-- disbelief
-- irresistible curiosity
-
-**9.5:** reader would willingly read it twice or immediately send it; chosen pleasure is sustained.  
-**8:** enjoyable throughout.  
-**7:** fine.  
-**5:** dutiful.  
-**3:** homework.
-
-**Publication guardrail:** a piece scoring 5 or below here cannot be treated as a healthy Nosebleeds piece merely because other dimensions are strong.
+**9.5:** Gripping, funny, moving, fascinating, tense, beautiful, absurd, or otherwise highly pleasurable in its register.  
+**8:** Enjoyable and strong.  
+**5:** Correct and dutiful.  
+**3:** Homework.
 
 ---
 
 # C. THE VOICE
 
-## C1. Voice
+## C1. Nosebleeds Voice
 
 Does it sound like a sports fan who did the reading?
 
-**9.5:** unmistakably Nosebleeds and unmistakably this piece.  
-**8:** one drift into professor, consultant, hype, or prestige feature.  
-**7:** correct but generic.  
-**5:** wrong posture.  
-**3:** another publication.
+Check:
 
----
+- fan-first posture
+- no prestige affect
+- no trade-publication voice
+- no hero worship
+- no lazy contrarianism
+- no clichés substituting for observation
+- register fits the material
+
+**9.5:** Distinctive without performance.  
+**8:** Strong with occasional generic language.  
+**5:** Professional but interchangeable.  
+**3:** Professor, analyst, press release, or model.
 
 ## C2. Prose
 
-Does rhythm follow thought?
+Are the sentences concrete, varied, clear, and alive?
 
-Are ordinary sentences allowed?
+**9.5:** Precise, natural, memorable, never showing off.  
+**8:** Strong with small rhythm or diction issues.  
+**5:** Generic or overworked.  
+**3:** Flat, repetitive, or synthetic.
 
-Does the prose sound written rather than generated?
+## C3. Temporal and Contextual Honesty
 
-**9.5:** natural variation; no device becomes a beat; no hard prohibition violated.  
-**8:** one noticeable tic.  
-**7:** competent with detectable cadence.  
-**5:** obvious AI rhythm, prestige mannerism, or trailer copy.  
-**3:** prose repeatedly calls attention to machinery.
+Does the piece represent what people knew, what evidence supports, and what causality can honestly bear?
 
----
+For event reconstructions:
+- restore uncertainty when useful
+- avoid hindsight leakage
 
-## C3. Restore Uncertainty
+For profiles, business, culture, strategy, or analysis:
+- distinguish later interpretation from contemporaneous fact
+- avoid false causal certainty
+- preserve disputed or attributed claims
 
-Applicable only when the piece reconstructs an event or sequence where contemporaneous uncertainty materially matters.
-
-**9.5:** no hindsight contamination; actual expectations are concrete; no fake doubt.  
-**8:** one mild leak.  
-**7:** some reconstruction but present-day knowledge intrudes.  
-**5:** hindsight throughout.  
-**3:** fundamentally narrated backward from outcome.
-
-For mechanism, argument, culture, anatomy, or other non-reconstruction pieces, `N/A` is often correct.
-
-Do not lower the score because the piece correctly declined to manufacture suspense.
+**9.5:** Context and uncertainty are handled invisibly and precisely.  
+**8:** Minor hindsight or causal compression.  
+**5:** Noticeable retrospective simplification.  
+**3:** Manufactured suspense or false certainty.
 
 ---
 
@@ -241,69 +204,54 @@ Do not lower the score because the piece correctly declined to manufacture suspe
 
 ## D1. Emotional Payoff
 
-Does the piece land in its chosen register without explaining the feeling afterward?
+Does the piece earn feeling rather than announce it?
 
-**9.5:** detail, turn, argument, consequence, or reaction produces the response on its own.  
-**8:** lands with one moment of telling.  
-**7:** lands softly.  
-**5:** emotion is announced.  
-**3:** nothing lands.
-
-A funny piece is not penalized for failing to become sentimental.
-
----
+**9.5:** Emotion emerges from people, scenes, decisions, and consequences.  
+**8:** Real payoff with a few overexplained moments.  
+**5:** Tells the reader what to feel.  
+**3:** Manufactured sentiment.
 
 ## D2. Sports Magic
 
-Internal label only.
+Does the piece make the reader glad sports exist?
 
-Does sport feel alive on the page?
+This may come from:
 
-This may come through:
-
-- play
+- absurdity
+- beauty
 - competition
-- bodies
-- strategy
-- fans
-- ritual
-- teams
-- money changing the game
-- objects
-- rivalries
-- identity
-- ridiculousness
-- stakes
+- fandom
+- scale
+- rivalry
+- human behavior
+- consequence
+- spectacle
+- history
+- business
+- culture
 
-**9.5:** every outward thread returns to sports; the reader feels why this world is worth caring about without being told.  
-**8:** sport is alive but one adjacent thread pulls too far.  
-**7:** sport is present but the piece could partly migrate elsewhere.  
-**5:** sport is mostly setting.  
-**3:** article explains why sports matter instead of making the reader feel it.
-
----
+**9.5:** The piece captures something uniquely compelling about sports.  
+**8:** Strong sports feeling.  
+**5:** Sport feels like subject matter rather than lived culture.  
+**3:** Could happen in another industry.
 
 ## D3. Ending
 
-Does the piece end where the piece ends?
+Does the piece stop at the right place?
 
-**9.5:** final image, action, quote, fact, number, observation, argument, or earned interpretation makes removal worse.  
-**8:** strong ending with one excess sentence.  
-**7:** works but reaches.  
-**5:** closing swell, summary, or lesson.  
-**3:** generic paragraph about what sports mean.
-
----
+**9.5:** Final image, fact, consequence, or line lands without summary.  
+**8:** Good ending with minor excess.  
+**5:** Conclusion paragraph.  
+**3:** Manufactured profundity or unnecessary moral.
 
 ## D4. Contagion
 
-What escapes the piece?
+Does the piece contain material the reader will carry elsewhere?
 
-**9.5:** at least two strong contagious units; at least one can be repeated in one sentence.  
-**8:** one strong unit.  
-**7:** shareable mainly inside a narrow fanbase.  
-**5:** little escapes.  
-**3:** reader cannot clearly say what was interesting.
+**9.5:** Multiple facts, images, arguments, or feelings are highly sendable or memorable.  
+**8:** At least one strong contagious unit.  
+**5:** Pleasant but forgettable.  
+**3:** Nothing travels.
 
 ---
 
@@ -311,87 +259,115 @@ What escapes the piece?
 
 ## E1. Factual Confidence
 
-E1 is computed from the verification report for the current article version.
+This dimension is controlled by the truth review.
 
-The cold scorer does not improvise the truth score.
+### 10
+No material factual issues. All load-bearing claims match the Research document and preserve epistemic state.
 
-The verification report should track at minimum:
+### 9 to 9.5
+No load-bearing issue. Only trivial or copy-level corrections.
 
-```text
-fabrication_count
-invented_source_count
-invented_quote_count
-prohibited_claim_asserted_count
+### 8 to 8.5
+Minor factual or calibration issues that do not alter the piece's central claim, chronology, or meaning.
 
-external_load_bearing_claim_count
-load_bearing_state_mismatch_count
-load_bearing_material_error_count
+### 7 to 7.5
+One or more material but readily fixable issues. No evidence of fabrication.
 
-non_load_bearing_external_unresolved_count
-non_load_bearing_state_mismatch_count
-non_load_bearing_material_error_count
+### 5 to 6.5
+Major unsupported, overstated, or miscalibrated claims, but the piece remains salvageable from the existing Research document.
 
-quote_verbatim_mismatch_count
-statistic_mismatch_count
-metadata_only_warning_count
-```
+### 3 to 4.5
+Critical truth failure affecting a load-bearing claim, quote, chronology, causal argument, or living-person allegation.
 
-Scoring order:
+### 0 to 2.5
+Fabrication, invented sources, invented quotations, invented scenes presented as fact, or a central premise contradicted by the supplied evidence.
 
-**0.0** if any fabrication, invented source, invented quote, or prohibited claim exists.
-
-**3.0** if any load-bearing external claim lacks a usable evidence path.
-
-**5.0** if any load-bearing claim is materially wrong or stated at the wrong epistemic state.
-
-**7.0** if load-bearing claims are sound but meaningful non-load-bearing unresolved or mismatch problems remain.
-
-**8.0** if factual integrity is strong with only minor correctable issues.
-
-**9.0** if verification is clean with no material issue.
-
-**9.5** if verification is clean, claim calibration is exemplary, and no meaningful factual correction is identified.
-
-**10.0** is reserved for unusually demanding pieces where the verification itself is exemplar-level.
+Reviewer C provides the evidence needed to place the score in the band.
 
 ---
 
-# 3. COMMISSIONED SUBJECT DOES NOT GUARANTEE A HIGH SCORE
+# 3. PROFILE-SPECIFIC CHECK
 
-A famous subject is not penalized for fame.
+For profiles, additionally ask:
 
-An obscure subject is not rewarded for obscurity.
+- Is this a conception or a biography summary?
+- Does the subject emerge through behavior, relationships, decisions, consequences, and specifics?
+- Is greatness demonstrated rather than merely declared?
+- Is criticism evidence-based rather than contrarian performance?
+- Does the piece reveal what changed around the subject?
 
-A business subject is not penalized for business.
-
-A historical subject is not rewarded for history.
-
-The rubric evaluates the piece that exists.
+A profile can score highly without scandal or hidden revelation.
 
 ---
 
-# 4. COLD FINAL QUESTION
+# 4. FAMOUS-SUBJECT CHECK
 
-The cold final reviewer must answer:
+For familiar subjects:
+
+> **What does the reader get that the headline, highlight reel, documentary memory, or Wikipedia page does not already provide?**
+
+A reason to retell may be:
+
+- richer experience
+- synthesis
+- perspective
+- myth
+- contradiction
+- causality
+- deeper character
+- afterlife
+- commercial or cultural consequence
+
+No secret is required.
+
+---
+
+# 5. DEPTH CHECK
+
+Do not confuse length with depth.
+
+Ask:
+
+> **Does the piece continue to reveal, entertain, complicate, deepen, or reframe for as long as it asks for attention?**
+
+Penalize:
+
+- padding
+- repeated explanation
+- unnecessary background
+- a one-paragraph idea inflated into a feature
+
+Also penalize:
+
+- rich material compressed before its payoff
+- abrupt endings caused by arbitrary length targets
+
+---
+
+# 6. COLD FINAL QUESTION
+
+After scoring, answer:
 
 > **What is the single strongest reason not to publish this piece?**
 
-This question prevents a high average from hiding one fatal problem.
+Then:
 
-The reviewer must also name:
+> **Does it sing?**
 
-> **Strengths to preserve**
-
-because revision can damage what already works.
+A high average cannot hide a piece that is technically competent and dead.
 
 ---
 
-# 5. HUMAN TASTE VETO
+# 7. HUMAN TASTE VETO
 
-A piece can score well and still feel wrong.
+The rubric is a diagnostic instrument.
 
-The final human gate may reject for taste.
+It is not the publication.
 
-No numerical system replaces that judgment.
+An editor may reject a high-scoring piece that does not feel worth publishing.
 
-The rubric exists to sharpen editorial judgment, not automate taste.
+An editor may protect an unusual piece whose profile is uneven but whose strengths are exceptional.
+
+Truth gates remain non-negotiable.
+
+Taste remains human.

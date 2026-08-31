@@ -1,460 +1,405 @@
 # NOSEBLEEDS
-## Narrative Architectures v2.0
-### The material chooses the shape.
+## Narrative Architectures v2.1
+### One spine, many layers.
 
-**Status:** Canonical architecture doctrine.  
-**Supersedes:** Narrative Architectures v1.2.
+**Status:** Canonical structural guidance  
+**Principle:** The material chooses the shape
 
 ---
 
 # 0. GOVERNING RULE
 
-There is no universal Nosebleeds article structure.
+Nosebleeds does not have one article formula.
 
-There is no universal narrative hinge.
+A piece may be:
 
-Every piece needs a strong editorial spine.
+- a game reconstruction
+- a profile
+- a season
+- a rivalry
+- a collapse
+- a rise
+- a business story
+- a mystery
+- an argument
+- a cultural phenomenon
+- a mechanism
+- a character pursuit
+- a myth audit
+- a fan story
+- an object-led piece
 
-The spine may be:
+The important structural requirement is not a hinge.
 
-- event
-- character
-- question
-- mechanism
-- argument
-- rise
-- collapse
-- rivalry
-- obsession
-- escalation
+It is:
+
+> **One coherent editorial spine.**
+
+The article may contain many dimensions.
+
+Those dimensions must weave back into that spine.
+
+---
+
+# 1. THE TAPESTRY RULE
+
+Research can roam.
+
+Writing must cohere.
+
+A piece about 28-3 might include:
+
+- play sequence
+- coaching decisions
+- clock management
+- changing belief
+- hindsight
+- Brady mythology
+- Falcons trauma
+- the afterlife of the score
+
+That can be excellent if it feels like one story about the collapse.
+
+It fails if it reads like separate sections called:
+
+- The Game
+- The Psychology
+- The Business
+- The Culture
+
+The writer should move between layers at the moment the reader wants them.
+
+The transitions should feel inevitable.
+
+---
+
+# 2. WHAT A SPINE DOES
+
+The spine answers:
+
+> **What keeps pulling the reader forward?**
+
+Examples:
+
+- Can Atlanta actually lose this?
+- What was it like to compete against Tiger Woods?
+- How did the Yankees become an institution people both worship and hate?
+- Why did fantasy football change the emotional logic of being a fan?
+- How did a one-year rental become immortal in Toronto?
+- What really happened to Michael Jordan before the Flu Game?
+- How did the NBA learn to sell stars?
+
+The spine is not necessarily a thesis.
+
+It may be a pursuit, sequence, question, transformation, relationship, contradiction, or argument.
+
+---
+
+# 3. CORE SHAPES
+
+These are options, not templates.
+
+## 3.1 Event reconstruction
+
+Best when a game, race, fight, match, sequence, or day is inherently dramatic.
+
+Use:
+- real-time belief
+- decision points
+- score and clock
+- reactions
+- tactical context
+- consequences
+
+The event remains the spine.
+
+Open outward only where it deepens the event.
+
+## 3.2 Famous moment revisited
+
+Best when the audience already knows the headline.
+
+The article needs a reason to retell.
+
+Possible centers:
+- other side
+- myth versus memory
+- neglected person
+- chain of causes
+- cultural afterlife
+- richer reconstruction
+- hidden contradiction
+- one image
+- one decision
+
+## 3.3 Profile through a lens
+
+Best for athletes, owners, coaches, teams, leagues, brands, or institutions.
+
+Do not default to chronology.
+
+Possible spines:
+- through opponents
+- through one relationship
+- two careers
+- what changed around the subject
+- one contradiction
+- one obsession
+- one recurring decision
+- rise, fall, reinvention
+
+## 3.4 Season / era
+
+Best when the meaningful unit is broader than one event.
+
+Organize around:
+- escalating pressure
 - transformation
-- cultural spread
-- comparison
-- mystery
-- another shape earned by the material
+- pursuit
+- collapse
+- cultural change
+- rivalry
+- accumulated consequences
 
-A real hinge is powerful when it exists.
+Avoid yearbook recap.
 
-Never manufacture one because a template expects it.
+## 3.5 Rise / spread
 
-The architecture is scaffolding.
+Best for phenomena such as fantasy football, sneaker culture, analytics, a tactic, or a media behavior.
 
-The reader should not see it.
+Keep people and lived experience inside the movement.
 
----
+Do not turn the article into a white paper.
 
-# 1. HOW TO CHOOSE A SHAPE
+## 3.6 Business inside the game
 
-Read the Research Packet and answer:
+Best when money, ownership, media, contracts, brands, or commercial incentives materially explain why the sport looks or feels the way it does.
 
-1. What is the strongest verified hook?
-2. What is the final editorial spine?
-3. What kind of movement makes the reader want the next paragraph?
-4. Is there a genuine narrative hinge?
-5. Who or what carries the piece?
-6. What does the reader already know?
-7. Where is the real discovery?
-8. What register does the evidence support?
-9. What does the reader need explained, and when?
-10. What ending has the strongest earned payoff?
-11. What visuals can prove, show, or explain?
+Translate the mechanism into human and sporting consequence.
 
-Choose the architecture after answering those questions.
+The fan should never feel they wandered into a trade publication.
 
-Do not choose the architecture because a subject belongs to a category.
+## 3.7 Strategy / anatomy
 
----
+Best for a tactic, system, loophole, collapse, decision sequence, or competitive problem.
 
-# 2. CORE SHAPES
+Use concrete game situations.
 
-## 2.1 Chronological reconstruction
+Explain only as much as the reader needs.
 
-Events proceed in deliberately chosen order.
+## 3.8 Myth / memory
 
-**Works when:** sequence itself creates discovery and uncertainty.
+Best when public memory and record differ, or when the making of the myth is itself fascinating.
 
-**Fails when:** chronology becomes history for history's sake.
+Respect the legend while checking it.
 
-**Movement:** each step changes what people know, expect, or can do.
+## 3.9 Rivalry / relationship
 
-**Ending:** concrete aftermath.
+Best when two people, teams, cities, institutions, or ideas define one another.
 
----
+Movement comes from interaction.
 
-## 2.2 Cold open and rewind
+## 3.10 Character / obsession
 
-Begin inside a vivid moment, stop before the relevant payoff, rewind, then return.
+Best when one person's pursuit, eccentricity, fear, ego, invention, or persistence carries the piece.
 
-**Works when:** the moment is strong and the road to it contains real discovery.
+Do not turn personality into caricature.
 
-**Fails when:** rewind becomes context dump.
+## 3.11 Culture / fandom
 
----
+Best when the meaningful subject is how people collectively experience sports.
 
-## 2.3 Character
+Keep the sport concrete.
 
-One person is interesting enough to carry the piece.
+## 3.12 Object / place
 
-**Works when:** personality, decisions, contradictions, obsession, ambition, failure, invention, or consequence create movement.
+Best when a shoe, photograph, stadium, trophy, uniform, ball, document, or other artifact unlocks a larger story.
 
-**Fails when:** biography becomes chronology without a conception.
-
-**Hook:** the most specific thing that makes this person worth meeting.
+The object is the doorway, not necessarily the entire article.
 
 ---
 
-## 2.4 Obsession
+# 4. OPENING OUTWARD
 
-A life or effort organized around a margin, ritual, pursuit, record, object, or impossible goal.
+A piece may begin narrow and become larger.
 
-**Works when:** repetition itself builds pressure.
+That is often desirable.
 
-**Fails when:** it becomes motivational profile copy.
+The expansion should feel earned.
 
----
+Good outward moves include:
 
-## 2.5 Mystery
+- a game into a city's identity
+- an athlete into the transformation of a sport
+- a contract into labor power
+- a shoe into culture
+- a rivalry into national politics
+- a score into sports language
+- a photograph into memory
+- a tactic into changing ideas about risk
 
-A real question is posed and the piece assembles evidence toward an answer or honest non-answer.
+The rule:
 
-**Works when:** the record genuinely contains contradiction or uncertainty.
-
-**Fails when:** the question is rhetorical.
-
----
-
-## 2.6 Rivalry
-
-Two people, teams, ideas, institutions, or styles in opposition form the spine.
-
-**Works when:** both sides are real agents.
-
-**Fails when:** one side exists only as a foil.
+> **Open outward through the story, not away from it.**
 
 ---
 
-## 2.7 Wrong ending
+# 5. HINGES
 
-The official result, popular memory, credit, blame, or historical ending feels incomplete or wrong.
+A hinge is useful when a real decision, event, or moment changes what follows.
 
-**Works when:** evidence and aftermath create a genuine argument.
+Use one when it exists.
 
-**Fails when:** grievance substitutes for evidence.
+Do not manufacture one.
 
----
+A profile may have no hinge.
 
-## 2.8 Fan story
+A cultural phenomenon may have several turns.
 
-What people did because they cared.
+A business story may move through accumulation rather than reversal.
 
-**Works when:** actions, rituals, objects, places, journeys, inheritance, or collective behavior carry the piece.
+A season may have a sequence of pressure points.
 
-**Fails when:** fans are reduced to generic quotes about feelings.
-
----
-
-## 2.9 Comedic escalation
-
-Things get stranger, worse, or more official in a sequence.
-
-**Works when:** verified facts create their own comedy.
-
-**Fails when:** the writer has to manufacture jokes or pad the sequence.
+The spine matters more than the hinge.
 
 ---
 
-## 2.10 Myth versus record
+# 6. PROTAGONISTS
 
-The standard telling meets the documents.
+A single protagonist is optional.
 
-**Works when:** the record changes the story.
+The piece may be carried by:
 
-**Fails when:** debunking becomes the point and the corrected version is less interesting.
-
----
-
-## 2.11 Unknown part of a known thing
-
-Start from something the reader already recognizes, then go underneath it.
-
-**Works when:** familiarity creates immediate investment and the underneath is load-bearing.
-
-**Fails when:** the discovery is trivia.
-
----
-
-## 2.12 Object-led
-
-A shoe, bat, jersey, ticket, letter, photograph, contract, stadium feature, piece of equipment, or other object carries the story.
-
-**Works when:** the object changes meaning or reveals a larger world.
-
-**Fails when:** the object is only decorative.
-
----
-
-## 2.13 Mechanism
-
-The piece explains how something actually works and why fans should care.
-
-Possible subjects:
-
-- salary cap
-- transfer system
-- draft lottery
-- media rights
-- equipment standard
-- strategy
-- betting market
-- replay system
-- ranking system
-- ownership structure
-
-**Works when:** the mechanism answers a question the reader already wants answered.
-
-**Fails when:** explanation becomes textbook.
-
-**Movement:** each layer changes the reader's understanding of what they see in sports.
-
----
-
-## 2.14 Rise / spread
-
-Something goes from fringe to ubiquitous.
-
-Possible subjects:
-
-- fantasy sports
-- a tactic
-- a celebration
-- a brand
-- a statistic
-- a training method
-- a fan ritual
-- a media behavior
+- one person
+- a pair
+- a team
+- a city
+- a fan base
 - a league
+- an organization
+- several documented people
+- a collective experience
+- an event
+- a mechanism
+- an object
 
-**Works when:** the spread has identifiable agents, resistance, accelerants, and consequences.
-
-**Fails when:** the piece becomes generic trend history.
-
----
-
-## 2.15 Collapse
-
-A team, dynasty, league, business, relationship, strategy, or institution comes apart.
-
-**Works when:** there is a real mechanism of failure and meaningful consequences.
-
-**Fails when:** hindsight makes collapse feel inevitable.
+Do not invent a hero to simplify the structure.
 
 ---
 
-## 2.16 Argument
+# 7. CONTRADICTIONS
 
-The piece makes a clear evidence-driven interpretation of something sports fans care about.
+Contradiction is a strong structural engine.
 
 Examples:
 
-- why a team became uniquely hated
-- why a league never adopted a policy
-- why a player is remembered for the wrong thing
-- why a familiar explanation is incomplete
+- success creating the conditions for failure
+- a star too famous for the league he joined
+- fans rooting against their own team because of fantasy
+- a technique that works but feels humiliating
+- owners controlling assets supporters believe belong to them
+- an opponent who admires the person he must defeat
 
-**Works when:** evidence accumulates and the strongest counterargument is treated seriously.
+If a contradiction is real, let it create movement.
 
-**Fails when:** opinion arrives before reporting.
-
----
-
-## 2.17 Anatomy
-
-Take apart a familiar phenomenon and reveal its components.
-
-Examples:
-
-- what makes a mascot valuable
-- what actually happens on a game day behind one tradition
-- how a superstar brand ecosystem works
-- why a particular rivalry behaves differently
-
-**Works when:** each component surprises or deepens the whole.
-
-**Fails when:** the piece becomes a list.
+Do not force one merely because it sounds clever.
 
 ---
 
-## 2.18 Culture
+# 8. MEANING
 
-A sports behavior, identity, hatred, phrase, ritual, tradition, fashion, or norm becomes embedded in fandom.
+Meaning should emerge from specifics.
 
-**Works when:** the piece can show how the culture spread and what people did with it.
+Do not stop the story to announce:
 
-**Fails when:** it becomes sociology with sports as an example.
+> This was really about identity.
 
----
+Show the facts, decisions, behavior, consequences, and reactions that make identity relevant.
 
-## 2.19 Institutional decision
+Concrete first.
 
-A league, city, network, court, governing body, team, or business decides something that changes the sports experience.
-
-**Works when:** the decision is concrete and its consequences are visible.
-
-**Fails when:** process replaces story.
+Meaning second.
 
 ---
 
-## 2.20 Business inside the game
+# 9. PROFILE RULES
 
-Money, ownership, distribution, media, brands, labor, law, or commercial strategy changes what fans, athletes, teams, or leagues experience.
+For profiles:
 
-**Works when:** the sport-side consequence remains central.
+- choose a conception before choosing chronology
+- use biography only where it serves the conception
+- let greatness emerge from evidence
+- include contradiction and vulnerability when relevant
+- do not worship
+- do not manufacture scandal
+- use other people to reveal the subject
+- show what changed around the subject
 
-**Fails when:** it reads like a trade memo.
-
-**Rule:** end on the game, person, fan, team, or culture, not the spreadsheet.
-
----
-
-# 3. BORROWABLE MOVES
-
-Any architecture may borrow these moves.
-
-## The silence before
-
-A brief pause before a real turn.
-
-Use sparingly.
-
-## The other side
-
-Show the opponent, loser, foreign press, forgotten person, or alternate perspective.
-
-## The document
-
-Let a contract, memo, rule, court opinion, letter, ad, or official statement speak.
-
-## The number
-
-Give a verified figure enough space to register.
-
-## The reaction
-
-Show what the relevant human environment did.
-
-## The later fact
-
-One later fact can recontextualize the whole piece.
-
-## The mechanism reveal
-
-Delay technical explanation until the reader has formed the question it answers.
-
-## The famous surface
-
-Use recognition quickly, then move underneath it.
-
-## The counterargument
-
-For argumentative or causal pieces, let the strongest competing explanation into the room.
+The profile should leave the reader understanding the subject better, not merely knowing more facts.
 
 ---
 
-# 4. ARCHITECTURE RULES
+# 10. LENGTH
 
-## No mandatory hinge
+Architecture determines length.
 
-If a hinge exists, use it.
+No shape has a fixed target.
 
-If not, do not invent one.
+A piece should continue only while it continues to reward the reader.
 
-## No mandatory protagonist
+Do not expand thin material.
 
-A person can carry a piece.
+Do not compress rich material.
 
-So can a rivalry, fan collective, mechanism, object, business decision, city, league, or cultural phenomenon.
-
-## No mandatory suspense
-
-Some pieces are powered by understanding rather than uncertainty.
-
-## No mandatory chronology
-
-Chronology is a tool, not a default.
-
-## No mandatory solemnity
-
-A funny piece is allowed to remain funny.
-
-## No mandatory lesson
-
-Do not turn every piece into an argument about what sports means.
+End when the piece is over.
 
 ---
 
-# 5. THE BEAT PLAN
+# 11. BEAT PLAN
 
-Architecture should produce a beat plan, not a section outline.
+Before drafting, the writer or compiler should be able to state:
 
-Recommended fields:
+## Hook
+Why the reader enters.
 
-```text
-shape_primary
-shape_borrowed_moves: []
+## Spine
+What keeps them moving.
 
-editorial_spine
+## Key turns
+The major movements, not necessarily hinges.
 
-hook
-reader_question_created
+## Layers
+What the story opens up.
 
-movement_engine
+## Return paths
+How each layer reconnects to the spine.
 
-narrative_hinge:
-  value | N/A
-  reason
+## Payoff
+What the reader should understand or feel by the end.
 
-carrier:
-  person | people | team | fan collective | institution |
-  mechanism | object | rivalry | culture | other
+## Ending
+The natural final image, fact, consequence, or realization.
 
-register
-
-format:
-  quick | core | big
-
-beats:
-  - beat
-  - what changes for the reader
-  - why the next beat is wanted
-  - evidence needed
-
-ending
-fallback_ending
-
-visual_needs:
-  - prove_it
-  - show_it
-  - explain_it
-```
-
-The reader should never see these labels.
+This is guidance, not a mandatory visible outline.
 
 ---
 
-# 6. FINAL TEST
+# 12. FINAL TEST
 
-Before architecture goes to the writer, ask:
+### Is there one coherent piece?
 
-### Does this shape fit the material, or are we forcing the material into a favorite shape?
+### Does every major layer make the sports story better?
 
-### Does the piece have real movement?
+### Are we opening outward through the story rather than away from it?
 
-### Is the discovery placed where it has maximum effect?
+### Is the structure carrying entertainment, not merely information?
 
-### Are explanations delayed until the reader wants them?
+### If the subject is famous, is there a reason to experience it again?
 
-### Is a hinge used only if it actually exists?
+### If this is a profile, is it a conception rather than a biography?
 
-### Does the structure serve consumer pull?
+### Is meaning earned through specifics?
 
-If yes, draft.
+### Does the length fit the material?
+
+If yes, the architecture is probably right.

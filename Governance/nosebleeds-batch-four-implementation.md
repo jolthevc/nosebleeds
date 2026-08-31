@@ -1,50 +1,29 @@
 # NOSEBLEEDS
-## Batch Four Implementation v2.3
-### Simple orchestration, sophisticated editorial intelligence
+## Batch Four Implementation v2.4
+### Simple orchestration, sophisticated editorial judgment
 
-**Status:** Canonical n8n implementation specification.  
-**Supersedes:** Batch Four Implementation v2.2 where conflicts exist.
+**Status:** Canonical n8n implementation guidance
 
 ---
 
 # 0. CORE IMPLEMENTATION PRINCIPLE
 
-> **KEEP THE EDITORIAL INTELLIGENCE SOPHISTICATED. KEEP THE N8N IMPLEMENTATION SIMPLE.**
+Keep orchestration simple.
 
-Detailed markdowns teach models how to think.
+Put editorial intelligence in prompts and governance, not in a forest of deterministic gates.
 
-n8n primarily:
+The system has two primary workflows:
 
-- fetches context
-- calls models
-- validates outputs
-- moves strong output to the next node
-- writes human-readable state
+1. Ideation
+2. Generation
 
-Do not build an orchestration bureaucracy around the editorial system.
+A third UI action, Directed Ideation, may reuse the Ideation workflow with a different prompt.
 
 ---
 
-# 1. TWO WORKFLOWS
+# 1. GOOGLE SHEET
 
-Only two editorial workflows are required:
-
-1. **Ideation Workflow**
-2. **Generation Workflow**
-
-A lightweight GitHub Pages console may sit on top of the Google Sheet.
-
-No separate editorial-learning workflow.
-
-No automated learnings file.
-
-No hidden memory loop.
-
----
-
-# 2. GOOGLE SHEET
-
-Canonical human-readable columns:
+Canonical columns:
 
 - Idea ID
 - Working Title
@@ -63,17 +42,23 @@ Canonical human-readable columns:
 - Generated Date
 - Human Notes
 
-`Story Type` and `Human Carrier` are not required runtime fields.
+`Idea Score` may remain for compatibility.
 
-If old physical columns remain in the Sheet, leave them blank.
+The new Ideation workflow does not depend on it and should not manufacture a numeric score.
 
-Do not add Hook Source URL or Hook Source Support as required human-facing columns. Those are transient I1 to I2 evidence fields.
+Optional future metadata:
+
+- Ideation Mode
+- Requested Lens
+- Requested Subject
+
+These are not required for the current schema.
 
 ---
 
-# 3. STATUS VALUES
+# 2. STATUS VALUES
 
-Allowed statuses:
+Use:
 
 - READY
 - HOLD
@@ -85,432 +70,407 @@ Allowed statuses:
 
 Meaning:
 
-**READY:** commissioned and eligible for Generation.  
-**HOLD:** do not generate.  
-**GENERATING:** active Generation run.  
-**READY_FOR_REVIEW:** machine finished; human review next.  
-**PUBLISHED:** human marked published.  
-**REJECTED:** human rejected before Generation.  
-**ERROR:** operational failure, not ordinary editorial reservation.
+## READY
+Commissioned and eligible for Generation.
+
+## HOLD
+Human wants to retain idea but not generate yet.
+
+## GENERATING
+Locked by active Generation run.
+
+## READY_FOR_REVIEW
+Machine editorial process is complete or has reached the two-round limit.
+
+## PUBLISHED
+Published.
+
+## REJECTED
+Human rejection or explicit manual retirement.
+
+## ERROR
+Technical failure, not editorial hesitation.
 
 ---
 
-# 4. PRIORITY
+# 3. PRIORITY
 
 Priority 1 is highest.
 
-Ideation default: 3.
-
-Generate Next Story selects:
+Generation selects:
 
 1. highest-priority READY row
-2. earliest Created Date among ties
+2. then oldest Created Date
 
-If any row is already `GENERATING`, Generate Next Story refuses to start another run.
+No numeric idea score is required for ordering.
 
 ---
 
-# 5. IDEATION WORKFLOW
+# 4. DEFAULT IDEATION WORKFLOW
 
-## Goal
+Goal:
 
-Return exactly 10 strong candidate conceptions from I1.
+Create exactly 10 commissioned Nosebleeds ideas.
 
-Let I2 commission only the ideas that clear the editorial bar.
+Flow:
 
-## Runtime context
+Trigger
+↓
+Load compact Brand + Ideation context
+↓
+Load recent slate note
+↓
+OpenAI I1 with web search
+↓
+Parse JSON
+↓
+Deterministic schema validation
+↓
+Deterministic deduplication
+↓
+Create IDs / metadata
+↓
+Write 10 READY rows
+↓
+Run summary
 
-Fetch fresh from GitHub:
+There is no Anthropic I2 gate.
 
-- Brand Bible
-- Ideation and Commissioning Standard
+There is no 8.5 commissioning threshold.
+
+There is no second LLM pass/fail evaluator.
+
+The creative model is responsible for exploring widely before returning only its best 10.
+
+---
+
+# 5. DEFAULT IDEATION CONTEXT
+
+Pass:
+
+- compact brand identity
+- current Ideation Standard or concise derivative
 - I1 prompt
-- I2 prompt
-- universal preamble if used by the implementation
+- recent slate context
 
-Build a Slate Note from:
+Do not pass:
 
-- last 10 Working Titles
-- last 10 Core Premises
-- recent Sport counts
-- all existing Working Titles + Core Premises for deduplication
+- full Research Standard
+- full Production & Review Standard
+- full Narrative Architectures
+- reviewer prompts
+- visual system
+- scoring machinery
 
-Do not build:
+Creative ideation benefits from taste and freedom.
 
-- archetype quotas
-- category quotas
-- Story Type counts
+---
+
+# 6. IDEATION VALIDATION
+
+Mechanical checks only:
+
+- valid JSON
+- exactly 10 ideas
+- required fields
+- non-empty title
+- non-empty premise
+- non-empty hook
+- hook source URL
+- hook support text
+- valid source list structure
+- exact duplicates
+- obvious near-duplicates of the same underlying piece
+
+Do not enforce:
+
+- sport quotas
 - era quotas
-- human-carrier quotas
+- archetype quotas
+- protagonist
+- hinge
+- story type
+- numeric score
+- number of business stories
+- number of famous subjects
+
+If output formatting fails, retry once with a formatting repair instruction.
+
+If editorial quality is disappointing, fix the prompt rather than layering a second gate.
 
 ---
 
-# 6. I1 CANDIDATE GENERATOR
+# 7. DIRECTED IDEATION
 
-Provider: OpenAI with web search.
+UI may call Directed Ideation with:
 
-I1 should explore broadly and return exactly 10 candidates.
+- lens
+- subject
+- sport
+- freeform query
+- combinations
 
-I1 contract:
+Examples:
 
-```json
-{
-  "candidates": [
-    {
-      "working_title": "",
-      "core_premise": "",
-      "hook": "",
-      "hook_source_url": "",
-      "hook_source_support": "",
-      "why_this_could_work": "",
-      "sport": "",
-      "source_leads": []
-    }
-  ]
-}
-```
+- Profile
+- Tiger Woods + Profile
+- NBA + Business
+- NFL + Strategy
+- Olympics + Politics
 
-Required per candidate:
+Flow is the same as Default Ideation except it uses `I1D-directed-ideation.md`.
 
-- `working_title`
-- `core_premise`
-- `hook`
-- `hook_source_url`
-- `hook_source_support`
-- `why_this_could_work`
-- `sport`
+Directed Ideation returns conceptions, not generic category results.
 
-`source_leads` must be an array.
+If the requested subject is Tiger Woods, ten results should be ten different compelling pieces about Tiger, not ten chronological summaries.
 
-An empty `source_leads` array does not kill the candidate if the primary hook URL is valid.
+Directed output may be written to the Sheet or shown first for human selection depending on UI design.
 
 ---
 
-# 7. I1 VALIDATION
+# 8. AUDIENCE GRAVITY IN IMPLEMENTATION
 
-Validation asks:
+Do not encode 70/20/10 as hard logic.
 
-> **Did the scout return an intelligible conception and a real sourced hook?**
+It belongs in editorial guidance.
 
-It does not ask:
+The model should understand:
 
-> Has the article already been researched and architected?
+- broad audience interest matters
+- core U.S. sports should naturally dominate the archive
+- lower-gravity sports need stories that travel
+- sport diversity is not a goal by itself
 
-Do not require:
-
-- narrative_hinge
-- human_carrier
-- story_type
-- archetype
-- hinge_year
-- living_subject
-
-Malformed candidate count should normally be zero or very low.
+Do not implement deterministic sport filters.
 
 ---
 
-# 8. I2 COLD COMMISSIONING EDITOR
+# 9. GENERATION WORKFLOW
 
-Provider: Anthropic, no search.
+Flow:
 
-I2 receives:
+Select highest-priority READY
+↓
+Atomic status update to GENERATING
+↓
+Create / confirm Drive folder
+↓
+G1
+↓
+G2
+↓
+G3
+↓
+Write canonical Research doc
+↓
+G4
+↓
+G5 + G6 + G7
+↓
+G8
+↓
+G9
+↓
+G10
+↓
+If PASS -> G12
+If REVISE -> G11 -> G9 -> G10
+↓
+G12
+↓
+Write Final Article
+↓
+Update Sheet
+↓
+READY_FOR_REVIEW
 
-- Ideation Standard
-- Slate Note
-- validated candidates
-- `IDEA_SCORE_FLOOR`
-
-Current floor:
-
-**8.5**
-
-I2 output:
-
-```json
-{
-  "passed": [
-    {
-      "working_title": "",
-      "core_premise": "",
-      "hook": "",
-      "hook_source_url": "",
-      "hook_source_support": "",
-      "why_it_works": "",
-      "sport": "",
-      "source_leads": [],
-      "idea_score": 0
-    }
-  ],
-  "rejected": [
-    {
-      "working_title": "",
-      "reason": ""
-    }
-  ]
-}
-```
-
-I2 does not emit a 14-dimension scorecard.
-
-One holistic idea score is enough.
+Maximum two revision rounds.
 
 ---
 
-# 9. IDEATION WRITE
+# 10. GENERATION COMMITMENT
 
-For each passing candidate:
+Ideation is where ideas are selected.
 
-- create Idea ID
-- map fields into the Sheet
-- set Priority = 3 unless configured otherwise
-- set Status = READY
-- set Created Date
-- leave Generation fields blank
+Generation is where the system makes the idea great.
 
-Before write:
+Research may REFRAME.
 
-- dedup primarily against Working Title
-- dedup semantically against Core Premise
+Do not return an idea to Ideation because:
 
-Do not pass weaker ideas merely to hit a target row count.
+- the best piece changes shape
+- the angle becomes more or less commercial
+- the piece becomes a profile
+- a famous story needs a different reason to retell
+- a game remains the main spine
+- the article is naturally short or long
 
-Zero writes is valid.
-
-Zero writes because every candidate was malformed is not healthy.
+Only true evidence, legal, safety, or technical failure should stop Generation.
 
 ---
 
-# 10. HEALTHY IDEATION RUN REPORT
+# 11. DRIVE
 
-After each run, report:
-
-- raw I1 candidate count
-- malformed candidate count
-- I2 received count
-- I2 passed count
-- dropped below 8.5
-- dedup drops
-- rows written
-
-For calibration runs, also surface:
-
-- one full raw I1 candidate
-- one full I2 passed object or rejection object
-- obvious thematic clustering
-- obvious era clustering
-
-A healthy run may generate 10 and commission 2 to 5.
-
-The pass count is not a quota.
-
----
-
-# 11. GENERATION WORKFLOW
-
-When Generate Next Story is triggered:
-
-1. refuse if any row is `GENERATING`
-2. select next READY row by Priority then Created Date
-3. mark it `GENERATING`
-4. create Drive folder
-5. run G1 through G12
-6. save only permanent Research and Final Article docs
-7. mark `READY_FOR_REVIEW`
-8. populate Final Article, Final Score, Generated Date
-
-Generation receives the lean commissioned idea.
-
-G1 through G3 are responsible for discovering the final editorial spine, relevant people, mechanisms, hinge if any, and best truthful conception.
-
----
-
-# 12. GENERATION COMMITMENT
-
-Once Generation begins, do not editorially abort.
-
-Research may:
-
-- correct the hook
-- change the person
-- change the angle
-- change the mechanism
-- change the time window
-- change the thesis
-- change the architecture
-- change the narrative hinge
-- determine that no hinge is appropriate
-- REFRAME
-
-Normal outcomes:
-
-- CONTINUE
-- REFRAME
-
-Only exceptional operational failure becomes ERROR.
-
-After two revisions, unresolved editorial reservations still produce `READY_FOR_REVIEW` with a warning.
-
----
-
-# 13. DRIVE
-
-Folder:
+Canonical path:
 
 `Nosebleeds > Unpublished > [Idea ID] - [Working Title]`
 
-Only two permanent docs:
+Permanent docs:
 
 1. `01 - Research`
 2. `02 - Final Article`
 
-Do not permanently store:
-
-- individual research pass docs
-- drafts
-- reviewer reports
-- EIC reports
-- score docs
-- orchestration artifacts
-
-Intermediate outputs may remain in n8n execution history.
+Intermediate reviewer output does not need permanent storage unless useful for debugging.
 
 ---
 
-# 14. RESEARCH
+# 12. RESEARCH
 
-G1: Deep landscape and reconstruction.  
-G2: Context and adversary.  
-G3: Research compiler and final conception.
+G1 and G2 use web search.
 
-Research is mode-aware.
+G3 compiles the factual universe.
 
-A Belief File is conditional.
+The Research document should include:
 
-A narrative hinge is conditional.
+- final conception
+- final editorial spine
+- reason to retell when relevant
+- what the story opens up
+- tapestry map
+- epistemic states
+- claims not to make
 
-The final Research document locks the editorial spine before drafting.
-
----
-
-# 15. DRAFT AND REVIEW
-
-G4 drafts from Research only.
-
-G5 reviews Story / Reader Experience.
-
-G6 reviews Voice / Nosebleeds / Magic.
-
-G7 reviews Truth / Evidence.
-
-G8 adjudicates.
-
-G9 revises.
-
-G10 cold-scores.
-
-G11 adjudicates a second round if needed.
-
-Maximum two G9 revision rounds.
-
-G12 packages after body copy is stable.
+The Writer does not browse.
 
 ---
 
-# 16. HUMAN NOTES
+# 13. LENGTH
 
-Human Notes are human and operational.
+Do not implement a target word-count gate.
 
-Do not feed Human Notes into automated learning.
+Do not fail a draft because it is shorter or longer than a nominal center.
 
-Do not create a learnings file.
+The system should evaluate:
 
-Do not infer publication taste from Human Notes automatically.
+- depth
+- momentum
+- completeness
+- padding
+- whether the material earned its length
 
----
-
-# 17. TIMEOUTS AND RUNTIME
-
-There is no Nosebleeds requirement to complete workflows in 10 minutes.
-
-The current environment may support substantially longer runs, including roughly 40 minute workflows.
-
-Do not:
-
-- reduce candidate quality
-- reduce research depth
-- remove editorial passes
-- downgrade models
-- compress search
-
-solely to satisfy a presumed 10 minute ceiling.
-
-Actual node-level or platform-level timeouts remain implementation settings and should be configured to support the workflow.
+The best piece may be 900, 1,800, 3,000, or 4,000-plus words.
 
 ---
 
-# 18. FRONTEND
+# 14. REVIEW
 
-The lightweight console may expose:
+Reviewer A:
+story, depth, cohesion, reader experience.
 
-- Working Title
-- Status
-- Priority
-- Sport
-- Idea Score
-- Drive Folder
-- Final Article
-- Generated Date
+Reviewer B:
+voice, prose, contextual honesty, magic, contagion.
 
-Summary counts:
+Reviewer C:
+truth.
 
-- READY
-- GENERATING
-- READY_FOR_REVIEW
-- PUBLISHED
+EIC:
+root-cause synthesis.
 
-Controls:
-
-- Run Ideation
-- Generate Next Story
-
-Editable:
-
-- Priority
-- Status
-- Human Notes
-
-Do not surface removed required fields such as Story Type or Human Carrier.
+Cold Final:
+fresh publishability test.
 
 ---
 
-# 19. ERROR POLICY
+# 15. HUMAN NOTES
 
-ERROR is for:
+`Human Notes` is human-owned.
 
-- technical/API failure
-- malformed required runtime output after retry
-- unrecoverable source access
-- impossible premise with no honest adjacent piece
-- legal/safety operational stop
+Automation should never overwrite it.
 
-ERROR is not for:
+Notes may be supplied to Generation as editorial context where appropriate.
 
-- reviewer dislikes draft
-- final score below aspiration
-- EIC wants more work after max revisions
-- story was reframed
-- no narrative hinge exists
+---
+
+# 16. TIMEOUTS
+
+Editorial quality outranks an artificial runtime ceiling.
+
+Do not impose a 10-minute maximum on a full Generation run.
+
+Use sensible technical timeouts per node.
+
+If web research is slow but functioning, allow the workflow to complete.
+
+---
+
+# 17. FRONTEND
+
+The UI may expose:
+
+## Discover
+Runs Default Ideation.
+
+## Directed Search
+User selects or types:
+- lens
+- subject
+- sport
+- query
+
+## Queue
+Shows READY / HOLD / GENERATING / READY_FOR_REVIEW.
+
+## Generate
+Triggers Generation for selected or highest-priority READY idea.
+
+## Review
+Opens Final Article and research metadata.
+
+Avoid exposing implementation complexity as editorial UI.
+
+---
+
+# 18. ERROR POLICY
+
+Use ERROR for technical failure.
+
+Do not use ERROR for:
+
+- editorial reservations
+- imperfect scores
+- a piece that needs human review after two rounds
+- a research reframe
+
+After maximum revision rounds, unresolved editorial reservations go to READY_FOR_REVIEW with warning.
+
+---
+
+# 19. MIGRATION FROM V2.3
+
+Remove or disable:
+
+- Anthropic I2 Ideation call
+- 8.5 idea threshold
+- pass / fail idea parsing
+- score-gated Sheet write
+- I2-specific retry path
+
+Add:
+
+- I1 v3 default ideation prompt
+- optional I1D directed prompt
+- mapping from `why_you_have_to_read_this` to Sheet field `Why It Works`
+- no word-count gate
+- new Research fields for opening-up and tapestry map
+
+Do not change downstream status semantics.
 
 ---
 
 # 20. FINAL IMPLEMENTATION PHILOSOPHY
 
-The system should be easy to understand.
+The workflow should be simple enough to understand at a glance.
 
-The models do the editorial thinking.
+The editorial system should be sophisticated enough that the output does not feel simple.
 
-n8n moves the work.
-
-The Google Sheet tells the human what state the work is in.
-
-Do not add machinery until a real failure mode proves it is necessary.
+> **Do not solve taste problems with more nodes. Solve them with better taste.**

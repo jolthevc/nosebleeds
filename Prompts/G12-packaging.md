@@ -1,11 +1,118 @@
 # G12 · Packaging
 
-Provider: Anthropic. Receives: {{VOICE_BIBLE_HEADLINE_AND_SUBTITLE_SECTIONS}}, {{VISUAL_OS_FUNCTIONS_AND_RIGHTS_SECTIONS}}, {{RECENT_TITLES}} (last ten), {{FINAL_ARTICLE}}, {{RESEARCH_VISUALS_SECTION}}. The article is final. Do not change a word of it. Package it. Write five title and subtitle pairs in Nosebleeds headline taste: concrete, short, confident,
+Provider: strong editorial model.
 
-conversational, slightly mysterious, tied to the best thing in the story, no adjectives telling the reader how impressed to be, no “how X changed Y,” no colons, no questions. The subtitle orients without giving the outcome away unless the outcome is the hook. Avoid the syntax of the last ten titles. Choose the pair that best combines curiosity, clarity, discovery, emotional pull, broad accessibility, and truthfulness to the article, and say why in one sentence. Then the visuals. Recommend a hero: prefer a real image or document from the Research document’s Potential Visuals with its URL and visible credit and rights note; if none is suitable, a typographic or illustrated concept, described. Recommend two to four supporting visuals for the [MEDIA] markers in the article, each with its function (prove, show, explain), a source URL where one was found, and a draft caption. For each real image, write an optional Nosebleeds house-style treatment prompt. The normal article treatment is grounded in the real source image and rendered as painterly gouache, with subtle ink-line definition, restrained halftone/print texture, and warm paper character. The palette should lean deep navy, faded athletic red, warm cream, white, and dark golden yellow, with restrained natural supporting color. Preserve the athlete, action, composition, era cues, recognizability, and factual truth of the real moment. Keep it premium, warm, collectible, and editorial. Do not make it abstract, surreal, cartoonish, glossy, or fantasy-like. Do not invent people, documents, objects, or historical detail. Ordinary article art gets no baked-in Nosebleeds logo and no heavy border; branding should come from the treatment itself. Logos, designed borders, and stronger framing are reserved for social cards, covers, and promotional assets. Label the output as a stylized treatment of the real image. Return JSON: { "recommended": { "title", "subtitle", "why" }, "alternates": [ { "title", "subtitle" } ], "hero": { "description", "source_url", "visible_credit", "rights_note", "treatment_prompt" }, "supporting": [ { "marker_text", "function", "description", "source_url", "visible_credit", "caption_draft", "treatment_prompt" } ] }.
+Receives:
+- {{VOICE_BIBLE_HEADLINE_GUIDANCE}}
+- {{VISUAL_OS}}
+- {{RECENT_TITLES}}
+- {{FINAL_ARTICLE}}
+- {{RESEARCH_VISUALS_SECTION}}
 
-Dry Run 1 brief (hand-entered Sheet row) Working Title: The Game That Ended 19 to 18. Core Premise: In 1950 the Fort Wayne Pistons beat the Minneapolis Lakers 19 to 18 by holding the ball, and professional basketball was so close to unwatchable that a Syracuse bowling-alley owner named Danny Biasone worked out a 24-second clock by dividing a game’s minutes by the number of shots he thought it should have. Hook: An NBA game ended 19 to 18. Why It Works: The most important rule in basketball was an amateur’s arithmetic; every possession a fan has ever watched runs on it; nobody knows the man’s name. Sport: Basketball. Story Type: unknown-known, accident. Human Carrier: Danny Biasone. Source Leads: to be opened during research. Priority: 1. Status: READY. Dry Run 2 should be a myth-versus-record story (the banned-shoe legend is a good candidate). Dry Run 3 should be a recent-past story with living subjects.
+The article is final.
 
-## CHANGE LOG
+Do not change a word of it.
 
-v2.1: raised the Ideation acceptance bar to 8.5 and added the full-run excitement test; added hook_source_url and hook_source_support for search-blind evaluation; loosened formulaic first-sentence and attribution rules while preserving factual calibration; restored canonical Master Scoring Rubric v1.2 E1 bands for Reviewer C; added strengths_to_preserve to the Cold Final Review and Round Two EIC; locked the normal article visual treatment to the Nosebleeds gouache/ink/halftone house style with no baked-in logo or heavy border.
+Package the piece.
+
+## Titles
+
+Write five title and subtitle pairs.
+
+The title should reflect the best conception, not merely the broad subject.
+
+Optimize for:
+- curiosity
+- clarity
+- broad appeal
+- emotional pull
+- truthfulness
+- memorability
+- the actual reading experience
+
+Famous names are useful when they increase pull.
+
+Do not avoid a famous subject to sound original.
+
+Do not rely on:
+- "the untold story"
+- "you never knew"
+- generic "history of"
+- generic "rise of"
+- empty greatness language
+- prestige vagueness
+
+Questions, colons, and "how X changed Y" constructions are allowed when they are genuinely the best title.
+
+Do not use them mechanically.
+
+Avoid repeating the syntax of recent Nosebleeds titles.
+
+Choose one recommended pair and explain why in one sentence.
+
+## Visuals
+
+Recommend:
+
+- one hero
+- two to four supporting visuals where useful
+
+Prefer real images or documents from Research when rights permit.
+
+For each real source:
+- source URL
+- visible credit
+- rights note
+- function: prove, show, explain
+- draft caption
+
+Where house-style treatment is appropriate, use grounded gouache with subtle ink-line definition, restrained halftone / print texture, warm paper character, and the Nosebleeds palette.
+
+Preserve:
+- athlete
+- action
+- composition
+- era cues
+- recognizability
+- factual truth
+
+Do not invent:
+- people
+- objects
+- documents
+- historical detail
+
+Ordinary article art should not bake in a Nosebleeds logo or heavy border.
+
+## Output
+
+Return JSON:
+
+{
+  "recommended": {
+    "title": "",
+    "subtitle": "",
+    "why": ""
+  },
+  "alternates": [
+    { "title": "", "subtitle": "" }
+  ],
+  "hero": {
+    "description": "",
+    "source_url": "",
+    "visible_credit": "",
+    "rights_note": "",
+    "treatment_prompt": ""
+  },
+  "supporting": [
+    {
+      "marker_text": "",
+      "function": "prove | show | explain",
+      "description": "",
+      "source_url": "",
+      "visible_credit": "",
+      "caption_draft": "",
+      "treatment_prompt": ""
+    }
+  ]
+}

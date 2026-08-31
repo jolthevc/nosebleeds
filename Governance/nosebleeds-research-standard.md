@@ -1,415 +1,388 @@
 # NOSEBLEEDS
-## Research Standard v2.0
-### Find the best truthful piece, not merely the proof of the pitch.
+## Research Standard v2.1
+### Find the best truthful piece, then open it up without losing it.
 
-**Status:** Canonical research doctrine.  
-**Supersedes:** Research Standard v1.2.  
-**Runtime roles:** G1 Research Pass One, G2 Context and Adversary, G3 Research Compiler.
+**Status:** Canonical research doctrine for Generation
 
 ---
 
 # 0. GENERATION COMMITMENT
 
-Once an idea has passed Ideation, is marked READY, and Generation begins:
+Ideation is where Nosebleeds decides what deserves resources.
 
-> **Ideation is where we kill ideas. Generation is where we make accepted ideas great.**
+Generation is where we make the commissioned idea great.
 
-Research may discover that the original hook, thesis, person, framing, mechanism, or assumed structure was wrong.
+Once an idea enters Generation, research should not act like a second commissioning gate.
 
-That is not failure.
+Research may:
 
-Research should find the best truthful version of the commissioned piece.
+- verify
+- complicate
+- deepen
+- reframe
+- narrow
+- broaden
+- discover a better center
+- change the article form
 
-Normal outcomes:
+Research should not abandon a commission merely because the original pitch was incomplete.
 
-- `CONTINUE`
-- `REFRAME`
+The normal outcomes are:
 
-Only exceptional operational failure stops Generation:
+- CONTINUE
+- REFRAME
 
-- technical/API failure
-- unrecoverable source access
-- premise is factually impossible and no honest adjacent piece exists
-- legal or safety reason that makes responsible treatment impossible
-
-Editorial disappointment is not an operational ERROR.
-
----
-
-# 1. THE GOVERNING IDEAS
-
-**Research is reconstruction, explanation, and discovery, not confirmation.**
-
-**Repetition is not verification.**
-
-**The hook and editorial spine lock before drafting.**
-
-**A narrative hinge locks only when the piece genuinely has one.**
-
-**Research is allowed to destroy the commissioned framing. It is not allowed to abandon a READY piece when an honest adjacent conception exists.**
+`NO_VERIFIABLE_STORY` is exceptional.
 
 ---
 
-# 2. WHAT RESEARCH IS FOR
-
-Research has four jobs.
+# 1. THE FOUR JOBS OF RESEARCH
 
 ## Verification
 
-Every load-bearing factual claim is traced to evidence fit to carry it.
-
-Sports fans notice the wrong score, year, name, rule, quote, contract, record, or number.
-
-Trust is part of the product.
+Establish what is true.
 
 ## Discovery
 
-Research must look for the fact, person, document, contradiction, mechanism, perspective, argument, or consequence that the standard telling lacks.
-
-A research run that only confirms the first summary it found has verified a retelling.
+Find material the initial pitch did not know existed.
 
 ## Understanding
 
-Some pieces are event reconstructions.
+Work out why events, decisions, systems, or people behaved as they did.
 
-Others are about:
+## Opening Up
 
-- a person
-- a mechanism
-- a business decision
-- a cultural phenomenon
-- a rise
-- a collapse
-- an argument
-- a strategy
-- a rivalry
-- a fan behavior
-- a rule
-- a system
+Ask:
 
-Research must understand the thing in the form the thing actually has.
+> **What does this story open up?**
 
-## Editorial reframing
+The answer may involve:
 
-Research decides what the piece really is.
+- strategy
+- psychology
+- business
+- culture
+- fandom
+- mythology
+- memory
+- politics
+- media
+- money
+- technology
+- identity
+- geography
+- relationships
+- institutional incentives
+- luck
+- fear
+- ego
+- contradiction
+- afterlife
 
-It may replace:
+Opening Up is not thesis hunting.
 
-- the hook
-- the central person
-- the assumed causal story
-- the original time window
-- the mechanism
-- the standard interpretation
-- the planned architecture
+It is not permission to turn the piece into an academic essay.
 
-A better researched conception is success.
+The test is:
+
+> **Does this layer make the sports story more enjoyable and revealing?**
+
+If not, leave it out.
+
+---
+
+# 2. RESEARCH POSTURE
+
+Assume a strong commissioned subject probably contains something interesting until research proves otherwise.
+
+Do not demand a smoking gun.
+
+Do not manufacture one.
+
+Do not assume a familiar story needs to be debunked.
+
+Do not assume a profile needs scandal.
+
+Do not assume a pure game story needs a business angle.
+
+The researcher's job is to find the richest truthful version.
 
 ---
 
 # 3. EPISTEMIC STATES
 
-Every load-bearing claim receives one state:
+Every material claim belongs in one of six states.
 
 ## Verified
-
-The evidence directly supports the claim.
+Supported strongly enough to state as fact.
 
 ## Attributed
-
-A credible source states the claim, but attribution should remain visible.
+A person or source says it, but independent verification is not sufficient.
 
 ## Disputed
-
-Credible sources materially conflict.
+Credible sources materially disagree.
 
 ## Legend
-
-The claim circulates, but the record does not establish it.
+Part of the story's mythology but not established as record.
 
 ## Inference
-
-The evidence supports the interpretation, but no source directly states it.
+A reasonable interpretation supported by facts but not itself directly verified.
 
 ## Unverified
+Insufficient support.
 
-The claim cannot responsibly be made as fact.
-
-These states belong in the research packet.
-
-The writer translates them into natural prose.
+The writer must preserve these distinctions.
 
 ---
 
-# 4. THE EDITORIAL SPINE
+# 4. SOURCE AUTHORITY
 
-Every piece needs a spine.
-
-Not every piece needs a hinge.
-
-Possible spines include:
-
-- event or bounded sequence
-- character pursuit
-- rivalry
-- mystery
-- argument
-- mechanism
-- transformation
-- rise
-- collapse
-- cultural spread
-- obsession
-- escalation
-- anatomy
-- comparison
-- myth versus record
-- fan experience
-- business decision meeting the game
-
-Research should state the final spine explicitly.
-
-When there is a real hinge, record it.
-
-When there is not, write:
-
-`Narrative Hinge: N/A - not the correct structure for this piece.`
-
-Never manufacture one.
-
----
-
-# 5. G1: DEEP LANDSCAPE AND RECONSTRUCTION
-
-G1 begins from the commissioned idea, not from a locked thesis.
-
-Its job is to map the full territory.
-
-Research should cover as relevant:
-
-- standard telling
-- alternate tellings
-- central facts
-- timeline
-- people
-- institutions
-- business mechanisms
-- money
-- rules
-- statistics
-- strategy
-- contracts
-- court records
-- official decisions
-- contemporaneous reporting
-- later retrospectives
-- opposing accounts
-- myths
-- source chains
-- visuals
-- objects
-- reactions
-- consequences
-- what changed
-- what did not change
-- what most fans misunderstand
-- what is surprisingly ordinary
-- what is surprisingly strange
-- where the best piece may actually live
-
-G1 should search broadly enough to discover a better conception than the one it was given.
-
----
-
-# 6. G2: CONTEXT AND ADVERSARY
-
-G2 is independent.
-
-It receives the commissioned idea and G1's evidence, but should not inherit G1's conclusions as unquestioned truth.
-
-Its job is to attack the emerging conception.
-
-## If the piece reconstructs an event
-
-Build contemporaneous belief:
-
-- expectations
-- odds
-- rankings
-- previews
-- reporting from the time
-- broadcasts
-- opposing-side coverage
-- foreign coverage
-- what people reasonably believed before the turn
-- plausible alternatives
-
-Restore uncertainty only when it is real.
-
-## If the piece is explanatory, cultural, business, argumentative, or mechanism-led
-
-Use the research budget differently:
-
-- competing causal explanations
-- strongest counterargument
-- alternative interpretation
-- who disagrees and why
-- conventional wisdom that may be wrong
-- who benefited and lost
-- what changed over time
-- what fans felt versus what the record shows
-- whether the supposed cause really caused the outcome
-- saturation of existing treatments
-- evidence that complicates the clean story
-
-## For all modes
-
-Search for disconfirmation.
-
-Look for the strongest evidence against the obvious version.
-
-Contradictory evidence is never silently discarded.
-
----
-
-# 7. CLAIMS REGISTER
-
-Every likely external claim should be tracked.
-
-Recommended structure:
-
-```text
-claim_id
-claim_text
-claim_type:
-  fact | quote | statistic | date | characterization |
-  causal | motive | interpretation | visual | rule |
-  contract | financial | medical
-
-load_bearing: yes | no
-epistemic_state
-sources: []
-chain_note
-```
-
-The hook is always load-bearing.
-
-The editorial spine may contain several load-bearing claims.
-
-A narrative hinge is load-bearing when applicable.
-
----
-
-# 8. SOURCE AUTHORITY
-
-Source authority is claim-specific.
+Use source authority appropriate to the claim.
 
 Prefer:
 
 - official records
-- court documents
-- league documents
-- contracts where public
+- primary documents
 - contemporaneous reporting
 - direct interviews
-- credible biographies
-- academic or technical work when relevant
-- high-quality retrospective reporting
+- transcripts
+- reliable databases
+- serious later reporting
+- subject-specific technical sources
 
-One authoritative primary or contemporaneous source may verify an ordinary claim when fit.
+Do not treat repetition as verification.
 
-Extraordinary, contested, private-event, medical, or reputationally sensitive claims deserve stronger corroboration.
+A story appearing in twenty secondary articles can still trace back to one unsupported anecdote.
 
-Wikipedia, fan wikis, forums, Reddit, and AI summaries may be maps and lead generators.
-
-They do not become evidence merely because they repeat a claim.
-
----
-
-# 9. MYTH AUDIT
-
-Sports stories accumulate mythology.
-
-For repeated anecdotes:
-
-- trace the chain backward
-- find the earliest source available
-- compare early wording with later wording
-- search for resolving documents
-- record where the chain goes cold
-- preserve uncertainty when the record cannot settle it
-
-The posture is:
-
-> **We love the legend enough to check what actually happened.**
-
-Myth audit is a tool.
-
-It is not a requirement that every piece become a debunking exercise.
+Corroborate extraordinary, contested, private-event, medical, legal, financial, or living-person claims when appropriate.
 
 ---
 
-# 10. HUMANITY
+# 5. THE CENTRAL RESEARCH QUESTION
 
-Research should find the people who make the piece legible.
+For every commission, answer:
 
-But do not force one protagonist when the subject is genuinely collective or systemic.
+> **What is the best truthful Nosebleeds piece here?**
 
-Possible human carriers include:
+Do not ask only:
 
-- athlete
-- coach
-- fan
-- family
-- owner
-- executive
-- inventor
-- broadcaster
-- referee
-- city
-- team
-- union
-- crowd
-- documented collective
+> Is the original pitch correct?
 
-For each relevant person or collective, capture:
+The commissioned idea is a starting hypothesis.
 
-- role at the time
-- stakes
-- contemporaneous status
-- actions
-- constraints
-- documented reactions
-- later consequences
-- living status when relevant
+Research may discover that:
 
-Never invent a human carrier to satisfy a template.
+- the best character is someone else
+- the famous explanation is too simple
+- the real story begins earlier
+- the ending matters more than the setup
+- the event is better understood through the losing side
+- the business mechanism is only supporting material
+- the business mechanism is actually the story
+- the profile works better through opponents than chronology
+- the game is strong enough to remain the spine
+- the cultural afterlife is the best payoff
 
 ---
 
-# 11. LIVING SUBJECT CARE
+# 6. THE TAPESTRY MAP
 
-For living people:
+Research should think multidimensionally.
 
-- avoid invented motive
-- avoid invented interiority
-- distinguish allegation from finding
-- prefer public-record grounding for material negative claims
-- use public or official sourcing for health claims
-- note disputed characterizations
-- avoid turning unresolved private matters into entertainment
+For promising dimensions, record:
 
-The truth system is stricter when reputational stakes are current.
+1. what the layer is
+2. what evidence supports it
+3. how it connects to the central sports subject
+4. whether it increases reader enjoyment
+5. whether it belongs in the final article or is merely useful background
+
+Do not collect layers merely because they exist.
+
+A finished article is not a research dump.
+
+The writer needs enough material to weave one coherent piece.
 
 ---
 
-# 12. BELIEF FILE
+# 7. FAMOUS SUBJECTS
 
-A Belief File is conditional.
+For familiar events, athletes, teams, or stories, identify the reason to retell.
 
-Use it when contemporaneous uncertainty materially improves the piece.
+Possible reasons:
 
-Possible modes:
+- richer reconstruction
+- neglected person
+- different side
+- contradiction
+- myth versus record
+- stronger synthesis
+- commercial or cultural afterlife
+- strategic explanation
+- misunderstood chain of causes
+- context the highlight package omits
+- a relationship that reveals the subject
+- a better way to understand the career or institution
+
+No secret is required.
+
+Research should still ask:
+
+> What does a reader who already knows the headline get here that they did not have before?
+
+---
+
+# 8. PURE SPORTS EVENTS
+
+When the core is a game, series, race, season, championship, comeback, collapse, or performance, preserve the sport as the spine if the material warrants it.
+
+Research:
+
+- decision points
+- tactics
+- matchups
+- clock and score state
+- injuries
+- substitutions
+- errors
+- reactions
+- what participants believed
+- what seemed likely in real time
+- pivotal sequences
+- tiny breaks
+- postgame interpretations
+- later mythmaking
+- the losing side
+- how memory compressed the event
+
+Do not turn a game into a generic psychology explainer.
+
+Use psychology only where evidence and behavior make it useful.
+
+Do not turn a game into a business story unless the business layer genuinely improves the piece.
+
+---
+
+# 9. PROFILES
+
+For a profile, do not research only biography.
+
+Search through:
+
+- opponents
+- teammates
+- employees
+- coaches
+- owners
+- family where publicly relevant
+- institutions
+- markets
+- fans
+- media
+- brands
+- decisions
+- turning points
+- contradictions
+- failures
+- habits
+- consequences
+- what changed around the subject
+- how the subject was perceived at different times
+- what the subject's résumé hides
+
+Find the most compelling way to understand the subject.
+
+A career chronology may support the piece.
+
+It should not automatically become the structure.
+
+---
+
+# 10. HERO-WORSHIP AND VILLAIN SIMPLIFICATION
+
+Research should resist both hagiography and cheap contrarianism.
+
+For famous subjects:
+
+- verify received stories
+- seek opposing perspectives
+- find contradictions
+- distinguish reputation from documented behavior
+- preserve context
+- identify luck and structural advantages where relevant
+- identify genuine excellence where demonstrated
+- do not flatten people into heroes or villains
+
+Admiration is allowed.
+
+Worship is lazy.
+
+Contrarianism for its own sake is also lazy.
+
+---
+
+# 11. G1: LANDSCAPE, VERIFICATION, DISCOVERY
+
+Pass One should establish:
+
+- the commissioned premise
+- hook verification
+- standard telling
+- chronology when relevant
+- key people
+- major source surfaces
+- candidate editorial spines
+- what the subject opens up
+- potential multidimensional layers
+- human stakes
+- business / strategy / culture / psychology / media / politics as relevant
+- myths
+- contradictions
+- visual evidence
+- saturation and reason-to-retell for famous subjects
+- possible profile conceptions when relevant
+
+G1 should explore.
+
+It should not prematurely lock the article.
+
+---
+
+# 12. G2: CONTEXT, ADVERSARY, DEEPENING
+
+G2 independently challenges G1.
+
+For event-driven pieces, investigate:
+
+- contemporaneous expectations
+- what participants knew
+- alternative outcomes
+- overlooked sequences
+- opposing-side accounts
+- hindsight distortion
+- whether the familiar explanation actually fits
+
+For profile, business, culture, mechanism, strategy, or phenomenon pieces, investigate:
+
+- competing explanations
+- strongest counterargument
+- contradictions
+- who benefited and lost
+- how the story changed over time
+- what existing treatments simplify
+- whether the piece has become too trade-like or academic
+- which people make abstract systems concrete
+- whether the supposed deeper layer actually increases enjoyment
+
+For all modes, search for evidence against the cleanest story.
+
+---
+
+# 13. BELIEF FILE
+
+Use a Belief File only when contemporaneous uncertainty materially improves the piece.
+
+Possible settings:
 
 - FULL
 - REDUCED
@@ -417,55 +390,139 @@ Possible modes:
 - INEVITABILITY
 - NOT_APPLICABLE
 
-`NOT_APPLICABLE` is correct for many mechanism, argument, culture, business, profile, and anatomy pieces.
+Do not reconstruct suspense that did not exist.
 
-Do not waste research budget building fake suspense.
-
----
-
-# 13. DISCONFIRMATION
-
-Every research run must ask:
-
-> **What would make our preferred version wrong?**
-
-Useful strategies:
-
-1. explicit correction or debunking searches
-2. opposing-side accounts
-3. primary documents
-4. later scholarship
-5. statistical challenge
-6. alternative causal explanation
-7. timing mismatch
-8. source-chain failure
-9. evidence that the "hero" or "villain" frame is too clean
-
-A good contradiction can improve the piece more than ten confirming sources.
+Do not force temporal uncertainty into profiles or mechanism pieces where it adds nothing.
 
 ---
 
-# 14. RESEARCH PACKET
+# 14. CLAIMS REGISTER
 
-G3 compiles one canonical Research document.
+For load-bearing claims, record:
 
-Recommended sections:
+- claim
+- state
+- source
+- source authority
+- whether corroboration exists
+- whether the claim is safe for flat prose
+- whether it is disputed
+- whether the writer should avoid it
 
-# Working Piece Thesis
+The central hook is always load-bearing.
 
-# Final Piece Thesis
+A narrative hinge is load-bearing only if the final conception actually has one.
+
+---
+
+# 15. MYTH AUDIT
+
+For famous anecdotes or culturally repeated stories:
+
+1. locate the earliest available version
+2. compare later retellings
+3. identify details added over time
+4. separate public memory from record
+5. determine whether the myth itself is editorially interesting
+
+The goal is not debunking for sport.
+
+Sometimes the legend is more interesting because it is a legend.
+
+---
+
+# 16. HUMANITY
+
+Research for lived experience.
+
+Find:
+
+- what people saw
+- what they feared
+- what they wanted
+- what they said publicly
+- what they could know at the time
+- what consequences they experienced
+- how teammates, opponents, fans, employees, or families were affected
+
+Do not invent interiority.
+
+Do not infer private motives as fact.
+
+---
+
+# 17. LIVING SUBJECT CARE
+
+Claims about living people require particular care.
+
+Do not state:
+
+- motives
+- medical details
+- private conduct
+- criminal or unethical implications
+- financial claims
+- interpersonal accusations
+
+without appropriate public evidence.
+
+Distinguish criticism from allegation.
+
+---
+
+# 18. DEPTH AND LENGTH
+
+Research should supply enough material for the best version of the piece.
+
+It should not target a predetermined word count.
+
+The article may ultimately be:
+
+- short
+- core length
+- long
+- unusually long
+
+depending on the material.
+
+The test is:
+
+> **Does the piece keep rewarding the reader for as long as it asks for attention?**
+
+Do not manufacture complexity to justify length.
+
+Do not compress a rich subject because of a target number.
+
+---
+
+# 19. RESEARCH PACKET
+
+The canonical Research document should contain:
+
+# Working Piece Conception
+
+# Final Piece Conception
 
 # Research Outcome
-`CONTINUE` or `REFRAME`
+CONTINUE or REFRAME.
 
 # Verified Hook
 
+# Why This Is Worth Reading
+
+# Reason to Retell
+For famous subjects. Use `NOT_APPLICABLE` where appropriate.
+
 # Final Editorial Spine
 
-# Narrative Hinge
-Use only if applicable.
+# What This Story Opens Up
+List only layers that materially improve the piece.
 
-# Why This Piece Matters to a Sports Fan
+# Tapestry Map
+Explain how those layers connect back to the spine.
+
+# Narrative Hinge
+If real. Otherwise `N/A`.
 
 # Key People / Human Carriers
 
@@ -477,17 +534,27 @@ Use only if applicable.
 When useful.
 
 # Belief File
-When applicable.
+When useful.
 
 # Key Verified Facts
+With epistemic state.
 
 # Numbers / Statistics
 
 # Rules / Strategy / Mechanism
-When applicable.
+When useful.
 
 # Business / Money / Contracts
-When applicable.
+When useful.
+
+# Culture / Media / Politics / Fandom
+When useful.
+
+# Psychology / Decision-Making
+Only when grounded and useful.
+
+# Profile Dimensions
+When relevant.
 
 # Quotes
 
@@ -500,7 +567,6 @@ When applicable.
 # Claims We Should Not Make
 
 # Hindsight Hazards
-When applicable.
 
 # Human Stakes / Lived Consequences
 
@@ -511,68 +577,41 @@ When applicable.
 # Potential Endings
 
 # Researcher Recommended Conception
+Explain the strongest cohesive version and the likely register.
 
 # Sources
 
-Every load-bearing fact must preserve its epistemic state.
+---
+
+# 20. COMPILER JOB
+
+G3 must adjudicate, not summarize.
+
+It chooses one coherent article conception.
+
+It should preserve useful layers without trying to include everything.
+
+It should say what the writer should leave out.
+
+It should protect the central sports experience.
+
+If a layer is intelligent but makes the piece less fun, cut it.
 
 ---
 
-# 15. THE COMPILER'S JOB
+# 21. STOP CONDITIONS
 
-G3 does not merely summarize G1 and G2.
+Research should produce `NO_VERIFIABLE_STORY` only when:
 
-It adjudicates them.
+- the core premise is materially false or impossible
+- no adjacent honest version remains
+- the evidence base is inadequate for responsible publication
+- legal or safety constraints make the piece untenable
 
-It should answer:
-
-- What is definitely true?
-- What remains attributed?
-- What is disputed?
-- What is legend?
-- What is the best hook?
-- What is the real editorial spine?
-- Is there a genuine hinge?
-- Who or what carries the piece?
-- What is the strongest interpretation?
-- What is the strongest counterargument?
-- What should the writer absolutely not claim?
-- What form does the material appear to want?
-
-The writer's factual universe is the compiled Research document.
-
-The writer does not browse.
+A merely changed framing is a REFRAME.
 
 ---
 
-# 16. STOP CONDITIONS
+# 22. FINAL DOCTRINE
 
-Research is complete when:
-
-- the hook is locked
-- the editorial spine is supported
-- every load-bearing claim has an epistemic state
-- major contradictions have been searched
-- the strongest competing explanation has been considered
-- the writer has enough specific material to produce the piece
-- the packet clearly marks what cannot be claimed
-
-Research is not complete merely because a search budget was exhausted.
-
-If a runtime budget cap is reached, report the unresolved areas clearly.
-
-There is no Nosebleeds requirement to compress research into a 10 minute workflow.
-
-Quality should not be reduced to satisfy an artificial execution-time assumption.
-
----
-
-# 17. FINAL DOCTRINE
-
-The question at the end of Research is not:
-
-> **Can we prove the pitch we commissioned?**
-
-It is:
-
-> **What is the best truthful piece hiding inside the thing we commissioned?**
+> **Verify the surface. Discover the layers. Test which layers make the sports story better. Then hand the writer one coherent truthful piece.**

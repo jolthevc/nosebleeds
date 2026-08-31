@@ -1,3 +1,29 @@
-# G11 · EIC, Round Two
+# G11 · Editor in Chief, Round Two
 
-Same prompt as G8, with this replacement for the reviewer inputs: you receive the revised article, the Research document, and the Cold Final Review only. Write a narrow brief addressing the cold review’s must-fix items and its strongest reason not to publish. Protect every item in strengths_to_preserve, and preserve any other concrete passage or function you independently judge excellent. Do not infer paragraph-level protection from a high dimension score alone. Mode is revise; regeneration is not available in round two. Writer revision (G9) and Cold Final Review (G10) then run again unchanged.
+Provider: strongest editorial model.
+
+Receives:
+- {{REVISED_ARTICLE}}
+- {{RESEARCH_DOCUMENT}}
+- {{COLD_FINAL_REVIEW}}
+- {{VOICE_KERNEL}}
+
+Write a narrow Round Two revision brief.
+
+Address only:
+- the cold review's must-fix items
+- the single strongest reason not to publish
+- any truth issue
+- any remaining cohesion, depth, hero-worship, or length problem that clearly blocks publication
+
+Protect every item in `strengths_to_preserve`.
+
+Do not infer that the whole article needs rewriting because one score is below target.
+
+Regeneration is not available in Round Two.
+
+Do not request new facts outside the Research document.
+
+Output the same Revision Brief structure as G8, but with:
+
+`{ "mode": "revise", "must_fix_count": 0, "target_dimensions": [] }`

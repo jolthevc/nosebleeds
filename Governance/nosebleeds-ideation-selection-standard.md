@@ -1,708 +1,567 @@
 # NOSEBLEEDS
-## Ideation & Commissioning Standard v2.1
-### Editorial doctrine for discovering and commissioning what Nosebleeds should make
+## Ideation & Commissioning Standard v3.0
+### Find the most compelling sports pieces, not the most novel sports facts.
 
-**Status:** Canonical governance for Ideation  
-**Supersedes:** Ideation & Selection Standard v2.0 and all earlier archetype-led commissioning doctrine  
-**Runtime relationship:** The live I1 prompt should compile this doctrine into a shorter creative instruction set. This document governs taste. It is not a mandatory runtime schema.
+**Status:** Canonical governance for default and directed Ideation  
+**Runtime principle:** One strong OpenAI web-search ideation call is sufficient when prompted correctly  
+**Taste gate:** The Ideation model itself commissions the final slate
 
 ---
 
 # 0. PURPOSE
 
-Ideation is the highest-leverage taste decision in the Nosebleeds system.
+Ideation decides where Nosebleeds spends its research and writing time.
 
-A perfectly researched, beautifully written article cannot rescue an idea nobody wanted in the first place.
+The goal is not to discover the least-known sports story.
 
-This Standard answers one question:
+The goal is not to produce a perfectly balanced slate.
 
-> **What is worth making?**
+The goal is:
 
-It does not define the final article structure.
-It does not require a protagonist.
-It does not require a narrative hinge.
-It does not prescribe a quota of story types, eras, sports, or emotional registers.
-It does not tell the search model to fill archetypes.
+> **Find the most compelling, enjoyable, broadly appealing Nosebleeds pieces we can make.**
 
-Its job is to protect creative range while maintaining a ruthless consumer standard.
+The publication should feel expansive because sports is expansive.
 
-The governing principle is:
-
-> **Discovery should be expansive. Commissioning should be selective.**
+It should not feel random.
 
 ---
 
-# 1. THE PRODUCT
+# 1. NORTH STAR
 
-Nosebleeds is entertainment for people who cannot get enough sports.
+The central commissioning question is:
 
-The public promise is:
+> **Would a lot of sports fans be excited to read this, and can Nosebleeds make the experience unusually good?**
 
-> **The magical stories behind the games we love.**
+Appeal comes before novelty.
 
-Internally, the unit of commissioning is a **piece**.
+Entertainment comes before intellectual cleverness.
 
-That word is deliberately broad.
+Fame is useful.
 
-A Nosebleeds piece may be:
-
-- a narrative reconstruction
-- a character piece
-- a profile
-- an argument
-- a mystery
-- an explainer
-- an anatomy
-- a business story
-- a cultural story
-- a fan story
-- a rivalry
-- a game story
-- a mechanism
-- a rise
-- a collapse
-- a myth audit
-- a strange object
-- a piece that does not fit a useful label
-
-The final form is discovered during Generation.
-
-Ideation should not reject a great possibility because its architecture is not yet obvious.
+Obscurity must earn its way in.
 
 ---
 
-# 2. THE EDITORIAL UNIVERSE
+# 2. THE CORE MOVE
 
-Anything genuinely inside the world of sports is fair game.
+For every promising subject, ask:
 
-That includes, without limiting the publication to:
+> **What is interesting here beyond the obvious version?**
 
-- games
-- athletes
-- coaches
-- fans
-- teams
-- rivalries
-- leagues
-- owners
-- executives
-- businesses
-- brands
-- contracts
-- money
-- labor
-- rules
+Then:
+
+> **What does this story open up?**
+
+Possible answers include:
+
+- character
 - strategy
-- tactics
-- technology
-- equipment
-- stadiums
-- media
-- broadcasting
-- photographs
-- scandals
-- traditions
-- rituals
-- superstitions
-- objects
+- psychology
+- business
 - culture
-- cities
-- families
-- institutions
-- history
-- the recent past
-- absurdities
-- mistakes
-- triumphs
-- collapses
-- things we have not thought to name
-
-These are **search surfaces**, not archetypes.
-
-They are places interesting pieces may hide.
-
-They are not boxes the Ideation model must fill.
-
----
-
-# 3. THE PUBLICATION IS UNIFIED BY TASTE
-
-Nosebleeds is not held together by subject category.
-
-It is held together by what it finds interesting and how it treats the reader.
-
-A business piece can be Nosebleeds.
-A historical piece can be Nosebleeds.
-A rules piece can be Nosebleeds.
-A statistical piece can be Nosebleeds.
-A profile can be Nosebleeds.
-
-None of those should become the publication's default identity.
-
-The reader should not think:
-
-> This is where I go for sports history.
-
-or:
-
-> This is where I go for sports business.
-
-or:
-
-> This is where I go for explainers.
-
-The desired relationship is:
-
-> **They always find the good part.**
-
----
-
-# 4. FAME IS AN ASSET
-
-Nosebleeds does not treat familiarity as an editorial weakness.
-
-Popular things are popular because people care about them.
-
-Famous athletes, teams, games, rivalries, leagues, stadiums, brands, scandals, dynasties, collapses, and cultural moments arrive with built-in reader investment.
-
-That is useful.
-
-A famous subject has a **discovery burden**, not a fame penalty.
-
-The piece should give the reader a reason to experience something familiar again.
-
-That may come from:
-
-- a forgotten participant
+- fandom
+- mythology
+- memory
+- politics
+- identity
+- media
+- money
+- technology
+- geography
+- relationships
+- institutional incentives
+- luck
+- fear
+- ego
+- a chain of decisions
 - the losing side
-- an unknown consequence
-- a hidden decision
-- a strange mechanism
-- a myth-versus-record gap
-- a different source
-- a surprising relationship
-- an overlooked business or cultural layer
-- an object
-- a number
-- a contradiction
-- a perspective that changes the familiar story
+- the afterlife of a moment
 
-Familiarity plus discovery is one of the publication's most valuable combinations.
+No answer is mandatory.
+
+The goal is not to bolt a thesis onto sports.
+
+The goal is to find the richer version of something worth caring about.
 
 ---
 
-# 5. OBSCURITY EARNS NOTHING BY ITSELF
+# 3. MOST STRONG SPORTS SUBJECTS CONTAIN SOMETHING
 
-Nosebleeds is not a competition to find the least-known sports anecdote.
+Do not demand a smoking gun.
 
-An obscure subject must create its own reason to care.
+Do not assume an article needs an unknown revelation.
 
-The editorial question is not:
+A famous game can support a great piece because:
 
-> Has the reader heard of this?
+- the standard telling is too simple
+- the losing side is more interesting
+- one chain of decisions explains the collapse
+- the event became mythology
+- one image shaped memory
+- the cultural afterlife is fascinating
+- the event reveals a broader phenomenon
+- the actual reconstruction is richer than the highlights
+- several layers can be woven into one satisfying story
 
-It is:
-
-> **Will the reader care once they hear it?**
-
-An obscure person can be irresistible.
-An obscure game can be extraordinary.
-An obscure rule can unlock a wonderful story.
-
-But obscurity itself is not discovery.
-
----
-
-# 6. THE CONCEPTION IS THE PRODUCT OF IDEATION
-
-Ideation should not merely identify subject areas.
-
-It should find or create a strong conception.
-
-A subject is:
-
-> Salary caps.
-
-A topic is:
-
-> The NBA salary cap.
-
-An angle is:
-
-> The 2016 cap spike.
-
-A conception is:
-
-> The summer a one-time flood of television money warped the NBA economy and helped create a superteam everyone hated.
-
-The conception answers:
-
-> **Why this piece, told this way, now?**
-
-It should reveal the thing that creates pull.
-
-This does not mean Ideation must lock the final thesis.
-
-A strong conception may still contain an unresolved research question.
+The job is to find the interesting version.
 
 ---
 
-# 7. ENTERTAINMENT IS A COMMISSIONING REQUIREMENT
+# 4. SURFACE, LENS, SPINE, PAYOFF
 
-Nosebleeds is consumer media.
+Keep these concepts separate.
 
-The article competes with everything else a sports fan could do with leisure time.
+## Subject
+What the piece is centered on.
 
-A commissioned piece should plausibly create one or more of:
+Examples:
+Tiger Woods, 28-3, the Yankees, the NBA, fantasy football, the Dream Team.
 
-- fascination
-- awe
-- tension
-- laughter
-- disbelief
-- admiration
-- nostalgia
-- anger
-- sadness
-- joy
-- tenderness
-- rivalry
-- wonder
-- argument
-- surprise
-- simple pleasure in the ridiculousness or beauty of sports
+## Lens
+A deliberate way to search.
 
-Entertainment does not mean every piece is funny.
+Examples:
+Profile, Business, Strategy, Culture, Myth, Rivalry.
 
-A tragic piece can be deeply entertaining in the editorial sense.
-A mechanism can be fascinating.
-A business story can be gripping.
-A game can be enough on its own.
+## Spine
+What organizes the finished piece.
 
-The failure state is **dutiful**.
+Examples:
+a chronological collapse, a character pursuit, an argument, a transformation, a rivalry, a mechanism, a season, a relationship.
 
-A piece can be important, accurate, sophisticated, and still not be worth commissioning.
+## Payoff
+What the reader understands, feels, or sees differently by the end.
+
+Do not confuse the lens with the structure.
+
+Do not confuse the subject with the conception.
 
 ---
 
-# 8. SEARCH ENGINES HAVE BIASES
+# 5. DEFAULT DISCOVERY MODE
 
-Web search naturally favors subjects with:
+Default Discovery should roam broadly.
 
-- official documents
-- clean statistics
-- institutional announcements
-- rule changes
-- legal filings
-- corporate reporting
-- obvious causal chains
-- widely repeated retrospectives
+It should not be told to fill archetypes.
 
-This creates a structural risk.
+It should not be given quotas for history, business, fans, games, or profiles.
 
-An Ideation model may begin to confuse:
+It should search for subjects with real audience pull and then look for the most compelling way into them.
 
-> easy to verify
+The model should be allowed to consider:
 
-with:
+- famous games
+- iconic athletes
+- teams
+- seasons
+- dynasties
+- collapses
+- rivalries
+- owners
+- leagues
+- business
+- brands
+- strategy
+- rules
+- media
+- culture
+- fandom
+- politics
+- technology
+- places
+- objects
+- myths
+- strange events
+- lesser-known stories
 
-> worth reading.
-
-The system must actively resist that.
-
-Rules, business, institutions, contracts, statistics, technology, and policy can produce excellent pieces.
-
-They receive no automatic preference because the evidence is convenient.
-
-Search should serve taste.
-
-Taste should not be reverse-engineered from searchability.
+without treating those as a checklist.
 
 ---
 
-# 9. CREATIVE CONVERGENCE IS A FAILURE MODE
+# 6. DIRECTED IDEATION MODE
 
-A slate may contain individually competent ideas and still fail as a slate.
-
-The most common failure is **creative convergence**.
+The UI may allow a human to request a lens, sport, subject, category, or combination.
 
 Examples:
 
-- ten origin stories
-- ten "how X changed Y" pieces
-- ten institutional mechanisms
-- ten business stories
-- ten strange old anecdotes
-- ten famous-athlete profiles
-- ten statistical explainers
-- ten scandals
-- ten recent trend pieces
+- Profile
+- Tiger Woods + Profile
+- NBA + Business
+- NFL + Strategy
+- Olympics + Politics
+- Yankees + Culture
+- Nike + Commercial
+- NBA + Myth / Memory
+- Stadiums + Business
+- Rivalries + College Football
 
-No one category above is bad.
+Directed Ideation should honor the constraint.
 
-The repetition is the problem.
+But it should still produce **conceptions**, not templates.
 
-The diagnostic principle is:
+If the user requests:
 
-> **A reader should not be able to reverse-engineer the prompt that produced the slate.**
+> Tiger Woods + Profile
 
-When several promising discoveries begin to resemble one another, the scout should deliberately change direction and search somewhere else.
+the model should generate different compelling ways to understand Tiger.
 
-This is exploration, not quota management.
+It should not produce ten chronological biographies.
 
----
+If the user requests:
 
-# 10. RANGE WITHOUT QUOTAS
+> NBA + Business
 
-Nosebleeds wants range.
+the model should search different commercial surfaces and find the best stories.
 
-It does not want artificial balance.
+Directed constraints narrow the search surface.
 
-Do not require:
-
-- one fan story
-- one business story
-- two historical stories
-- three recent stories
-- a certain number of sports
-- a certain number of famous subjects
-- one idea from every discovery surface
-
-Quality comes first.
-
-If the ten best ideas are unusually concentrated for a good reason, commission them.
-
-But when several ideas are similarly strong, prefer the slate that makes Nosebleeds feel:
-
-- larger
-- more surprising
-- less predictable
-- emotionally broader
-- less templated
-
-Range is a tiebreaker and a diagnostic.
-
-It is not a quota.
+They do not dictate the final article architecture.
 
 ---
 
-# 11. RECENT PAST IS FULLY VALID
+# 7. AUDIENCE GRAVITY
 
-Evergreen does not mean old.
+Nosebleeds is initially for a broad U.S.-centered sports audience.
 
-A story from two years ago can be evergreen.
-A story from twenty years ago can feel emotionally immediate.
-A story from seventy years ago can feel alive.
-A story from last season can already be stale.
+That means the main archive should naturally concentrate on subjects with existing reader interest.
 
-Age is not the criterion.
+Planning reference, not quota:
 
-For recent-past material, the key questions are:
+- 65 to 75 percent high-gravity core sports and broadly famous events
+- 15 to 25 percent broad secondary sports with meaningful crossover
+- 5 to 15 percent wildcards whose premise travels beyond the sport
 
-- Is the event settled enough to reconstruct responsibly?
-- Is there enough hindsight to know what actually mattered?
-- Does the reader remember the uncertainty, emotion, or cultural atmosphere?
-- Can the piece outlive the current news cycle?
+Core gravity includes especially:
 
-Recent sports memory is especially valuable because readers may remember not knowing what would happen next.
+- NFL
+- NBA
+- MLB
+- college football
+- college basketball
+- the most broadly famous athletes, championships, rivalries, and moments
 
----
+Secondary gravity can include:
 
-# 12. IDEATION DOES NOT NEED A HINGE
+- NHL
+- soccer
+- golf
+- tennis
+- F1
+- combat sports
+- Olympics
+- other nationally or globally prominent events
 
-A hinge is one possible story mechanism.
+Wildcards include smaller sports and less familiar subjects.
 
-It is not an entrance exam.
+The runtime model should understand the principle, not mechanically fill tiers.
 
-Some great pieces have:
+Do not seek small sports merely to make the slate look diverse.
 
-- a single decisive moment
-- a bounded sequence
-- a rise
-- a collapse
-- a pursuit
-- a rivalry
-- a mystery
-- a mechanism
-- an argument
-- an obsession
-- a spread
-- a cultural transformation
-- a character whose life itself carries the piece
+Do not reject an exceptional wildcard because the sport is small.
 
-Ideation should not manufacture a hinge because a schema requests one.
+The test for a lower-gravity subject is:
 
-Generation will determine the appropriate editorial spine.
+> **Would someone who does not follow this sport still want this story?**
 
 ---
 
-# 13. IDEATION DOES NOT NEED A SINGLE PROTAGONIST
+# 8. FAME IS STORED INTEREST
 
-Human stakes matter.
+A famous subject should often beat a slightly cleverer obscure subject because the audience already cares.
 
-A single named protagonist is not always necessary.
+The commissioning model must never think:
 
-A piece may be carried by:
+> This has been written about, therefore it is bad.
 
-- one person
-- several people
-- a team
-- a fan base
-- a family
-- a city
-- a league
-- a documented collective
-- a rivalry
-- a game
-- an object
-- a mechanism whose consequences are experienced by many people
+Instead:
 
-Do not invent a protagonist to satisfy structure.
+> Why is this worth experiencing again?
 
-Do not reject an otherwise excellent piece because its human center is distributed.
+Reasons may include:
 
----
+- a better frame
+- richer storytelling
+- a neglected participant
+- a better question
+- a new synthesis
+- myth versus memory
+- a contradiction
+- the other side
+- a commercial, cultural, strategic, or psychological layer
+- a better reconstruction
+- a consequence people remember incorrectly
 
-# 14. IDEATION MAY LEAVE THE FINAL PIECE UNRESOLVED
+Famous subjects have a reason-to-retell burden.
 
-The correct commissioning question is:
-
-> **Is there clearly something great here?**
-
-not:
-
-> Can Ideation already write the final thesis?
-
-Research may later determine that the best piece is different from the first conception.
-
-That is healthy.
-
-An accepted idea may enter Generation with open questions such as:
-
-- Who truly carries this?
-- What is the strongest verified hook?
-- Is the best piece about the athlete, coach, institution, fan, object, or mechanism?
-- Is the standard telling actually true?
-- What is the real consequence?
-- Is there a better adjacent story hiding inside the original premise?
-
-Prefer fascinating unresolved territory over a perfectly resolved mediocre premise.
+They do not have a novelty burden.
 
 ---
 
-# 15. THE COMMISSIONING TEST
+# 9. NOVELTY IS SUBORDINATE
 
-A candidate should be judged holistically.
+Do not optimize for:
 
-No dimension is a mandatory numeric score.
+- "nobody knows this"
+- "this has never been written"
+- "this sport is unusual"
+- "this rule is bizarre"
+- "this fact sounds unbelievable"
 
-## Consumer pull
+unless the underlying piece is genuinely strong.
 
-Would a sports-obsessed consumer actually choose to spend time with this?
+Novelty can create pull.
 
-## Conception strength
+It is not the product.
 
-Is this a specific piece rather than a generic subject?
+The product is the reading experience.
 
-## Discovery
+---
 
-Does it promise a meaningful new fact, perspective, mechanism, character, interpretation, or emotional understanding?
+# 10. DEPTH TEST
+
+A premise should contain enough substance to continue rewarding the reader after the hook.
+
+Do not use a fixed word-count test.
+
+Ask:
+
+> **Is there enough here for a real piece at whatever length the material deserves?**
+
+A short piece may be perfect.
+
+A long piece may be necessary.
+
+Reject or reframe ideas where the entire payoff fits in one paragraph and nothing meaningful opens beneath it.
+
+At the same time, do not inflate a simple beautiful story merely to make it "deep."
+
+---
+
+# 11. PURE SPORTS STORIES
+
+A great sports event can be enough.
+
+Do not force every event into business, psychology, sociology, or history.
+
+But do not settle for play-by-play.
+
+The ideation model should ask:
+
+- What made the event actually happen?
+- What did people believe in real time?
+- What decisions mattered?
+- What does the standard highlight package omit?
+- What larger meaning emerged naturally?
+- What does the event reveal about the athlete, team, city, league, sport, or fans?
+- Is there a contradiction, afterlife, myth, or human layer worth following?
+
+The event remains the story.
+
+The deeper material makes the event more rewarding.
+
+---
+
+# 12. PROFILES
+
+Profile is a lens.
+
+A profile is not a résumé.
+
+A profile idea should identify a compelling way to understand:
+
+- an athlete
+- owner
+- coach
+- team
+- organization
+- league
+- brand
+- stadium
+- media company
+- institution
+
+Good profile ideation often asks:
+
+- What happened to everyone around this subject?
+- What did this subject change?
+- What contradiction defines the subject?
+- What does the subject reveal about the sport?
+- What relationship best explains the subject?
+- Is there a career split, era change, or transformation that creates a spine?
+- What do opponents, teammates, fans, or institutions reveal that the subject's own résumé does not?
+
+---
+
+# 13. MULTI-DIMENSIONALITY
+
+The ideation model should think broadly.
+
+A promising piece may involve several dimensions at once.
+
+That is good.
+
+But the final conception should still feel like one piece.
+
+Do not pitch:
+
+> A game story plus a psychology section plus a business section plus a culture section.
+
+Pitch:
+
+> One strong story whose natural consequences and layers include those things.
+
+Cohesion matters more than category count.
+
+---
+
+# 14. HERO WORSHIP
+
+Do not commission a famous-person piece whose central promise is simply that the subject was great.
+
+Admiration is allowed.
+
+Worship is lazy.
+
+Never substitute reputation for observation.
+
+Look for:
+
+- decisions
+- relationships
+- contradictions
+- consequences
+- opponents
+- failures
+- vulnerabilities
+- ego
+- fear
+- luck
+- behavior under pressure
+- what changed around the person
+
+Do not become contrarian merely to avoid reverence.
+
+The subject should feel human.
+
+---
+
+# 15. SEARCH BIAS
+
+Web search naturally privileges:
+
+- official documents
+- rules
+- statistics
+- corporate announcements
+- legal filings
+- contracts
+- clearly dated changes
+- conventional retrospectives
+
+Do not confuse source cleanliness with editorial quality.
+
+Business, rules, technology, and institutions are legitimate surfaces.
+
+They receive no bonus because they are easy to verify.
+
+Searchability serves taste.
+
+Taste does not serve searchability.
+
+---
+
+# 16. ANTI-CONVERGENCE
+
+The final slate should not feel like ten outputs from one formula.
+
+Warning signs:
+
+- repeated "how X changed Y"
+- repeated rule changes
+- repeated institutional mechanisms
+- repeated obscure anecdotes
+- repeated historical origins
+- repeated profiles
+- repeated business stories
+- repeated "hidden history" language
+- repeated lower-gravity sports chosen mainly for novelty
+
+These are diagnostics, not bans.
+
+When several candidates are similarly strong, prefer the slate with more range.
+
+Do not sacrifice a clearly better idea for artificial variety.
+
+---
+
+# 17. COMMISSIONING TEST
+
+Evaluate holistically.
+
+## Audience pull
+Who already cares, and how much?
 
 ## Entertainment
+Would a sports fan enjoy spending time here?
 
-Does it plausibly make the reader feel something?
+## Conception
+Is there a strong way into the subject?
+
+## Depth
+Does the piece keep giving after the hook?
+
+## What it opens up
+Is there a richer layer that naturally deepens the sports story?
+
+## Cohesion promise
+Can those layers be woven into one piece?
 
 ## Sports gravity
-
-Is sport essential to the piece rather than decorative setting?
-
-## Specificity
-
-Can the editor already glimpse the thing that makes this particular conception worth making?
+Is sport essential?
 
 ## Research promise
-
-Is there enough credible evidence and source surface for Generation to discover the best truthful version?
+Is there enough evidence to make the piece responsibly?
 
 ## Contagion
+Is there something worth repeating, sending, picturing, or arguing about?
 
-Is there likely to be something the reader repeats, sends, argues about, remembers, or pictures afterward?
+## Reason to retell
+For familiar subjects, why this version?
 
-The ultimate question is:
+The decisive question:
 
-> **Would not making this feel like a missed opportunity?**
+> **If Nosebleeds made this extremely well, would a lot of sports fans be glad it exists?**
 
 ---
 
-# 16. HARD REJECTION CONDITIONS
+# 18. HARD REJECTION CONDITIONS
 
-An idea should normally not be commissioned when:
+Do not commission when:
 
-- the central hook appears false or cannot be responsibly supported
-- sport is incidental rather than essential
-- the idea is merely live news, recap, rumor, transaction coverage, or a hot take
-- the premise is only trivia with no larger piece
+- the central premise appears false
 - the only attraction is obscurity
-- the idea depends on exploiting private suffering without a legitimate editorial reason
-- a material claim about a living person cannot be responsibly grounded
+- the piece is merely live news or recap
+- the subject is broad with no compelling conception
+- the hook is great but the piece is obviously too thin
+- sport is incidental
+- the idea depends on irresponsible allegations about living people
 - there is no plausible research path
-- the conception remains so broad that there is no clear reason to read it
+- the idea is chosen mainly because it makes the slate look diverse
+- the piece is a biography summary rather than a conception
 
-Everything else is editorial judgment.
-
----
-
-# 17. HISTORICAL, BUSINESS, RULES, AND EXPLAINER PIECES
-
-These are allowed.
-
-They are not preferred by default.
-
-## Historical
-
-History is a timestamp, not a category.
-
-The piece should feel alive.
-
-## Business
-
-Money, ownership, media, brands, contracts, and commercial strategy are rich sports material.
-
-The piece must remain written for someone who loves sports, not for someone who works in sports business.
-
-## Rules and institutions
-
-Rules are interesting when the story, consequence, conflict, absurdity, strategy, or people around them are interesting.
-
-The rule itself is not automatically the piece.
-
-## Explainers
-
-Explanation is allowed.
-
-The standard is not:
-
-> Did the reader learn how this works?
-
-It is:
-
-> Was learning how this works itself a compelling experience?
+Everything else is taste.
 
 ---
 
-# 18. THE IDEATION OUTPUT SHOULD SOUND ALIVE
+# 19. DEFAULT RUNTIME OUTPUT
 
-Idea copy is not article prose, but it should reveal editorial excitement.
+Default Discovery returns exactly 10 commissioned ideas.
 
-Avoid memo language such as:
+No second-model taste gate is required.
 
-- "This piece examines..."
-- "This article explores..."
-- "Fans care about..."
-- "The significance of this topic..."
-- "This could work because..."
+No numeric idea score is required.
 
-The premise should sound like something worth making.
-
-The rationale should answer:
-
-> **Why do I have to read this?**
-
-This is why the runtime field is:
-
-`why_you_have_to_read_this`
-
-rather than:
-
-`why_this_could_work`
-
----
-
-# 19. RUNTIME PRINCIPLES
-
-The live Ideation workflow should remain simple.
-
-Recommended architecture:
-
-1. Load compact Nosebleeds identity
-2. Load this Standard or a compact Ideation Kernel derived from it
-3. Run one strong OpenAI web-search ideation call
-4. Parse output
-5. Deterministic schema validation
-6. Deterministic deduplication
-7. Write exactly 10 valid commissioned ideas to the queue
-
-There is no required Anthropic I2 taste gate.
-
-There is no required second-model pass/fail evaluator.
-
-There is no numeric commissioning threshold.
-
-The creative model itself is responsible for exploring broadly before returning only its best 10.
-
-If a later workflow adds another ideation model, that is an implementation experiment, not canonical editorial doctrine.
-
----
-
-# 20. RUNTIME CONTEXT DISCIPLINE
-
-Creative Ideation should not be overloaded with the entire Nosebleeds operating system.
-
-The ideation call needs:
-
-- compact brand identity
-- core editorial promise
-- this Standard or a concise derivative
-- the runtime I1 prompt
-- relevant slate context where useful
-
-It does not need:
-
-- the full Research Standard
-- the Narrative Architecture system
-- the full Production & Review Standard
-- reviewer diagnostics
-- EIC mechanics
-- final scoring machinery
-- visual production doctrine
-
-Deep production doctrine belongs downstream.
-
-Creative discovery benefits from clear taste and room to move.
-
----
-
-# 21. SLATE REVIEW
-
-Before a slate is finalized, inspect it as a whole.
-
-Warning signs include:
-
-- repeated causal constructions
-- repeated institutional mechanisms
-- excessive history
-- excessive business
-- excessive rules
-- excessive statistics
-- excessive obscure trivia
-- excessive generic profiles
-- excessive recent trend pieces
-- excessive concentration in one sport or era without editorial justification
-- similar emotional registers across most ideas
-- ideas that feel chosen because they were easy to verify
-- a slate whose generating prompt is obvious from the titles
-
-These are diagnostics.
-
-They are not automatic rejection rules.
-
-Do not sacrifice a great idea to make the spreadsheet look balanced.
-
----
-
-# 22. OUTPUT CONTRACT
-
-The canonical runtime concept is:
+Recommended schema:
 
 ```json
 {
@@ -721,77 +580,44 @@ The canonical runtime concept is:
 }
 ```
 
-Exactly 10 commissioned ideas.
+The output should sound alive.
 
-No required:
+Do not use memo language like:
 
-- archetype
-- story type
-- hinge
-- human carrier
-- era bucket
-- numeric idea score
-- pass/fail verdict from another model
+> Fans care because...
 
-The schema exists to move strong ideas through n8n.
-
-It must not become a substitute for taste.
+Write the premise as if pitching it to another sports fan.
 
 ---
 
-# 23. WHAT IDEATION MUST NEVER BECOME
+# 20. SLATE CONTEXT
 
-Ideation fails if it becomes:
+Recent commissions may be supplied to avoid repetition.
 
-- a sports-history scavenger hunt
-- a sports-business idea generator
-- a search for the cleanest causal mechanism
-- a rule-change database
-- a trivia miner
-- a famous-athlete profile factory
-- a taxonomy-filling exercise
-- a diversity quota optimizer
-- a searchability optimizer
-- a model trying to satisfy an editorial checklist instead of finding things worth making
+Use recent slate context as a warning, not a quota system.
 
-The governing rule is simpler:
+Example:
 
-> **Find the good part.**
+> Recent commissions have leaned heavily toward rule changes and institutional stories. Do not avoid those if the idea is exceptional, but this territory has been explored heavily.
+
+Do not use slate context to force weaker compensating ideas.
 
 ---
 
-# 24. CANONICAL SUMMARY
+# 21. FINAL DOCTRINE
 
-Nosebleeds is entertainment for people who cannot get enough sports.
+Nosebleeds is not looking for the best untold sports stories.
 
-Anything genuinely inside sports is fair game.
+It is looking for the best sports pieces.
 
-Famous is good.
-Obscure is good when it earns attention.
-History is good.
-Business is good.
-Rules are good.
-Profiles are good.
-Explainers are good.
+Some will be famous.
 
-None is the identity.
+Some will be obscure.
 
-The piece matters more than the topic.
+Some will be pure competition.
 
-Entertainment matters.
+Some will open into business, culture, psychology, politics, strategy, or memory.
 
-Discovery matters.
+The standard is:
 
-Sports must remain essential.
-
-Searchability is not taste.
-
-Do not settle into a pattern.
-
-Do not force archetypes.
-
-Do not manufacture hinges or protagonists.
-
-Search widely enough to surprise yourself.
-
-Then commission the 10 pieces you would be most disappointed if Nosebleeds never made.
+> **Start with something worth caring about. Find the interesting version. Commission the piece that promises the best reading experience.**

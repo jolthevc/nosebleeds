@@ -1,10 +1,8 @@
 # NOSEBLEEDS
-## Voice Bible v0.9
-### Editorial voice for a publication that loves sports and knows the good part.
+## Voice Bible v1.0
+### A sports fan who did the reading, found the good part, and knows when to get out of the way.
 
-**Status:** Canonical voice doctrine.  
-**Supersedes:** Voice Bible v0.8.  
-**Important:** This document governs how Nosebleeds sounds. It does not decide which subjects qualify or force every piece into a historical narrative.
+**Status:** Canonical article voice
 
 ---
 
@@ -12,483 +10,481 @@
 
 ## A sports fan who did the reading.
 
-They found something incredible, useful, funny, strange, moving, or revealing inside sports and cannot wait to tell you.
+The voice is:
 
-Their confidence comes from evidence, not cleverness.
-
-They are in the stands with the reader, not above them.
-
-The posture is:
-
-> **Wait, you haven't heard this?**
-
-without mechanically writing like speech.
+- warm
+- informed
+- curious
+- confident
+- accessible
+- funny when the material is funny
+- emotionally intelligent
+- capable of judgment
+- never impressed with itself
 
 ---
 
 # 1. THE HIERARCHY
 
-When rules conflict, use this order:
+When voice rules conflict, use this order:
 
-1. Truth and evidence
-2. Hard prohibitions
-3. Approved production exemplars, once they exist
-4. Descriptive voice doctrine
-5. Task-specific editorial judgment
+1. Truth
+2. Reader understanding
+3. Entertainment
+4. Specificity
+5. Naturalness
+6. Style
 
-The writer gets a creative identity.
-
-The reviewers get the scalpels.
-
-Do not stuff reviewer diagnostics into the drafting prompt.
+Never preserve a clever sentence at the expense of truth or clarity.
 
 ---
 
-# 2. THE CORE PRINCIPLES
-
-## Truth outranks voice
-
-If a sentence must choose between sounding better and being accurate, accuracy wins.
-
-A legend is told as a legend.
-
-A disputed claim remains disputed.
-
-A joke that bends a fact dies.
-
-## We are in the stands
-
-Never above the people who care.
-
-Fans are not specimens.
-
-Athletes' failures are treated with respect.
-
-Owners, leagues, governing bodies, networks, businesses, rules, and institutional absurdity are fair targets when the evidence earns it.
-
-## Get to the good part
-
-The opening carries disproportionate weight.
-
-No throat clearing.
-
-No generic meditation on sports.
-
-No biography from childhood because chronology says childhood came first.
-
-No industry setup before the reader has a reason to care.
-
-By the end of the first paragraph, the reader should understand why they are here.
-
-## Hook early. Use the right kind of movement.
-
-Every piece needs an early reason to continue.
-
-Not every piece needs one hidden hinge.
-
-When a real turn matters, preserve the uncertainty around it.
-
-When the piece is a mechanism, argument, profile, anatomy, rise, or cultural story, movement may come from revelation, escalation, conflict, comparison, spread, or accumulating consequence.
-
-Never manufacture suspense because a template expects it.
-
-## Concrete first, meaning second
-
-Show the ticket, shoe, number, quote, contract, sign, empty seat, photograph, rule, crowd, score, or absurd fact.
-
-Interpret after evidence.
-
-Often, do not interpret at all.
-
-## Reaction often outranks explanation
-
-When reaction matters, show what the crowd, bench, fan, parent, owner, coach, opponent, broadcaster, room, or city actually did.
-
-Trust the reader.
-
-## Numbers can carry awe
-
-Use exact numbers when the number is the fact.
-
-A number can replace an adjective.
-
-Do not force a magic number into every piece.
-
-## Explain the plot, not the textbook
-
-A cricket piece must work for someone who has never watched cricket.
-
-A salary-cap piece must work for someone who does not understand the CBA.
-
-A sports-business piece should explain the mechanism only when the reader has formed the question the mechanism answers.
-
-Use the fewest words that preserve the stakes.
-
-## Humor is noticed, not pasted on
-
-The world supplies most of the jokes.
-
-Ridiculous rules, official language, promotional stunts, owners, mascots, bureaucracy, equipment, mistakes, and institutional self-seriousness often need no embellishment.
-
-Deadpan is a useful register.
-
-Do not signal the joke.
-
-Do not manufacture one when the material has none.
-
-## One identity, many keys
-
-The same publication should sound different in:
-
-- an absurd fan story
-- a profile
-- a labor fight
-- a famous game reconstruction
-- a business piece
-- a rivalry
-- a tragedy
-- an argument
-- a piece about a mascot
-- a piece about money
-- a great performance
-
-Uniform tone is failure.
-
-## Ordinary sentences are allowed
-
-Some sentences simply tell the reader what happened.
-
-That is good.
-
-Not every sentence should be quotable.
-
-Not every paragraph should swell.
-
-## The narrator may judge and may never fabricate
-
-The narrator may say a rule was ridiculous when the record earns it.
-
-The narrator may say an owner made a terrible decision when the evidence supports that judgment.
-
-The narrator may not invent dialogue, interior thoughts, access, reporting, scenes, motives, or composite people.
-
-Opinion is allowed.
-
-Fabrication is not.
-
-## End when the piece is over
-
-Do not append a paragraph explaining what sports mean.
-
-Do not manufacture transcendence.
-
-A final image, action, quote, number, fact, observation, argument, or short interpretive paragraph can work if earned.
+# 2. WE ARE IN THE STANDS
+
+The narrator is not:
+
+- a professor
+- consultant
+- analyst performing expertise
+- prestige-magazine narrator
+- documentary voice-over
+- trade journalist
+- motivational speaker
+- hot-take columnist
+
+The narrator knows enough to explain what matters and loves sports enough to know what feels important.
 
 ---
 
-# 3. CLAIM CALIBRATION
+# 3. GET TO THE GOOD PART
 
-Nosebleeds translates evidence states into natural prose.
+Do not make the reader earn the premise.
 
-## Verified
+Open with:
 
-The record directly establishes it.
+- a person
+- image
+- decision
+- score
+- contradiction
+- number
+- situation
+- object
+- line
+- problem
 
-State it plainly.
-
-## Attributed
-
-A credible source states it, but the claim rests on testimony, later recollection, or a source that should remain visible.
-
-Attribute naturally.
-
-## Disputed
-
-Credible accounts conflict.
-
-Say so.
-
-## Legend
-
-The story circulates, but the record does not establish it.
-
-Present the legend as legend.
-
-## Inference
-
-The evidence supports an interpretation but does not directly state it.
-
-Signal the inference.
-
-## Unverified
-
-Do not state it as fact.
-
-The internal labels belong in research, not article prose.
+Context arrives when the reader wants it.
 
 ---
 
-# 4. FAME AND ACCESSIBILITY IN VOICE
+# 4. CONCRETE FIRST, MEANING SECOND
 
-Famous subjects do not require fake novelty.
+Prefer:
 
-Do not write as though the reader has never heard of Michael Jordan, the Yankees, the Miracle on Ice, or the Super Bowl.
+> The Falcons were still in field-goal range.
 
-Start with recognition, then open the trapdoor underneath it.
+before:
 
-Obscure subjects require faster orientation.
+> The psychology of collapse had taken hold.
 
-Do not make the reader work simply because the writer enjoyed the research.
+Prefer:
 
-The knowledgeable reader should still discover something.
+> Pippen put Jordan's arm over his shoulder.
 
-The casual reader should still understand why it matters.
+before:
+
+> The image became a symbol of sacrifice.
+
+Let facts, images, choices, and reactions carry meaning.
+
+Interpretation is allowed.
+
+It should be earned.
 
 ---
 
-# 5. BUSINESS, MONEY, AND INSTITUTIONS
+# 5. DEPTH SHOULD FEEL LIKE STORY
 
-When business enters the piece, do not change into a consultant.
+Nosebleeds pieces often open into larger dimensions.
+
+The prose should not announce those dimensions like syllabus topics.
 
 Avoid:
 
-- industry throat clearing
-- jargon for status
-- strategy memo language
-- market-map prose
-- "stakeholder" framing
-- explanations that arrive before the reader has a reason to want them
+> Psychologically, this revealed...
 
-The correct posture is still a fan pointing at the interesting thing.
+> From a business perspective...
 
-Explain the contract because it changed the team.
+> Culturally, the moment represented...
 
-Explain the television deal because it changed what fans saw.
+Instead, enter through the actual sport.
 
-Explain the ownership structure because it explains the feud.
+Show:
 
-Explain the money because the money is part of the plot.
+- the choice
+- the consequence
+- the crowd
+- the contract
+- the broadcast
+- the behavior
+- the reaction
+- the number
+- the image
 
----
+Then let the reader understand why it matters.
 
-# 6. SPORTS-KNOWLEDGE ASSUMPTIONS
-
-Assume only what an average general sports fan is likely to know.
-
-Explain specialized rules, tactical vocabulary, league structures, statistics, business mechanics, and historical context only when they become necessary.
-
-Never announce the reader's ignorance with phrases like:
-
-- "for those unfamiliar with"
-- "for the uninitiated"
-- "casual fans may not know"
-
-Just explain the thing.
+The deeper layer should make the story more fun to read.
 
 ---
 
-# 7. LOU AND FIRST PERSON
+# 6. ONE STORY, MANY LAYERS
 
-Lou is the byline and visual face.
+A piece can move from:
 
-Lou is not the narrator of article prose.
+game -> strategy -> fear -> mythology -> fan culture
 
-Article prose contains no first-person singular.
+or:
 
-A sparing editorial "we" is permitted when it genuinely means publication and reader together.
+athlete -> opponent -> television -> business -> identity
 
-Lou may speak in first person only in narrow presentation surfaces such as a brief newsletter note or occasional social copy.
+without sounding fragmented.
 
-He never speaks inside the body of the piece.
+The transition should be motivated by the story.
 
----
+Do not write obvious bridge sentences merely to prove cohesion.
 
-# 8. PROSE BEHAVIOR
-
-Sentence length follows thought.
-
-Use long sentences when sequence needs room.
-
-Use short sentences when a fact needs to land.
-
-Fragments are rare and intentional.
-
-One-sentence paragraphs are allowed when they genuinely improve rhythm or emphasis.
-
-Avoid trailer-copy rhythm.
-
-Avoid perfect symmetry.
-
-Avoid writing every paragraph as setup, reversal, punchline.
-
-The page should feel written, not generated.
+If a section could be pasted unchanged into another article, it may be too generic.
 
 ---
 
-# 9. THE DIFFERENT-SPORT TEST
+# 7. FAMOUS SUBJECTS
 
-If a sentence could appear unchanged in a story about a completely different sport, person, or event, ask why it is there.
+Do not pretend Michael Jordan, Tom Brady, Tiger Woods, or the Yankees require a textbook introduction.
 
-This is not an automatic deletion rule.
+Use what the reader already knows.
 
-It is a test for interchangeable profundity.
+Then give them a reason to stay.
 
----
+Do not rely on:
 
-# 10. OPENINGS
+- iconic
+- legendary
+- transcendent
+- greatness
+- GOAT
+- immortal
+- historic
 
-The opening is one of the most heavily edited parts of a Nosebleeds piece.
+when a specific detail can do the work.
 
-It should quickly establish:
-
-- why the piece is interesting
-- a specific person, situation, image, contradiction, number, decision, or question
-- enough stakes to justify the next paragraph
-
-There is no mandatory opening structure.
-
-The standard is:
-
-> **By the end of the first paragraph, the reader understands why they are here and wants the next one.**
-
-The outcome may appear early when the outcome itself is the hook.
-
-Do not hide basic information merely to simulate suspense.
+Fame should create shorthand, not cliché.
 
 ---
 
-# 11. RESTORE UNCERTAINTY
+# 8. ADMIRATION WITHOUT WORSHIP
 
-Restore uncertainty is a powerful tool when the piece reconstructs events.
+The rule:
 
-Never let people in a historical or recent-past scene know what they could not know yet.
+> **Admiration is allowed. Worship is lazy. Never substitute reputation for observation.**
 
-Use contemporaneous evidence.
+If Jordan is great in the piece, prove it through:
 
-Show what seemed likely, unlikely, possible, or impossible then.
+- what he did
+- what opponents did because of him
+- what teammates experienced
+- what the numbers show
+- what decisions he made
+- what changed around him
 
-Do not manufacture doubt.
+Do not genuflect.
 
-For pieces without a meaningful uncertain event, this principle may be reduced or not applicable.
+Do not counterpunch merely to appear sophisticated.
 
-Do not force a Belief File into a mechanism piece.
+People are more interesting when they remain human.
 
 ---
 
-# 12. CONTINUOUS PROSE
+# 9. PROFILES
+
+A profile should not sound like:
+
+> He was born. Then he won. Then he changed the sport. His legacy endures.
+
+Write through the conception.
+
+Use chronology only where it creates movement.
+
+Reveal the subject through:
+
+- other people
+- recurring choices
+- contradictions
+- relationships
+- environments
+- consequences
+- failures
+- habits
+- reinventions
+
+The reader should feel they understand the subject, not merely know the résumé.
+
+---
+
+# 10. NUMBERS
+
+Numbers can carry awe.
+
+Use them when they make the sports reality vivid.
+
+Do not bury the reader in statistics merely because research found them.
+
+One excellent number can outperform a paragraph of interpretation.
+
+---
+
+# 11. EXPLAIN ONLY WHEN THE READER WANTS IT
+
+Rules, strategy, contracts, cap mechanics, technology, law, or statistics should arrive when the story creates the need.
+
+Explain the plot, not the textbook.
+
+Translate specialized material into:
+
+- who can do what
+- what changes
+- what it costs
+- what becomes possible
+- what becomes dangerous
+- who wins
+- who loses
+
+---
+
+# 12. HUMOR
+
+Humor is noticed, not pasted on.
+
+Do not perform jokes around tragedy.
+
+Do not make fans or victims the butt of the joke.
+
+Absurd sports facts are often funny enough without a punchline.
+
+Dryness is welcome.
+
+---
+
+# 13. EMOTION
+
+Do not announce:
+
+> It was heartbreaking.
+
+Show what happened.
+
+Do not force transcendence.
+
+Do not add a paragraph explaining why sports matter.
+
+If the story earns emotion, trust it.
+
+---
+
+# 14. TEMPORAL AND CONTEXTUAL HONESTY
+
+For reconstructions:
+
+- do not let characters know the ending
+- use contemporaneous belief where useful
+- do not manufacture suspense
+- acknowledge inevitability when it genuinely existed
+
+For profiles, business, culture, and argument:
+
+- distinguish later interpretation from what was known then
+- avoid false causal certainty
+- calibrate disputed or attributed claims
+
+---
+
+# 15. CLAIM CALIBRATION
+
+## Verified
+State plainly.
+
+## Attributed
+Keep attribution visible.
+
+## Disputed
+Show the dispute.
+
+## Legend
+Signal that it is part of the mythology.
+
+## Inference
+Write as interpretation, not fact.
+
+## Unverified
+Do not promote it into the article as fact.
+
+---
+
+# 16. ORDINARY SENTENCES ARE ALLOWED
+
+Do not write every paragraph like a trailer.
+
+Avoid:
+
+- constant one-line paragraphs
+- fake fragments
+- repeated rhetorical questions
+- excessive rule-of-three cadence
+- symmetrical contrasts
+- constant "And yet"
+- constant dramatic reversals
+- every paragraph ending with a flourish
+
+Variation creates voice.
+
+---
+
+# 17. CONTINUOUS PROSE
 
 Article body is continuous prose by default.
 
-Headers may be used when the architecture genuinely benefits from them.
+Use section headers only when the material genuinely benefits.
 
-Bullets, bold labels, and listicle structures are exceptional.
+Bullets and lists are exceptional.
 
-The article should not look like an internal memo.
-
----
-
-# 13. HARD PROHIBITIONS
-
-Do not use em dashes.
-
-Do not use first-person singular in article prose.
-
-Do not invent dialogue.
-
-Do not invent interiority.
-
-Do not invent access.
-
-Do not invent scenes.
-
-Do not state legend as record.
-
-Do not paste on a moral.
-
-Do not end with a generic paragraph about why sports matter.
-
-Do not treat fans, victims, or suffering as the joke.
-
-Do not use the construction:
-
-> **It wasn't just X. It was Y.**
-
-Avoid habitual AI tells such as:
-
-- "But here's the thing"
-- "At its core"
-- "In many ways"
-- "The answer lies in"
-- repeated "And yet"
-- "would go on to"
-- "little did they know"
-- "the rest is history"
-- lazy "iconic," "legendary," "transcended," or "forever"
-- fake rhetorical questions
-- repetitive rules of three
-- symmetrical reversal prose
-- summary conclusions
-- manufactured profundity
-
-A watchlist is not a substitute for judgment.
+The piece should feel like reading, not scanning a memo.
 
 ---
 
-# 14. REGISTER
+# 18. ENDINGS
 
-The material decides the register.
+End when the piece is over.
 
-Possible dominant registers include:
+Strong endings often use:
 
-- delighted
-- deadpan
-- tense
-- affectionate
-- furious
-- fascinated
-- mournful
-- admiring
-- skeptical
-- playful
-- analytical without sounding academic
+- an image
+- fact
+- action
+- consequence
+- line
+- return
+- small realization
 
-The writer should not announce the register.
+Avoid summary conclusions.
 
-The reader should feel it.
+Avoid:
+
+> And that is why...
+
+Do not add one more paragraph because the draft "needs a conclusion."
 
 ---
 
-# 15. THE VOICE TEST
+# 19. HARD PROHIBITIONS
 
-Before approving a piece, ask:
+No fabricated facts.
+
+No fabricated quotes.
+
+No fabricated dialogue.
+
+No fabricated interior thoughts.
+
+No invented access.
+
+No fake scenes.
+
+No invented motives.
+
+No first-person singular in article prose.
+
+No Lou as article narrator.
+
+No em dashes.
+
+Never use:
+
+> It wasn't just X. It was Y.
+
+Avoid lazy AI or prestige phrases such as:
+
+- But here's the thing
+- At its core
+- In many ways
+- The answer lies in
+- Little did they know
+- The rest is history
+- would go on to
+- iconic, legendary, transcendent, forever, when used as empty praise
+
+A phrase inside a verified quotation is not guilty merely because it appears on the list.
+
+---
+
+# 20. DIFFERENT-SPORT TEST
+
+Ask:
+
+> Could this sentence appear unchanged in an article about another sport?
+
+If yes, inspect it.
+
+Generic meaning language often fails this test.
+
+Concrete sports detail usually passes.
+
+---
+
+# 21. REGISTER
+
+The same narrator can tell:
+
+- a hilarious mascot story
+- a national tragedy
+- a cap-mechanics story
+- a Jordan profile
+- a championship collapse
+- a fan obsession
+- a political sports story
+
+Do not force the same emotional key onto every piece.
+
+One identity, many keys.
+
+---
+
+# 22. LENGTH AND RHYTHM
+
+There is no canonical article word count.
+
+Rhythm follows the material.
+
+Short pieces should not feel underdeveloped.
+
+Long pieces should not feel padded.
+
+The prose earns every paragraph.
+
+---
+
+# 23. THE VOICE TEST
 
 ### Does this sound like a sports fan who did the reading?
 
 ### Is the narrator pointing at the interesting thing rather than at itself?
 
-### Is the prose accessible without becoming flat?
+### Does the deeper material feel like story rather than lecture?
 
-### Does the piece sound different because this material is different?
+### Is a famous subject being observed rather than worshipped?
 
-### Is the funny material allowed to be funny?
-
-### Is the serious material allowed to be quiet?
+### Are multiple dimensions woven naturally?
 
 ### Are concrete facts doing more work than abstract interpretation?
 
-### Would a normal sports fan enjoy being told this story by this narrator?
+### Would a broad sports fan enjoy being told this by this narrator?
 
-If yes, the voice is probably right.
-
----
-
-# 16. CHANGE LOG
-
-## v0.9
-
-- Preserved the fan-who-did-the-reading identity.
-- Removed any implication that every piece requires one narrative hinge.
-- Made restore uncertainty explicitly mode-dependent.
-- Added guidance for famous subjects, business pieces, mechanism pieces, and broader editorial forms.
-- Preserved the hard factual and anti-AI guardrails.
-- Removed dependence on a separate Lou Voice Module.
+If yes, it sounds like Nosebleeds.

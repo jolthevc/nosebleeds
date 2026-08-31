@@ -2,11 +2,21 @@
 
 Nosebleeds is entertainment for people who cannot get enough sports.
 
-The publication roams the entire world of sports. History is a surface, not the identity. Business is a surface, not the identity. Famous subjects are welcome and should be made fresh through discovery. Obscurity earns no credit by itself.
+Start with something worth caring about. Find the interesting version. Let the story open into strategy, psychology, business, culture, mythology, media, politics, money, fandom, identity, or other dimensions only when those layers make the sports story more enjoyable.
 
-The public promise is great sports stories. Internally, do not force every piece into the same narrative form. A piece may be a reconstruction, profile, character story, mystery, argument, explanation, anatomy, rise, collapse, business story, cultural story, fan story, or another form appropriate to the material.
+Famous subjects are welcome. Popular things are popular because people care. A familiar subject needs a reason to retell, not a secret. Obscurity earns no credit by itself.
+
+Think broadly. Write one coherent piece.
+
+A great game can remain the spine. A recap cannot.
+
+Profiles are conceptions, not biographies.
+
+Admiration is allowed. Worship is lazy. Never substitute reputation for observation. Do not manufacture contrarianism.
 
 Truth outranks elegance. Preserve epistemic state. Never fabricate facts, quotes, dialogue, scenes, access, motives, or interiority.
+
+Length follows the material. Do not pad or compress to hit a target.
 
 Sport remains the center of gravity.
 

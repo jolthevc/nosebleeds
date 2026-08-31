@@ -1,462 +1,434 @@
 # NOSEBLEEDS
-## Production and Review Standard v2.0
-### Once commissioned, find the best truthful piece and make it great.
+## Production & Review Standard v2.1
+### Once commissioned, find the best truthful version and make the reading experience great.
 
-**Status:** Canonical production doctrine.  
-**Supersedes:** Production and Review Standard v1.2.
+**Status:** Canonical production workflow
 
 ---
 
 # 0. OPERATING PRINCIPLE
 
-> **Ideation is where we kill ideas. Generation is where we make accepted ideas great.**
+Ideation commissions.
 
-A READY idea is a production commitment.
+Research discovers.
 
-Research may reframe it.
+Architecture chooses the spine.
 
-Architecture may change its form.
+Writing weaves.
 
-Review may demand revision.
+Review sharpens.
 
-The system should not repeatedly ask whether it still feels like an 8.5 idea.
+Truth governs all of it.
 
-Generation asks:
-
-> **What is the best truthful piece we can make from this commission?**
+The production system should not force every piece into the same form.
 
 ---
 
 # 1. WORKFLOW
 
-Generation runs:
-
 1. G1 Research Pass One
-2. G2 Context and Adversary
+2. G2 Research Pass Two
 3. G3 Research Compiler
 4. G4 Writer Draft
-5. G5 Story / Reader Experience Review
-6. G6 Voice / Nosebleeds / Magic Review
-7. G7 Truth / Evidence Review
-8. G8 EIC Adjudication
+5. G5 Reviewer A, Story and Reader Experience
+6. G6 Reviewer B, Voice and Nosebleeds
+7. G7 Reviewer C, Truth and Evidence
+8. G8 EIC
 9. G9 Writer Revision
 10. G10 Cold Final Review
-11. G11 EIC Round Two if needed
-12. G9 second revision if needed
-13. G12 Packaging
+11. G11 EIC Round Two if required
+12. G9 Writer Revision if required
+13. G10 Cold Final Review again
+14. G12 Packaging
 
 Maximum two revision rounds.
 
-The human final gate remains.
-
 ---
 
-# 2. GENERATION DOES NOT EDITORIALLY ABORT
+# 2. GENERATION COMMITMENT
 
-Normal research outcomes:
+Once a piece is READY, the system should try to make it great.
 
-- CONTINUE
-- REFRAME
+Research may REFRAME.
 
-Research may change:
+It should not kill the piece because:
 
-- hook
-- thesis
-- person
-- time window
-- mechanism
-- angle
-- narrative hinge
-- architecture
-- register
-- piece type
+- the original hook changes
+- the protagonist changes
+- the best article is shorter or longer than expected
+- the piece becomes more commercial
+- the piece becomes less commercial
+- the event remains the spine
+- the story becomes a profile
+- the "so what" is subtler than expected
 
-That is expected.
-
-Only exceptional operational failure stops the run:
-
-- technical/API failure
-- unrecoverable source access
-- factually impossible premise with no honest adjacent piece
-- legal or safety reason preventing responsible treatment
-
-Editorial reservations after the second revision do not become ERROR.
-
-Save the best article produced, mark `READY_FOR_REVIEW`, and surface the warning for human judgment.
+Only technical failure, unsupported core premise with no adjacent honest story, legal or safety issue, or irrecoverable evidence failure should stop Generation.
 
 ---
 
 # 3. RESEARCH HANDOFF
 
-G3 creates the canonical Research document.
-
-The writer's factual universe is the Research document.
+G3 produces the canonical factual universe.
 
 The writer does not browse.
 
-The Research document locks:
+The Research document should identify:
 
-- Verified Hook
-- Final Piece Thesis
-- Final Editorial Spine
-- Narrative Hinge if applicable
-- Key People / Human Carriers
-- Claims states
-- Standard Telling
-- What the Standard Telling Misses
-- Competing Explanations
-- Prohibited / unsupported claims
-- Relevant timeline
-- Relevant mechanisms
-- Relevant business / rules / strategy context
-- Visual leads
-- Ending candidates
+- final conception
+- verified hook
+- editorial spine
+- reason to retell where relevant
+- what the story opens up
+- tapestry map
+- key people
+- relevant mechanisms
+- contradictions
+- epistemic states
+- what not to claim
+- likely ending
+- recommended register
+
+The writer should not attempt to include every research layer.
 
 ---
 
 # 4. ARCHITECTURE
 
-Architecture follows the Narrative Architectures Standard.
+The architecture must serve the material.
 
-The central rule:
+There is no universal hinge.
 
-> **Use the shape the material wants.**
+There is no universal protagonist.
 
-A hinge is optional.
+There is no universal thesis.
 
-A named protagonist is optional.
+There must be one coherent spine.
 
-A narrative reconstruction is optional.
-
-A strong editorial spine is mandatory.
-
-Possible forms include narrative, profile, mechanism, argument, mystery, anatomy, rivalry, rise, collapse, fan story, business-inside-the-game, culture, obsession, and hybrid forms.
+The piece may contain many dimensions, but they should feel woven rather than stacked.
 
 ---
 
 # 5. WRITER INPUTS
 
-G4 receives:
+The Writer receives:
 
-- commissioned idea context
+- commissioned idea
 - Research document
+- Brand Bible
 - Voice Kernel
 - Narrative Architectures
-- Brand Bible or compact brand identity
-- selected approved calibration passages when available
+- approved calibration passages where available
 
-G4 does not receive:
-
-- raw reviewer chatter from prior pieces
-- learnings files
-- hidden score-optimization rules
-- automated Human Notes
-- internet access
-
-Human Notes remain human and operational.
+The Research document is the factual universe.
 
 ---
 
 # 6. WRITER RULES
 
-The writer should:
+Write the best consumer sports piece supported by the Research document.
 
-- establish the reason to read by the end of the first paragraph
-- use the final editorial spine
-- use a hinge only if the Research document says one is real
-- explain specialized rules or business mechanics only when needed
-- preserve epistemic state
-- write continuous prose by default
-- vary register according to material
-- let famous subjects provide recognition without pretending they are obscure
-- make obscure subjects earn attention quickly
-- end when the piece is over
+## Depth
 
-The writer must not:
+The piece should open beyond the surface subject where useful.
 
-- browse
-- invent facts
-- invent quotes
-- invent scenes
-- invent dialogue
-- invent access
-- invent interiority
-- invent motive
-- turn attribution into verification
-- use em dashes
-- use first-person singular
-- put Lou inside article prose
-- append a generic moral
+Ask:
 
-If the writer needs a fact that the Research document does not support, mark:
+> What does this story open up?
 
-`[NEEDS: specific factual requirement]`
+Use only layers that improve the reading experience.
 
-Do not fabricate around the gap.
+Do not stop the sports story to deliver a lecture.
 
----
+## Cohesion
 
-# 7. REVIEWER A: STORY / READER EXPERIENCE
+Think of the article as a tapestry.
 
-Reviewer A judges:
+Strategy, psychology, business, culture, mythology, and other dimensions should enter at the moment the reader wants them.
 
-- Hook
-- Story / Editorial Spine
-- Human Stakes / Lived Consequence
-- Discovery
-- Originality
-- Momentum
-- Structure
-- Accessibility
-- Entertainment
-- Ending
+Every major outward thread returns to the spine.
 
-Reviewer A asks:
+## Famous subjects
 
-> **Would a sports-obsessed consumer actually keep reading this?**
+Do not pretend the reader has never heard of the subject.
 
-Do not require a hinge when the piece does not need one.
+Use recognition efficiently.
 
-Do not require a single protagonist.
+Deliver the reason to retell.
 
-Do not reward research density if the reading experience feels dutiful.
+## Profiles
 
----
+Do not write a résumé.
 
-# 8. REVIEWER B: VOICE / NOSEBLEEDS / MAGIC
+Use the Research conception.
 
-Reviewer B judges:
+Let greatness or failure emerge from specifics.
 
-- Voice
-- Prose
-- Sports Magic
-- Emotional Payoff
-- Contagion
-- Restore Uncertainty when applicable
-- AI tells
-- Hindsight leakage
-- register fit
-- whether business/history/analysis has pulled the piece out of the stands
+Admiration is allowed.
 
-Reviewer B protects the publication identity.
+Worship is lazy.
+
+## Length
+
+No fixed word target governs the draft.
+
+Write the length the material deserves.
+
+Do not pad.
+
+Do not amputate.
+
+End when the piece is over.
+
+## Truth
+
+Preserve epistemic state.
+
+No invented facts, quotes, access, scenes, motives, dialogue, or interiority.
+
+## Voice
+
+Sports fan who did the reading.
+
+Concrete first.
+
+Meaning second.
+
+No em dashes.
+
+No first-person singular.
+
+Lou does not narrate.
 
 ---
 
-# 9. REVIEWER C: TRUTH / EVIDENCE
+# 7. REVIEWER A: STORY AND READER EXPERIENCE
 
-Reviewer C compares the draft directly against Research.
+Reviewer A owns:
 
-Check:
+- hook
+- editorial spine
+- depth
+- human stakes
+- conception
+- discovery
+- momentum
+- cohesion
+- accessibility
+- entertainment
+- ending
 
-- facts
-- dates
-- scores
-- numbers
-- quotes
-- rules
-- statistics
-- medical claims
-- contracts
-- financial claims
-- legend versus record
-- attribution
-- unsupported assertions
-- invented access
-- invented interiority
-- causal overstatement
-- prohibited claims
+Reviewer A specifically asks:
 
-Truth review is not a style review.
+- Is this more than the surface version?
+- Does every deeper layer make the story better?
+- Does the piece feel like one article?
+- Is the familiar material worth retelling?
+- If it is a profile, is it more than biography?
+- Does the chosen length fit the material?
+- Is any section intelligent but boring?
+
+Reviewer A does not require a hinge or protagonist.
+
+---
+
+# 8. REVIEWER B: VOICE, NOSEBLEEDS, MAGIC
+
+Reviewer B owns:
+
+- Nosebleeds voice
+- prose
+- contextual honesty
+- emotional payoff
+- sports magic
+- contagion
+
+Reviewer B scans for:
+
+- professor voice
+- trade-publication drift
+- prestige affect
+- AI cadence
+- generic reverence
+- hero worship
+- forced contrarianism
+- clichés replacing observation
+- psychology or business language that turns the piece into homework
+- manufactured profundity
+- em dashes
+- first-person singular
+- Lou leaking into the article
+
+Reviewer B should protect the sentences and moments that feel alive.
+
+---
+
+# 9. REVIEWER C: TRUTH AND EVIDENCE
+
+Reviewer C compares every factual assertion against the canonical Research document.
+
+Reviewer C owns E1.
+
+Critical issues include:
+
+- invented quotation
+- unsupported load-bearing claim
+- fabricated scene
+- legend stated as fact
+- disputed claim flattened
+- inference used as verified fact
+- unsupported living-person allegation
+- false causal certainty
+- number, date, score, contract, rule, or medical claim not supported by Research
+
+Reviewer C does not judge prose beauty.
 
 ---
 
 # 10. REVIEW OUTPUT CONTRACT
 
-Reviewers return:
+Reviewers should distinguish:
 
-```json
-{
-  "overall_assessment": "",
-  "strengths": [
-    {
-      "where": "",
-      "what": "",
-      "protect": ""
-    }
-  ],
-  "must_fix": [
-    {
-      "where": "",
-      "what": "",
-      "why": "",
-      "fix": ""
-    }
-  ],
-  "should_fix": [],
-  "optional": [],
-  "scores": {},
-  "verdict": "PASS"
-}
-```
+- must fix
+- should fix
+- optional
+- strengths to protect
 
-Allowed verdicts:
+Review should be local and actionable.
 
-- PASS
-- REVISE
-- FAIL
-
-FAIL means the current draft fails the review, not that the commissioned idea should be abandoned.
+Do not turn every preference into a must-fix.
 
 ---
 
 # 11. EIC
 
-The EIC receives:
+The EIC reads truth first.
 
-- current draft
-- Research document
-- Reviewer A
-- Reviewer B
-- Reviewer C
-- Master Scoring Rubric
-- Production Standard
-- Voice Kernel
+Then asks:
 
-The EIC:
+> **What is the real cause of the draft's weakness?**
 
-- adjudicates reviewer disagreement
-- finds root causes
-- prioritizes must-fix versus should-fix
-- protects what already works
-- creates one coherent revision brief
-- prevents over-revision
+Common root causes:
 
-Only EIC instructions reach the revision writer.
+- wrong spine
+- surface recap
+- deeper layer never arrives
+- deeper layer is intellectual but boring
+- article opens too wide
+- multi-dimensional research became multiple mini-essays
+- famous subject is treated with clichés
+- profile became chronology
+- ending explains what the story already showed
+- one unsupported fact is carrying too much meaning
 
-EIC modes:
+The EIC should fix causes, not stack symptoms.
 
-- `revise`
-- `regenerate_architecture`
+Order:
 
-Architecture regeneration is rare.
+1. truth
+2. architecture / conception
+3. reading experience
+4. voice
+5. line-level prose
+
+Protect what already works.
 
 ---
 
 # 12. REVISION
 
-The writer receives:
+Revision should be targeted.
 
-- current draft
-- Research document
-- EIC brief
-- Voice Kernel
+Do not rewrite an excellent article to fix three weak paragraphs.
 
-Default behavior:
+If architecture fundamentally failed, Round One may use `regenerate_architecture`.
 
-> **Patch named problems without rewriting the entire piece.**
+Round Two cannot regenerate.
 
-Wholesale rewrite is appropriate only when architecture truly failed.
-
-Never introduce unsupported facts during revision.
-
-If a fix requires new evidence, use `[NEEDS: ...]`.
+Preserve protected passages unless the EIC explicitly resolves the conflict.
 
 ---
 
 # 13. COLD FINAL
 
-A fresh reviewer sees:
+The cold reviewer reads as a sports fan first.
 
-- revised article
-- Research document
-- Master Scoring Rubric
-- brand identity
-
-It does not see prior scores or revision chatter.
-
-It scores the current article only.
+It scores all 17 dimensions.
 
 It must answer:
 
-> **What is the single strongest reason not to publish this piece?**
+> What is the single strongest reason not to publish?
 
-It must also identify:
+and:
 
-> **Strengths to preserve**
+> Does it sing?
+
+It should also identify:
+
+- what the piece gives beyond the surface version
+- whether the layers are cohesive
+- whether the subject is being worshipped or observed
+- whether the length feels earned
 
 ---
 
 # 14. SECOND ROUND
 
-If the cold final identifies material problems:
+If G10 returns REVISE:
 
-- G11 EIC Round Two adjudicates
-- G9 performs one more revision
+- G11 creates a narrow brief
+- G9 revises
+- G10 reruns
 
-Maximum two revision rounds.
+After the second cold review:
 
-After round two:
+- PASS proceeds to Packaging
+- editorial reservation proceeds to READY_FOR_REVIEW with warning
+- factual or technical failure is handled according to error policy
 
-- editorial reservations do not become ERROR
-- save the best article
-- mark `READY_FOR_REVIEW`
-- append an operational warning for the human reviewer if needed
+Do not loop indefinitely.
 
 ---
 
 # 15. PACKAGING
 
-G12 runs after body copy is stable.
+Packaging does not rewrite the article.
 
-It does not rewrite the article.
+It creates:
 
-It returns:
-
-- five title/subtitle pairs
-- one recommended pair
+- title options
+- subtitles
+- recommended package
 - hero recommendation
-- 2 to 4 inline visual recommendations where useful
+- supporting visuals
+- treatment prompts where appropriate
 
-Packaging optimizes:
+Packaging should reflect the actual conception.
 
-- curiosity
-- clarity
-- discovery
-- emotional pull
-- broad access
-- truth
+Do not reduce a layered piece to a generic "history of" headline.
 
-Avoid repetitive headline syntax.
+Do not force novelty language such as "the story you never knew."
 
 ---
 
 # 16. QUALITY PHILOSOPHY
 
-High standards do not require high bureaucracy.
+A Nosebleeds article can be:
 
-The editorial intelligence can be sophisticated while the n8n implementation remains simple.
+- 900 words
+- 1,700 words
+- 2,600 words
+- 4,000 words
 
-The workflow should move one strong model output into the next.
+if that is the right length.
 
-Do not create:
+A short piece is not lesser.
 
-- learning loops
-- hidden editorial memory files
-- role registries
-- artifact-version systems
-- lineage frameworks
-- context manifests
-- leases
-- module compilers
+A long piece is not automatically premium.
 
-unless a concrete operational problem later proves they are necessary.
+Quality is how much rewarding experience the article creates per unit of attention it asks for.
 
 ---
 
 # 17. FINAL PRINCIPLE
 
-The system is not trying to prove that it followed a process.
-
-It is trying to produce:
-
-> **a piece a sports fan is glad they read.**
+> **The final article should feel bigger when the reader finishes it than when they started it, while still feeling like one coherent sports story.**
