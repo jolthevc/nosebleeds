@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Ideation & Commissioning Standard v3.0
+## Ideation & Commissioning Standard v3.1
 ### Find the most compelling sports pieces, not the most novel sports facts.
 
 **Status:** Canonical governance for default and directed Ideation  
@@ -137,6 +137,41 @@ Do not confuse the lens with the structure.
 Do not confuse the subject with the conception.
 
 ---
+
+# 4A. CALIBRATION BY EXAMPLE
+
+Principles alone are not sufficient to teach editorial taste.
+
+The runtime Ideation prompt should receive a small, deliberately varied set of strong calibration examples in:
+
+`Governance/nosebleeds-editorial-calibration-examples.md`
+
+The examples exist to demonstrate editorial moves such as:
+
+- retelling famous material without pretending it is undiscovered
+- turning a broad topic into a specific conception
+- allowing a game to open into psychology without becoming a psychology article
+- allowing a team to open into business without becoming a trade publication
+- creating profiles around a way of seeing the subject rather than chronology
+- weaving multiple dimensions into one coherent piece
+- preserving pure sports storytelling when the sport itself contains enough meaning
+
+Examples are not templates.
+
+The model must not:
+- copy their subjects
+- fill an example taxonomy
+- reproduce their title formulas
+- search primarily for analogous stories
+- assume every example contains a required ingredient
+
+The model should learn the editorial move and then search freely.
+
+The calibration set should remain small enough to avoid anchoring the slate.
+
+Roughly 6 to 8 heterogeneous examples is appropriate.
+
+The calibration file can be rotated over time if outputs begin imitating it too closely.
 
 # 5. DEFAULT DISCOVERY MODE
 

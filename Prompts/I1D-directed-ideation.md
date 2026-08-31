@@ -5,6 +5,7 @@ Provider: OpenAI with web search enabled.
 Receives:
 - {{BRAND_IDENTITY}}
 - {{IDEATION_STANDARD}}
+- {{EDITORIAL_CALIBRATION}}
 - {{DIRECTED_QUERY}}
 - {{REQUESTED_LENS}}
 - {{REQUESTED_SUBJECT}}
@@ -35,6 +36,23 @@ Examples:
 The requested lens narrows the search surface.
 
 It does not dictate a formula.
+
+## Calibration behavior
+
+Use {{EDITORIAL_CALIBRATION}} to understand the level of conception Nosebleeds wants.
+
+The examples are not categories to fill and not structures to copy.
+
+A directed request such as `NFL + Business` should not automatically become a Les Snead-style capital-allocation story.
+
+A request such as `Profile` should not automatically become a "what changed around them" profile.
+
+Instead, learn the underlying standard:
+- begin with audience interest
+- find the most rewarding conception
+- let relevant dimensions open naturally
+- keep the sport essential
+- make the reading experience the product
 
 ## If a subject is supplied
 
