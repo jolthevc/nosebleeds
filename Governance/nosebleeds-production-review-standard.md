@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Production & Review Standard v2.1
+## Production & Review Standard v2.2
 ### Once commissioned, find the best truthful version and make the reading experience great.
 
 **Status:** Canonical production workflow
@@ -85,6 +85,9 @@ The Research document should identify:
 - contradictions
 - epistemic states
 - what not to claim
+- good-parts inventory
+- a 3-5 conception spread considered before convergence
+- visual opportunity map
 - likely ending
 - recommended register
 
@@ -199,6 +202,31 @@ No first-person singular.
 
 Lou does not narrate.
 
+
+## Editorial abundance
+
+Do not allocate space according to abstract importance.
+
+Give the best material room.
+
+A strange scene, great quote, human detail, or absurd score may deserve disproportionate space.
+
+Compress merely dutiful explanation.
+
+## Naturalness
+
+Do not make the article structurally perfect at the cost of life.
+
+Chronology is optional.
+
+Do not announce the significance of every beat.
+
+Do not turn every paragraph into setup -> interpretation -> takeaway.
+
+A fact can be funny without a joke.
+A quote can land without commentary.
+A paragraph can simply tell the reader what happened.
+
 ---
 
 # 7. REVIEWER A: STORY AND READER EXPERIENCE
@@ -226,6 +254,11 @@ Reviewer A specifically asks:
 - If it is a profile, is it more than biography?
 - Does the chosen length fit the material?
 - Is any section intelligent but boring?
+- What are the three most memorable things in the piece?
+- Which great Research asset did the Writer underuse?
+- Where is the article merely informative?
+- Did chronology become a substitute for narrative?
+- Did the Writer find the good part, or merely explain the subject well?
 
 Reviewer A does not require a hinge or protagonist.
 
@@ -248,6 +281,11 @@ Reviewer B scans for:
 - trade-publication drift
 - prestige affect
 - AI cadence
+- over-orderliness and suspiciously perfect chronology
+- significance-announcing transitions
+- manufactured aphorisms
+- excessive short punchy sentences or one-line paragraphs
+- interpretation immediately after a fact that already landed
 - generic reverence
 - hero worship
 - forced contrarianism
@@ -319,6 +357,11 @@ Common root causes:
 - profile became chronology
 - ending explains what the story already showed
 - one unsupported fact is carrying too much meaning
+- the draft is professional but generic
+- the Writer buried the best Research material
+- the article explains the nominal subject instead of choosing the most compelling conception
+- chronology is doing work that story energy should be doing
+- the prose is clean but model-shaped
 
 The EIC should fix causes, not stack symptoms.
 
@@ -362,6 +405,16 @@ and:
 
 > Does it sing?
 
+It must also ask:
+
+> Did the Writer find the good part, or merely explain the subject well?
+
+> Would someone who already knows the surface story be delighted they read this?
+
+> What are the three things most likely to travel into another conversation?
+
+A polished, accurate, coherent article may still return REVISE if it is generic, synthetic, over-ordered, or insufficiently entertaining.
+
 It should also identify:
 
 - what the piece gives beyond the surface version
@@ -382,8 +435,17 @@ If G10 returns REVISE:
 After the second cold review:
 
 - PASS proceeds to Packaging
-- editorial reservation proceeds to READY_FOR_REVIEW with warning
+- editorial reservation may proceed to READY_FOR_REVIEW
 - factual or technical failure is handled according to error policy
+
+Hard mechanical prose violations are not eligible to pass as an editorial reservation.
+
+Before Packaging, the article body must contain:
+- zero authored em dashes
+- zero unresolved `[NEEDS: ...]` markers
+- zero exact uses of the prohibited "It wasn't just X. It was Y." construction in authored prose
+
+If a hard mechanical violation survives Round Two, perform the narrowest possible compliance repair. This is not a third editorial revision round because it may not alter conception, architecture, facts, or meaning.
 
 Do not loop indefinitely.
 
@@ -404,9 +466,25 @@ It creates:
 
 Packaging should reflect the actual conception.
 
+Title, subtitle, and hero are one front-door problem.
+
+The package should sell the irresistible thing inside the subject, not merely identify the subject.
+
+The hero should embody the conception, not default to the obvious noun in the story.
+
 Do not reduce a layered piece to a generic "history of" headline.
 
 Do not force novelty language such as "the story you never knew."
+
+Writer title and subtitle are provisional.
+
+G12 owns the final public-facing title and subtitle.
+
+Final artifact assembly should display the G12 recommended title/subtitle once. Do not stack the G12 title above the Writer's provisional title.
+
+Changing front matter at Packaging is not considered rewriting article prose.
+
+Inline `[MEDIA INSERT ...]` blocks are production markers and may remain visible in the editor-facing Final Article artifact until publication assembly resolves/removes them.
 
 ---
 

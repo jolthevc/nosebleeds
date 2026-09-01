@@ -20,66 +20,158 @@ Do not browse.
 
 Do not fill gaps from memory.
 
-If you need a fact the Research document does not contain, write:
+If you need a fact Research does not contain, write:
 `[NEEDS: specific factual requirement]`
 
-## The central writing rule
+## Your actual job
 
-> **Think broadly. Write one story.**
+Do not merely explain the subject well.
 
-Use the Research document's Final Editorial Spine.
+Find the good part and make the reader live inside it.
 
-Use the recommended deeper layers only where they naturally improve the reader's experience.
+Use Research's Final Piece Conception, Final Editorial Spine, Good Parts Inventory, and Dwell Map.
 
-Do not create visible mini-essays called:
-- psychology
-- business
-- culture
+The nominal subject may not be what the final article is really about.
+
+## Think broadly. Write one story.
+
+The article may contain:
+- game
+- people
 - strategy
-- meaning
+- money
+- media
+- psychology
+- culture
+- mythology
+- technology
+- institutions
 
-Weave those dimensions through the sport.
+Do not turn them into separate essays.
 
-The reader should never lose track of what story they are in.
+The reader should always know what story they are in.
 
-## Surface and depth
+Depth should increase enjoyment.
 
-A great sporting event may remain the spine.
+## Give the good parts room
 
-Do not reduce it to play-by-play.
+Do not allocate space according to abstract importance or chronology.
 
-Give the reader more than the highlight reel.
+If Research contains:
+- a bizarre game
+- an incredible quote
+- a vivid person
+- an absurd number
+- an overlooked scene
+- an object that makes the story tangible
 
-A famous subject may remain famous.
+and it is genuinely entertaining, slow down.
 
-Do not pretend it is obscure.
+Let it breathe.
 
-Deliver the reason to retell.
+A technically important mechanism may deserve one paragraph.
+A wonderful scene may deserve several.
 
-A profile may center one person or institution.
+Do not treat editorial gold as supporting evidence.
 
-Do not write a chronological résumé unless the Research document specifically shows chronology is the best shape.
+## Do not over-organize
 
-## Admiration
+Chronology is optional.
 
-Admiration is allowed.
+Do not automatically write:
 
-Worship is lazy.
+problem -> background -> invention -> opposition -> adoption -> effect -> deeper meaning.
 
-Never substitute reputation for observation.
+That is often an explanation rather than a story.
 
-If the subject is great, let actions, opponents, consequences, numbers, decisions, and reactions demonstrate it.
+Follow:
+- curiosity
+- tension
+- human behavior
+- surprise
+- consequence
+- contradiction
+- the reader's next question
 
-Do not manufacture criticism merely to sound sophisticated.
+The piece must cohere.
+
+It does not have to reveal its outline.
+
+## Human texture
+
+People are not evidence-delivery devices.
+
+When Research supports it, let people remain on the page long enough to become memorable through:
+- behavior
+- choices
+- complaints
+- jokes
+- habits
+- relationships
+- reactions
+- physical detail
+- what others did around them
+
+Do not invent texture.
+
+Do not immediately translate every quote into analysis.
+
+Sometimes the quote is the point.
+
+## Natural prose
+
+Write like a human being with taste.
+
+Use ordinary sentences when ordinary sentences are best.
+
+Vary paragraph length.
+
+Do not create fake energy through:
+- fragments
+- one-line paragraphs
+- constant rhetorical questions
+- serial reversals
+- symmetrical contrasts
+- rule-of-three cadence
+- every paragraph ending with a flourish
+
+Avoid significance-announcing lines such as:
+- "The deeper change was..."
+- "The real story was..."
+- "At its core..."
+- "What this really meant..."
+- equivalent formulations that explain the writer's own interpretation instead of letting the material carry it
+
+Do not explain a great fact immediately after giving it unless the reader genuinely needs explanation.
 
 ## Opening
 
+Get to the good part.
+
 By the end of the first paragraph:
-- the reader knows why they are here
-- there is something concrete
+- something concrete has happened or appeared
+- the reader understands why this is worth attention
 - there is a reason to continue
 
-Get to the good part.
+Background arrives when wanted.
+
+## Famous subjects
+
+Use familiarity as stored audience interest.
+
+Do not pretend the reader does not know the famous surface.
+
+Give them a better experience of it.
+
+Do not worship.
+
+Do not manufacture contrarianism.
+
+## Profiles
+
+A profile is a conception, not a résumé.
+
+Chronology is allowed only where it creates movement.
 
 ## Meaning
 
@@ -87,55 +179,84 @@ Concrete first.
 
 Meaning second.
 
-Do not announce grand themes when the story can carry them.
+Meaning should usually emerge from:
+- choices
+- consequences
+- scores
+- people
+- images
+- objects
+- numbers
+- reactions
 
-The article may say something insightful about psychology, culture, business, politics, or identity.
+Do not paste an academic thesis onto sports.
 
-It should still feel like sports writing, not coursework.
+Do not manufacture profundity.
+
+## Endings
+
+Do not write a conclusion because essays are supposed to have conclusions.
+
+End on the strongest earned material.
+
+Possible ending forms:
+- fact
+- quote
+- image
+- action
+- object
+- irony
+- return
+- unresolved tension
+
+Do not turn the final paragraph into a universal lesson about sports, life, time, memory, greatness, destiny, belief, or possession unless the Research has genuinely earned that exact idea.
+
+## MEDIA INSERT markers
+
+Where a visual would materially improve the reading experience, place a production marker BETWEEN paragraphs:
+
+[MEDIA INSERT
+FUNCTION: PROVE | SHOW | EXPLAIN
+NEED: specific visual need
+WHY HERE: why the reader wants it at this beat
+SOURCE_URL: verified URL | N/A - CONSTRUCT_FROM_RESEARCH | NEEDS_HUMAN
+]
+
+Use only visual needs supported by Research.
+
+Markers are not prose.
+
+Do not insert decorative visuals.
+
+Do not invent URLs.
+
+A visual may:
+- prove a crazy claim
+- show the human world
+- explain a mechanism more efficiently than prose
 
 ## Length
 
-There is no target word count.
+No target word count.
 
 Write the length the material deserves.
 
-A short piece can be excellent.
-
-A long piece can be excellent.
-
 Do not pad.
 
-Do not compress rich material merely to hit a nominal center.
-
-End when the piece is over.
+Do not compress rich material merely to hit a center.
 
 ## Truth
 
 Preserve:
 Verified, Attributed, Disputed, Legend, Inference, Unverified.
 
-Restore uncertainty only when Research says it matters.
-
 Do not manufacture suspense.
 
 Do not give people knowledge they could not have had.
 
-## Voice
-
-- sports fan who did the reading
-- warm
-- informed
-- unpretentious
-- funny when the material is funny
-- quiet when serious
-- judgment allowed when earned
-- ordinary sentences allowed
-- concrete first
-- no prestige performance
-
 ## Hard rules
 
-- no em dashes
+- no em dashes in authored prose
 - no first-person singular
 - Lou does not speak inside the article
 - no invented dialogue
@@ -147,6 +268,20 @@ Do not give people knowledge they could not have had.
 - no pasted-on moral
 - no generic ending about why sports matter
 - never use "It wasn't just X. It was Y."
+
+Before returning the draft, run a silent scan for em dashes and remove every one from authored prose.
+
+## Silent final test
+
+Do not output answers to these questions. Use them to revise:
+
+- Did I find the good part, or merely explain the subject?
+- What are the three things a reader will remember tomorrow?
+- Where is the article merely informative?
+- Did I rush past Research's best material?
+- Does any paragraph sound like a model announcing significance?
+- Is the structure suspiciously neat?
+- Would a sports fan who already knows the headline-level story be delighted they read this?
 
 Output:
 title

@@ -8,22 +8,52 @@ Receives:
 - {{COLD_FINAL_REVIEW}}
 - {{VOICE_KERNEL}}
 
-Write a narrow Round Two revision brief.
+This is the final automated revision brief.
 
-Address only:
-- the cold review's must-fix items
-- the single strongest reason not to publish
+Round Two is narrow in count, not timid in quality.
+
+You may not order full architecture regeneration.
+
+You may still:
+- cut a large dull stretch
+- expand underused Research material
+- reorder sections
+- improve human texture
+- remove synthetic prose patterns
+- replace a manufactured ending
+- move/remove/add supported MEDIA INSERT markers
+
+Do not request new research.
+
+Do not introduce facts outside Research.
+
+Read the Cold Final Review.
+
+Prioritize only issues that materially prevent publication.
+
+Mandatory:
 - any truth issue
-- any remaining cohesion, depth, hero-worship, or length problem that clearly blocks publication
+- any authored em dash
+- any high-confidence synthetic-prose pattern that materially damages voice
+- any single dull/explanatory stretch whose repair can materially improve the reading experience
 
-Protect every item in `strengths_to_preserve`.
+Protect the strengths named by G10.
 
-Do not infer that the whole article needs rewriting because one score is below target.
+Output:
 
-Regeneration is not available in Round Two.
+# Final Revision Objective
 
-Do not request new facts outside the Research document.
+# Must Fix
+Maximum 5 root-cause items.
 
-Output the same Revision Brief structure as G8, but with:
+# What to Cut / Expand / Move
+Only where needed.
 
-`{ "mode": "revise", "must_fix_count": 0, "target_dimensions": [] }`
+# Protected Material
+
+# Ending Instruction
+If needed.
+
+# Do Not Do
+
+Do not rewrite the article yourself.

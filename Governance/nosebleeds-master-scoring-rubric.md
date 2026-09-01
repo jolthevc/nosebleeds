@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Master Scoring Rubric v2.1
+## Master Scoring Rubric v2.2
 ### Judge the reading experience we actually made.
 
 **Status:** Canonical scoring system  
@@ -141,11 +141,19 @@ This includes context tax for lower-gravity sports.
 
 Was this worth choosing over another form of sports entertainment?
 
-This is a publication-level dimension.
+This is a publication-level dimension, not a reward for competent information delivery.
 
-**9.5:** Gripping, funny, moving, fascinating, tense, beautiful, absurd, or otherwise highly pleasurable in its register.  
-**8:** Enjoyable and strong.  
-**5:** Correct and dutiful.  
+Ask:
+- Where was I surprised?
+- Where did I urgently want the next paragraph?
+- Where did a person become vivid?
+- Where did the story become funny, tense, moving, strange, beautiful, or absurd?
+- Which great fact was allowed to breathe?
+- Where did the article become merely informative?
+
+**9.5:** Sustained pleasure with multiple memorable beats. The piece repeatedly gives the reader something they would rather experience here than in a summary.  
+**8:** Enjoyable and strong, but some dutiful stretches remain.  
+**5:** Correct, informative, and professionally assembled, but not sufficiently entertaining.  
 **3:** Homework.
 
 ---
@@ -173,12 +181,28 @@ Check:
 
 ## C2. Prose
 
-Are the sentences concrete, varied, clear, and alive?
+Are the sentences concrete, varied, clear, alive, and recognizably human?
 
-**9.5:** Precise, natural, memorable, never showing off.  
-**8:** Strong with small rhythm or diction issues.  
-**5:** Generic or overworked.  
-**3:** Flat, repetitive, or synthetic.
+Inspect both surface AI-isms and structural AI cadence.
+
+Mandatory authored-prose scan:
+- em dashes
+- fake fragments
+- repeated one-line paragraphs
+- significance-announcing transitions
+- symmetrical contrasts
+- rule-of-three repetition
+- polished aphorisms that manufacture meaning
+- every paragraph ending with a flourish
+- explanatory sentences immediately after facts that already landed
+- suspiciously perfect A -> B -> C -> D progression
+
+**9.5:** Precise, natural, varied, memorable, and unselfconscious. The prose can be ordinary when ordinary is best.  
+**8:** Strong with isolated synthetic or overworked moments.  
+**5:** Professional but noticeably model-shaped, over-organized, or generic.  
+**3:** Flat, repetitive, synthetic, or mannered.
+
+Any em dash in authored article prose is a mandatory fix before PASS.
 
 ## C3. Temporal and Contextual Honesty
 
@@ -248,9 +272,21 @@ Does the piece stop at the right place?
 
 Does the piece contain material the reader will carry elsewhere?
 
-**9.5:** Multiple facts, images, arguments, or feelings are highly sendable or memorable.  
-**8:** At least one strong contagious unit.  
-**5:** Pleasant but forgettable.  
+Before scoring, name the three most likely things a reader will remember, quote, describe, or send to someone tomorrow.
+
+They may be:
+- facts
+- scenes
+- scores
+- quotes
+- images
+- contradictions
+- arguments
+- feelings
+
+**9.5:** At least three strong contagious units, with one or more exceptional.  
+**8:** Two meaningful units or one exceptional unit.  
+**5:** Pleasant but difficult to retell.  
 **3:** Nothing travels.
 
 ---
@@ -343,6 +379,27 @@ Also penalize:
 - abrupt endings caused by arbitrary length targets
 
 ---
+
+# 5A. THE COMPETENCE CEILING
+
+A polished, accurate, coherent article can still fail Nosebleeds.
+
+Do not PASS a piece merely because it has no obvious defect.
+
+"Professional but generic" is a real failure mode.
+
+A draft with weak conception, weak entertainment, synthetic prose, or little contagion should normally be revised even when factual confidence and structure are strong.
+
+There is no arithmetic pass gate, but high average scores cannot hide a reading experience that feels interchangeable.
+
+Ask:
+
+> Did the Writer find the good part, or merely explain the subject well?
+
+and:
+
+> Would a reader who already knows the surface story still be delighted they read this version?
+
 
 # 6. COLD FINAL QUESTION
 

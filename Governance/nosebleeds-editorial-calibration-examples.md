@@ -335,3 +335,78 @@ Use taste.
 The final question remains:
 
 > **If Nosebleeds made this extremely well, would a lot of sports fans be glad it exists?**
+
+
+# CALIBRATION: SAME SUBJECT, BETTER ARTICLE
+
+These examples demonstrate post-research reframing.
+
+They are not preferred subjects and are not templates.
+
+The lesson is that the nominal subject may be less interesting than the human, competitive, commercial, cultural, or absurd problem inside it.
+
+## Shot clock
+
+Weaker conception:
+
+> A history of how the NBA invented the 24-second shot clock.
+
+Why weaker:
+
+It invites chronology and explanation. The Writer can produce a completely correct article without ever finding the most entertaining thing.
+
+Stronger possible conceptions:
+
+> Basketball accidentally created a game where the smartest thing a winning team could do was stop playing basketball.
+
+> The NBA eventually had to outlaw safety because perfectly rational teams were making professional basketball miserable to watch.
+
+> Start with 19-18 and treat the score like a crime scene: how did a professional sport reach the point where refusing to shoot made competitive sense?
+
+The shot clock remains central. It becomes the answer inside a larger story rather than the encyclopedia subject.
+
+## 28-3
+
+Weaker conception:
+
+> The story of the Patriots' historic Super Bowl comeback.
+
+Stronger possible conceptions:
+
+> Anatomy of losing a game that had become almost impossible to lose.
+
+> The night "28-3" stopped being a score and became a cultural synonym for collapse.
+
+The event remains the spine, but the conception determines what the reader notices.
+
+## Tiger Woods
+
+Weaker conception:
+
+> The career and legacy of Tiger Woods.
+
+Stronger possible conception:
+
+> What it was actually like to play professional golf while Tiger Woods changed the meaning of a tournament around you.
+
+This reveals Tiger through other people's decisions, fear, economics, crowds, television, and competitive experience rather than résumé chronology.
+
+## Les Snead / Rams
+
+Weaker conception:
+
+> How the Rams build their roster.
+
+Stronger possible conception:
+
+> How one NFL team decided that some football players are worth paying almost anything for and others should be replaced before they become expensive.
+
+The business layer works because it explains actual football behavior.
+
+## The governing move
+
+Before locking a conception, ask:
+
+> Are we writing about the nominal subject because it is truly the best story, or because it is the easiest thing to organize?
+
+The best Nosebleeds version often keeps the same research territory while changing what the article is really about.

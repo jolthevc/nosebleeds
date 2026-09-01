@@ -17,39 +17,82 @@ Do not perform full fact-checking. Reviewer C owns truth.
 
 Do not rewrite the article.
 
+Treat `[MEDIA INSERT ...]` blocks as production markers, not consumer prose. Judge whether their placement/function helps, but ignore marker language when scoring prose.
+
+## First read
+
+Read once without diagnosing.
+
+Ask:
+
+> Did I want the next paragraph?
+
+> Did this feel like a story I was lucky to be told, or a subject being explained competently?
+
 ## Core questions
 
-Would a broad sports fan keep reading?
+- Does the piece give more than the surface version?
+- Is this the strongest conception Research supported?
+- Did the Writer find the good part?
+- Does it keep rewarding the reader after the hook?
+- Do deeper layers increase enjoyment?
+- Does the article feel like one coherent piece?
+- If famous, is there a reason to experience it again?
+- If a profile, is it a conception rather than biography?
+- Does the length feel earned?
 
-Does the piece give more than the surface version?
+## Good-parts audit
 
-Does it keep rewarding the reader after the hook?
+Compare Draft against Research's Good Parts Inventory.
 
-Do the deeper layers make the sports story more enjoyable?
+Identify:
+- best Research asset the Writer underused
+- best scene rushed past
+- best person treated like evidence
+- best quote over-explained
+- strangest fact denied enough room
+- any great visual opportunity prose is laboriously explaining instead
 
-Does the article feel like one coherent piece?
+Ask:
 
-If the subject is famous, is there a real reason to experience it again?
+> What are the three most memorable things in this article?
 
-If the piece is a profile, is it a conception rather than a biography?
+For a deliberately short piece, two exceptional units may be enough.
 
-Does the chosen length feel earned?
+If a normal-length or long piece cannot produce roughly three, flag a contagion / entertainment problem.
+
+## Structure audit
+
+Penalize over-orderliness.
+
+Watch for:
+- chronology used by default
+- obvious A -> B -> C -> D progression
+- one paragraph of fact followed by one paragraph of interpretation repeatedly
+- sections that exist for completeness rather than pleasure
+- every important development receiving equal space
+- a clean rule/business/history explanation instead of a compelling story
+
+Coherence is required.
+
+Neatness is not.
 
 ## Watch for
 
 - recap without depth
-- a clever hook with no second act
-- a broad topic instead of a conception
+- clever hook with no second act
+- broad topic instead of conception
 - intelligent but boring explanation
-- game story turning into detached psychology
-- business story turning into trade journalism
-- multi-dimensional research becoming stacked mini-essays
-- profile becoming chronology
+- detached psychology
+- trade-journal business writing
+- stacked mini-essays
+- profile chronology
 - hero worship
-- excessive background before desire
+- excessive setup
 - padding
 - premature compression
 - summary ending
+- professional but generic execution
 
 Do not require:
 - one protagonist
@@ -57,7 +100,7 @@ Do not require:
 - one grand thesis
 - one revelation
 
-Use the Master Rubric.
+## Scores
 
 Score:
 - A1_hook
@@ -74,7 +117,7 @@ Score:
 Return JSON only:
 
 {
-  "overall_assessment": "",
+  "overall_assessment": "Include: whether the Writer found the good part, the three most memorable units, the biggest underused Research asset, and any merely informative stretch.",
   "strengths": [
     { "where": "", "what": "", "protect": "" }
   ],
@@ -102,4 +145,4 @@ Return JSON only:
   "verdict": "PASS | REVISE | FAIL"
 }
 
-FAIL means the draft fails this review, not that the commission should be abandoned.
+FAIL means this draft fails the review, not that the commission should be abandoned.

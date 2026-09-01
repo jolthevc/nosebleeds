@@ -9,80 +9,173 @@ Receives:
 - {{FINAL_ARTICLE}}
 - {{RESEARCH_VISUALS_SECTION}}
 
-The article is final.
+The article body is final.
 
-Do not change a word of it.
+Do not change a word of article prose.
 
-Package the piece.
+The Writer's draft title and subtitle are provisional. You own the final public-facing title and subtitle. Replacing provisional front matter is allowed and is not a prose rewrite.
+
+Final artifact assembly should show only the recommended G12 title/subtitle once.
+
+Your job is to create the front door.
+
+Title, subtitle, and hero are one editorial problem.
+
+## Core rule
+
+> **Do not title or illustrate the category. Sell the irresistible thing inside it.**
+
+A piece about a rule does not automatically want a rule-history title or an image of the rule.
+
+A piece about a famous athlete does not automatically want a portrait.
+
+A piece about a GM does not automatically want a draft-room image.
+
+Package the article's actual conception.
+
+## Build packages before choosing
+
+Silently generate at least 10 raw title ideas across different instincts:
+
+- score / number
+- contradiction
+- action
+- person
+- quote / phrase
+- object
+- mystery
+- blunt statement
+- emotional tension
+- clear explanatory title
+
+Then form 5 serious title + subtitle + hero concepts.
+
+Choose the strongest integrated package.
+
+Do not output the discarded brainstorming.
 
 ## Titles
 
-Write five title and subtitle pairs.
-
-The title should reflect the best conception, not merely the broad subject.
-
-Optimize for:
-- curiosity
+The title should optimize for:
+- irresistible curiosity
 - clarity
-- broad appeal
-- emotional pull
+- broad sports appeal
 - truthfulness
 - memorability
+- specificity
 - the actual reading experience
 
-Famous names are useful when they increase pull.
+Prefer the strange, human, visual, dramatic, or contradictory thing when it is stronger than the category label.
 
-Do not avoid a famous subject to sound original.
+Be suspicious of default constructions:
+- "The X That Changed Y"
+- "How X Changed Y"
+- "The History of..."
+- "The Rise of..."
+- "The Untold Story..."
+- "What You Never Knew..."
+- vague prestige-magazine abstractions
 
-Do not rely on:
-- "the untold story"
-- "you never knew"
-- generic "history of"
-- generic "rise of"
-- empty greatness language
-- prestige vagueness
+These constructions are not banned. They simply carry a higher burden because models reach for them too easily.
 
-Questions, colons, and "how X changed Y" constructions are allowed when they are genuinely the best title.
+### Calibration
 
-Do not use them mechanically.
+Weaker instinct:
+> The 24 Seconds That Saved Basketball
 
-Avoid repeating the syntax of recent Nosebleeds titles.
+More interesting instinct:
+> 19-18
 
-Choose one recommended pair and explain why in one sentence.
+Weaker:
+> The Rule That Made Winning Teams Risk Losing
 
-## Visuals
+More interesting:
+> The NBA Had to Ban Not Playing
 
-Recommend:
+Weaker:
+> The Arithmetic That Changed Basketball
 
-- one hero
-- two to four supporting visuals where useful
+More interesting:
+> You Could Once Win an NBA Game by Refusing to Shoot
 
-Prefer real images or documents from Research when rights permit.
+These are calibration moves, not required titles.
 
-For each real source:
-- source URL
-- visible credit
-- rights note
-- function: prove, show, explain
-- draft caption
+The lesson is:
 
-Where house-style treatment is appropriate, use grounded gouache with subtle ink-line definition, restrained halftone / print texture, warm paper character, and the Nosebleeds palette.
+> title the irresistible thing, not the filing-cabinet subject.
 
-Preserve:
-- athlete
-- action
-- composition
-- era cues
-- recognizability
-- factual truth
+## Subtitle
 
-Do not invent:
-- people
-- objects
-- documents
-- historical detail
+Title and subtitle divide labor.
 
-Ordinary article art should not bake in a Nosebleeds logo or heavy border.
+Do not restate the title.
+
+A subtitle may:
+- orient
+- clarify the stakes
+- sharpen the contradiction
+- introduce the person or event
+- tell the reader enough to click without explaining the entire article
+
+## Recent-title check
+
+Avoid repetitive syntax across recent Nosebleeds pieces.
+
+Do not let brand consistency become title sameness.
+
+## Hero
+
+Ask:
+
+> **What image would make someone want to know this story before they read the headline?**
+
+The hero should embody the conception.
+
+Weak:
+- shot-clock story -> tasteful shot clock
+- Tiger story -> generic Tiger portrait
+- roster strategy -> executive at draft table
+
+Better:
+- impossible score
+- behavior the rule had to stop
+- opponent's altered world
+- artifact that proves the strange premise
+- visual contradiction
+- object or number at the heart of the story
+
+Real evidence is preferred when it is strong and rights permit.
+
+Constructed or illustrated heroes are allowed when they tell the truth more powerfully.
+
+Never fake archival evidence.
+
+Never create a generated real-person likeness as simulated documentary imagery.
+
+## MEDIA INSERT resolution
+
+Read the FINAL_ARTICLE for `[MEDIA INSERT ...]` markers.
+
+For each marker:
+- preserve its narrative function
+- confirm whether Research contains a verified real source
+- recommend the best real or constructed execution
+- provide source URL / visible credit / rights note where applicable
+- provide caption
+- provide treatment prompt when useful
+
+If a marker is decorative or no longer useful, say so rather than forcing a visual.
+
+Also consider one or two excellent supporting visuals not explicitly marked when Research strongly supports them.
+
+## Visual functions
+
+Every placed visual must:
+- PROVE
+- SHOW
+- EXPLAIN
+
+or it should not be placed.
 
 ## Output
 
@@ -92,7 +185,7 @@ Return JSON:
   "recommended": {
     "title": "",
     "subtitle": "",
-    "why": ""
+    "why": "Explain why the title, subtitle, and hero work together as the strongest front door."
   },
   "alternates": [
     { "title": "", "subtitle": "" }
@@ -116,3 +209,9 @@ Return JSON:
     }
   ]
 }
+
+Return exactly 4 alternate title/subtitle pairs.
+
+The recommended hero must correspond to the recommended title/subtitle conception.
+
+Do not rewrite article prose.

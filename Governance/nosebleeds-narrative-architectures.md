@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Narrative Architectures v2.1
+## Narrative Architectures v2.2
 ### One spine, many layers.
 
 **Status:** Canonical structural guidance  
@@ -70,6 +70,75 @@ It fails if it reads like separate sections called:
 The writer should move between layers at the moment the reader wants them.
 
 The transitions should feel inevitable.
+
+# 1A. COHERENCE IS NOT CHRONOLOGY
+
+Chronology is one possible spine.
+
+It is not the default structure for history.
+
+Do not assume that an article about a rule, team, athlete, league, invention, or era should move:
+
+origin -> problem -> solution -> adoption -> effect -> legacy.
+
+That is often the cleanest explanation and the least exciting story.
+
+The article may:
+
+- open on the most absurd consequence
+- jump forward to show what now feels normal
+- return to the people who created it
+- interrupt chronology for a revealing opponent or critic
+- spend disproportionate time inside one scene
+- move backward when a myth needs checking
+- return to the present when the contrast is suddenly useful
+
+The reader should always know where they are.
+
+The reader does not need to know that the writer is marching through an outline.
+
+# 1B. STORY ENERGY DETERMINES DWELL TIME
+
+Not every beat deserves equal space.
+
+Give more room to:
+
+- scenes with human behavior
+- bizarre or funny consequences
+- moments of decision
+- vivid opposition
+- surprising evidence
+- characters who come alive
+- facts that alter the reader's mental model
+
+Compress:
+
+- obligatory chronology
+- administrative transitions
+- mechanism already understood
+- background the reader does not need
+- facts that matter to completeness more than enjoyment
+
+A piece may spend 500 words on a strange game and 70 words on a formally important meeting if that produces the better reading experience.
+
+# 1C. EXPLANATION IS NOT A NARRATIVE ENGINE
+
+A topic can be explained accurately without becoming a story.
+
+Beware structures that amount to:
+
+- here was the problem
+- here was the rule
+- here is why it worked
+
+Find the human, competitive, emotional, commercial, cultural, or absurd motion inside the explanation.
+
+For a rule story, the better article may be about the behavior that made the rule necessary.
+For a business story, the better article may be about the football decision the economics explains.
+For a famous game, the better article may be about how the participants' options narrowed.
+For a profile, the better article may be about what changed for everyone else.
+
+The nominal subject is not automatically the final conception.
 
 ---
 

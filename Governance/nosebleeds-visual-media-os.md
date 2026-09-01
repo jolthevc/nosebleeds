@@ -1,13 +1,9 @@
 # Nosebleeds Visual Media and Image Sourcing OS
 
-**Version 1.2 - Batch Three - Covers Build Mandate Deliverables 09 (Visual Media and Image Sourcing OS) and the visual portions of 02 and 10.**  
-**Inherits:** Master Handoff sections 16 and 17, Editorial OS sections 19 and 20, Build Clarification (Visual Research), Brand Bible v1.3 section 20, Research Standard v1.2 Stage 10, Narrative Architectures v1.2. Binds by reference.
+**Version 1.3 - Editorial Quality Upgrade - Covers Build Mandate Deliverables 09 (Visual Media and Image Sourcing OS) and the visual portions of 02 and 10.**  
+**Inherits:** Brand Bible, Research Standard v2.2, Narrative Architectures v2.2, Voice doctrine, and the current G1-G12 production pipeline. Binds by reference.
 
-**Interfaces with:** Production and Review Standard v1.2 through the `visual_need`, candidate-resolution, media-marker, Visual Editor, and publication-package contracts. Production governs orchestration; this OS governs visual sourcing, classification, placement, and readiness. This is deliberately an interface rather than inheritance so the canonical documents do not depend on each other circularly.
-
-> **Runtime supersession note — Batch Four v2.1.** The prove/show/explain framework, source integrity rules, rights posture, hero judgment, and generated-imagery truth rules remain canonical. Batch Four v2.1 supersedes the old standalone Visual Research role, candidate-ID orchestration, media-manifest lifecycle, Visual Editor runtime seat, schema validators, and other visual runtime mechanics below wherever they conflict. At launch, research captures real visual leads; the Writer places descriptive `[MEDIA]` needs; Packaging recommends the hero and supporting visuals and may provide house-style treatment prompts.
-
-> **Sourced stylization rule — current.** Nosebleeds may create a clearly illustrative house-style transformation of a real sourced sports image, including an identifiable real athlete, when the transformation preserves the actual person, action, moment, composition, and era cues of the source. This is stylization of a real reference, not fabrication of a documentary moment. The treatment must be visibly interpretive rather than presented as a photograph or archival record. A transformation does **not** erase the underlying source image's copyright, license, credit, permission, or other rights considerations. Synthetic "historical" scenes or fake documentary images generated without a truthful source moment remain forbidden.
+**Interfaces with:** Production and Review Standard v2.2 through research visual leads, G3 visual needs, G4/G9 media markers, and the G12 publication package. Production governs orchestration; this OS governs visual sourcing, classification, placement, and readiness.
 
 ## Governing ideas
 
@@ -55,79 +51,109 @@ A Core Story with one extraordinary proof document and no other useful inline vi
 
 ## 2. Where visual work happens
 
-Four passes. None invents evidence.
+Visual thinking is layered into the existing G1-G12 production pipeline. It is not saved for Packaging.
 
-### 2.1 Research Stage 10: leads
+### 2.1 G1 and G2: visual discovery
 
-During the research loop, the research model captures visual leads as it encounters them: a photograph on a retrieved page, scanned newspaper, document in a court record, box score, program, letter, map, or object.
+Research captures visual evidence as it encounters it:
 
-Each lead is recorded with the URL actually retrieved and the credit visible on the page when one is visible.
+- photographs
+- documents
+- box scores
+- scoreboards
+- newspaper pages
+- broadcasts
+- maps
+- objects
+- equipment
+- advertisements
+- programs
+- tickets
+- data that wants a chart
 
-Leads are cheap. Research records generously.
+For real material, record the URL actually retrieved and the visible credit when one is shown.
 
-### 2.2 Architecture: needs
+Research should also flag honest constructed possibilities such as a diagram, timeline, score reconstruction, route, or chart backed by verified packet data.
 
-After the Research Packet is locked, the Story Architect identifies visual needs rather than final images.
+### 2.2 G3: Visual Opportunity Map
 
-Each need has:
+The compiler identifies where visuals would improve the reading experience.
+
+Each need should state:
 
 ```text
 visual_need:
-  visual_need_id
-  beat_id | hero
-  function: prove | show | explain
+  function: PROVE | SHOW | EXPLAIN
   what_needed
-  research_lead_ids: []
-  preferred_real: yes | no
+  why_it_matters
+  ideal_placement
+  verified_source_url | CONSTRUCT_FROM_RESEARCH | NEEDS_HUMAN
+  hero_candidate: yes | no
 ```
 
-A visual need is a narrative request, not an assertion that an image exists.
+G3 should ask:
 
-### 2.3 Visual Research: candidates
+- What evidence should the reader see rather than merely be told?
+- What person, place, object, or artifact would make the world of the story tangible?
+- What mechanism is easier to understand visually?
+- What image embodies the conception rather than merely naming the subject?
 
-Visual Research runs after Architecture and before Draft.
+The Visual Opportunity Map is editorial planning, not permission to fabricate an asset.
 
-It reads:
+### 2.3 G4 and G9: inline MEDIA INSERT markers
 
-- the beat plan's `hero_need` and `visual_need` objects
-- the Research Packet's visual leads
-- the current Visual Media OS
+The Writer may place production markers between paragraphs.
 
-It searches specifically for what each need requires and produces ranked candidates.
+Markers are not consumer prose and are ignored when scoring sentence quality.
 
-This role may search.
-
-It may not assert a URL, credit, photographer, archive, date, licensing state, or image identity it did not actually retrieve or verify from the retrieved page.
-
-Each visual need resolves to:
+Use:
 
 ```text
-resolution:
-  visual_need_id
-  selected_candidate_id | UNRESOLVED
-  ranked_candidate_ids: []
-  resolution_note
+[MEDIA INSERT
+FUNCTION: PROVE | SHOW | EXPLAIN
+NEED: specific visual need
+WHY HERE: why the reader wants it at this exact beat
+SOURCE_URL: verified URL | N/A - CONSTRUCT_FROM_RESEARCH | NEEDS_HUMAN
+]
 ```
 
-The Drafting Packet receives only selected inline candidate IDs and their beat placements. The writer never invents a candidate ID.
+Rules:
 
-If a need is unresolved, the draft proceeds without a fake marker. The unresolved need remains in the media manifest and affects Visual Readiness.
+- place a marker only where the visual performs narrative work
+- do not place visuals at arbitrary intervals
+- do not invent a real source URL
+- do not describe a fake archival object as if it exists
+- revisions may move or remove markers when the prose changes
+- a visual should usually arrive after the reader has the question it answers
 
-### 2.4 Visual Editor: advisory bench seat
+### 2.4 G5, G6, G8, and G10: editorial visual check
 
-After the draft is frozen, the Visual Editor checks:
+Reviewers may flag:
 
-- each `[MEDIA: candidate_id]` marker sits where the visual does narrative work
-- the selected candidate still matches the beat after prose exists
-- the hero ranking reflects the story's strongest available image or visual object
-- no visual is decorative, premature, redundant, or misleading
-- a required explanatory visual has enough underlying packet data to be constructed honestly
+- a marker that arrives too early or late
+- a visual that merely decorates
+- a great visual opportunity Research found but the draft ignored
+- a visual that would allow explanatory prose to be cut
+- a hero idea that illustrates the noun rather than the conception
 
-The Visual Editor owns no article-score dimension.
+Visual findings do not excuse prose weaknesses. The article must still read well without the asset loaded.
 
-It produces an advisory specialist report to the EIC. Findings enter the revision brief as marker moves, candidate swaps, or visual-needs changes, not as prose criticism unless visual dependence has made the prose incomplete.
+### 2.5 G12: resolution and packaging
 
-The Visual Editor is separate from the eight editorial specialists and from the Evidence Auditor.
+Packaging resolves the final article's visual needs.
+
+It receives the final article, Research visual section, and Visual OS.
+
+It should:
+
+- choose the hero concept
+- resolve inline markers to real sources or honest constructed assets
+- preserve source, credit, and rights notes
+- write captions
+- write treatment prompts where useful
+- identify unresolved human sourcing work
+
+G12 does not rewrite the article body.
 
 ## 3. The hero
 
@@ -137,6 +163,9 @@ The hero makes the story feel like an event and serves the story card, newslette
 
 Rules:
 
+- The hero sells the reason the story is irresistible before the reader starts.
+- The hero should embody the conception, not merely depict the nominal subject.
+- Ask: "What image would make someone want to know what happened even before reading the headline?"
 - The hero belongs to the story: person, crowd, object, document, scoreboard, place, or other central visual object.
 - Never the mascot.
 - Never a generic stadium simply because the story is about sports.
@@ -144,7 +173,20 @@ Rules:
 - A document may be the hero when the document is itself the discovery.
 - A typographic, diagrammatic, or illustrated cover is a quality fallback, not filler.
 - A mediocre real photograph loses to an excellent constructed cover when the constructed cover tells the truth more clearly.
-- The Packager chooses the recommended hero from the Visual Editor's ranking. The human may overrule at the gate.
+- The Packager chooses the recommended hero from the G3 hero concepts, Research visual evidence, and the final article conception. The human may overrule at the gate.
+
+Weak hero instinct:
+- article about a shot clock -> handsome shot clock
+- article about Tiger -> generic Tiger portrait
+- article about a GM -> executive at a draft table
+
+Better instinct:
+- article about a 19-18 game -> the impossible-looking final score
+- article about a rule forcing play -> the behavior the rule had to stop
+- article about an athlete changing opponents -> the opponents' altered world
+- article about roster valuation -> the expensive position beside the intentionally replaceable one
+
+Literal imagery is allowed when it is genuinely the most compelling conception. It is not the default.
 
 ## 4. The candidate contract
 
@@ -310,7 +352,7 @@ A fake archival box score is forbidden. A reconstruction built from verified fig
 
 **Always label interpretive material.** Every generated or constructed visual carries a visible label such as `Illustration`, `Diagram`, or `Reconstruction from the official box score`.
 
-**Do not fabricate identifiable real people into simulated documentary moments.** A clearly illustrative transformation of a real sourced image is allowed under the Sourced Stylization Rule above, including when the athlete remains identifiable. If there is no real source moment, use objects, typography, non-identifiable silhouettes or crowds, diagrams, or other non-deceptive approaches rather than inventing a fake historical scene.
+**Do not generate identifiable real-person likenesses for story imagery.** Illustrated covers use objects, typography, non-identifiable silhouettes or crowds, diagrams, or other non-deceptive approaches rather than simulated documentary portraits.
 
 **Data visuals are built from the packet.** Every claim-bearing number in a chart, timeline, map, or reconstruction traces to packet claim IDs.
 
@@ -364,60 +406,43 @@ Draft captions are written by the Packager from the candidate contract and are m
 
 ## 8. The media manifest
 
-The versioned artifact that carries visual decisions through revision and into the final package.
+The final G12 package functions as the working media manifest.
 
-One manifest exists per article version. The final version is what the human receives.
+It should preserve enough information for a human editor to source or build the visuals without repeating the research.
 
-When a revision moves or removes a `[MEDIA: candidate_id]` marker, the manifest is regenerated. Candidates that no longer fit are flagged, not silently dropped.
+For the hero and every inline recommendation, preserve:
 
 ```text
-media_manifest:
-  brief_id
-  article_version
-  manifest_version
-
-  hero:
-    visual_need_id
-    candidate_id | UNRESOLVED
-    ranked_alternatives: []
-    visual_editor_note
-
-  inline:
-    - visual_need_id
-      beat_id
-      marker_position
-      candidate_id | UNRESOLVED
-      function
-      ranked_alternatives: []
-      caption_draft
-      credit_status:
-        confirmed | to_confirm | none_visible | not_applicable
-
-  generated:
-    - candidate_id
-      generation_prompt
-      data_table
-      interpretive_label
-
-  rights_summary:
-    counts_by_classification
-    licensing_candidates: []
-
-  flags:
-    [ no_hero_real_image_found |
-      hero_is_document |
-      hero_is_typographic_fallback |
-      unresolved_visual_need |
-      synthetic_documentary_real_person_scene_forbidden |
-      retrieved_url_missing_for_real_candidate ]
-
-  visual_readiness:
-    VISUAL_READY | VISUAL_NEEDS_HUMAN | VISUAL_BLOCKED
-
-  visual_readiness_reason
-
-  human_actions_required: []
+media_item:
+  placement: hero | inline
+  marker_text: original MEDIA INSERT marker when applicable
+  function: prove | show | explain
+  type
+  description
+  why_it_works
+  source_url
+  visible_credit
+  rights_note
+  caption_draft
+  treatment_prompt
+  status: resolved_real | construct_from_research | needs_human | omit
 ```
+
+The manifest should make unresolved sourcing explicit.
+
+If a revision moves or removes a `[MEDIA INSERT ...]` marker, G12 resolves only the markers present in the final article.
+
+A removed marker does not create an obligation to use the earlier visual.
+
+A strong unmarked visual discovered in Research may still be recommended if it materially improves the finished package.
+
+Where the publication package supports it, the final package should also state overall visual readiness:
+
+- `VISUAL_READY`
+- `VISUAL_NEEDS_HUMAN`
+- `VISUAL_BLOCKED`
+
+This status is advisory and separate from article quality.
 
 ## 9. Visual Readiness
 
@@ -464,7 +489,7 @@ It has not fabricated a URL, credit, photographer, archive, license, or right.
 
 - No fabricated URLs, credits, photographers, agencies, archive names, dates, or license terms.
 - No generated imagery presented as documentary evidence.
-- No synthetic likeness of a real person presented as a simulated documentary or historical moment. Clearly illustrative sourced transformations are allowed under the Sourced Stylization Rule.
+- No generated likeness of a real person used as simulated documentary story imagery.
 - No fake documents, archival scans, box scores, or headlines.
 - No visual placed for decoration.
 - No visual placed before the reader has the question it answers.
@@ -474,18 +499,30 @@ It has not fabricated a URL, credit, photographer, archive, license, or right.
 
 ## 12. Runtime implications
 
-- Visual leads are captured inside Research Stage 10 and stored with retrieved URLs only.
-- Architecture creates visual needs, not final candidate IDs.
-- Visual Research runs after Architecture and before Draft and resolves each need to ranked candidates or `UNRESOLVED`.
-- The Drafting Packet receives only resolved inline candidate IDs and placements.
-- The Visual Editor is an advisory diagnostic seat with no scored dimension and reports to the EIC.
-- Visual Research may rerun after a rearchitecture or any revision that creates a new visual need.
-- The Packager assembles the media manifest from candidate records, article markers, Visual Editor ranking, and final article version.
-- Schema validation rejects a real candidate whose non-empty URL was not retrieved in the run.
-- Legacy schema logic, if reused, must reject synthetic simulated-documentary depictions of identifiable real people but must not reject a clearly illustrative transformation tied to a real sourced image.
-- Visual Identity, including logo, typography, color, card system, and layout, remains a separate design brief. This OS governs story-image sourcing and use within that identity.
+The current G1-G12 pipeline can satisfy this OS without adding a new visual agent.
+
+- G1 and G2 collect real visual leads and constructed opportunities during research.
+- G3 creates the Visual Opportunity Map and hero concepts.
+- G4 places only supported `[MEDIA INSERT ...]` markers.
+- G5, G6, G8, and G10 may flag visual placement or missed visual opportunity while keeping prose review separate.
+- G9 may move, remove, or add supported markers during revision.
+- G12 resolves the final hero and inline visual package from the final article plus Research visual material.
+- Real candidate URLs must come from retrieved research. Missing URLs are never guessed.
+- Constructed visuals must trace claim-bearing details to Research.
+- Visual readiness may remain `VISUAL_NEEDS_HUMAN` when licensing or final sourcing requires a person.
+- No additional Generation workflow stage is required merely to comply with this OS.
+- A future dedicated Visual Research or Visual Editor stage may be added if the publication later needs more sourcing depth, but it is optional rather than canonical.
+- Visual Identity, including logo, typography, color, card system, and layout, remains a separate design brief.
 
 # Change Log
+
+## v1.3 - Editorial Quality Upgrade
+
+- Layered visual thinking into G1-G12 rather than saving it for packaging.
+- Added G3 Visual Opportunity Map.
+- Added inline MEDIA INSERT marker contract for G4/G9.
+- Reframed hero selection around the article conception rather than the nominal subject.
+- Preserved proof/show/explain, sourcing, rights, and no-fake-evidence rules.
 
 ## v1.2 - Batch Three
 

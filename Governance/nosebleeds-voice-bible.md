@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Voice Bible v1.0
+## Voice Bible v1.1
 ### A sports fan who did the reading, found the good part, and knows when to get out of the way.
 
 **Status:** Canonical article voice
@@ -346,6 +346,88 @@ Avoid:
 
 Variation creates voice.
 
+## THE REAL AI PROBLEM: OVER-ORDERLINESS
+
+AI prose often fails even when no banned phrase appears.
+
+The deeper failure is compulsive organization.
+
+A synthetic article tends to:
+
+- introduce the problem
+- supply background
+- explain the mechanism
+- present opposition
+- show implementation
+- summarize effects
+- announce the deeper meaning
+- finish with a polished aphorism
+
+That sequence may be perfectly clear and still feel dead.
+
+Human editorial judgment is more selective and less symmetrical.
+
+A great detail may interrupt chronology.
+A scene may run long because it is funny or tense.
+A technically important fact may be dispatched in one sentence.
+A quote may be allowed to sit without interpretation.
+A person may briefly take over the piece because the person is wonderful.
+The article may return to the present because the contrast suddenly matters.
+
+Coherence matters.
+
+Neatness is not the same thing as coherence.
+
+Do not optimize the life out of the story.
+
+## EDITORIAL ABUNDANCE
+
+The best material gets disproportionate space.
+
+Do not give each research finding equal treatment.
+
+Ask:
+
+- What is the strangest thing here?
+- What is the funniest or most absurd thing?
+- What is the most human thing?
+- What is the most vivid scene?
+- What quote changes how the reader sees the subject?
+- What fact will the reader repeat tomorrow?
+- What piece of evidence is so good that it should simply be shown?
+
+If the answer is buried in a sentence while background receives three paragraphs, the draft has allocated attention badly.
+
+A sports story is not a briefing memo.
+
+## DO NOT INTERPRET EVERYTHING
+
+The narrator does not need to tell the reader why every fact matters.
+
+After a great detail, quote, image, or statistic, consider doing nothing.
+
+Let it land.
+
+Do not routinely follow:
+
+> [great fact]
+
+with:
+
+> This revealed...
+
+or:
+
+> The deeper significance was...
+
+or:
+
+> In other words...
+
+Explanation is useful when it unlocks the story.
+
+Explanation is harmful when it merely demonstrates that the narrator understood the material.
+
 ---
 
 # 17. CONTINUOUS PROSE
@@ -370,17 +452,32 @@ Strong endings often use:
 - fact
 - action
 - consequence
-- line
+- quote
 - return
+- irony
+- physical object
+- unresolved tension
 - small realization
 
+The ending does not have to tell the reader what the story means.
+
 Avoid summary conclusions.
+
+Avoid converting a concrete sports story into a universal life lesson.
+
+Avoid manufacturing resonance with abstract language about time, destiny, greatness, memory, immortality, possession, belief, or what sports "teach us" unless the material has genuinely earned that exact thought.
 
 Avoid:
 
 > And that is why...
 
+> The deeper lesson was...
+
+> In the end...
+
 Do not add one more paragraph because the draft "needs a conclusion."
+
+Sometimes the strongest ending is simply the last unbelievable fact.
 
 ---
 
@@ -471,7 +568,59 @@ The prose earns every paragraph.
 
 ---
 
-# 23. THE VOICE TEST
+# 23. HEADLINE GUIDANCE: SELL THE IRRESISTIBLE THING
+
+A title is the front door to the reading experience.
+
+Do not title the category.
+
+Title the irresistible thing inside the category.
+
+Weak title behavior:
+
+- naming the broad topic
+- explaining the whole thesis
+- defaulting to "The X That Changed Y"
+- defaulting to "How X Changed Y"
+- vague prestige language
+- abstract nouns where a score, person, contradiction, object, or action would create more pull
+- novelty theater such as "the untold story" or "what you never knew"
+
+Examples of weaker versus stronger instinct:
+
+Weak:
+> The 24 Seconds That Saved Basketball
+
+More interesting:
+> 19-18
+
+Weak:
+> The Rule That Made Winning Teams Risk Losing
+
+More interesting:
+> The NBA Had to Ban Not Playing
+
+Weak:
+> The Arithmetic That Changed Basketball
+
+More interesting:
+> You Could Once Win an NBA Game by Refusing to Shoot
+
+The stronger examples are not mandatory final titles. They demonstrate the move:
+
+> sell the strange, human, visual, dramatic, or contradictory thing that makes the piece irresistible.
+
+The subtitle should do different work from the title.
+
+If the title creates curiosity, the subtitle may orient.
+If the title is clear, the subtitle may sharpen the contradiction.
+Do not restate the title in longer words.
+
+For famous subjects, using the famous name is often an asset when it increases pull.
+
+The final title, subtitle, and hero should feel like one editorial package.
+
+# 24. THE VOICE TEST
 
 ### Does this sound like a sports fan who did the reading?
 

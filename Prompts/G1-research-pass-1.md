@@ -14,35 +14,43 @@ The idea has already been commissioned.
 
 Do not rerun Ideation.
 
-Your job is to discover the best truthful version.
+Your job is to discover the best truthful version, including a better framing than the commission when the evidence supports one.
+
+## Research deeply, not exhaustively
+
+Prefer roughly 8-15 high-value sources over indiscriminate browsing.
+
+Stop when:
+- the central factual record is secure
+- major competing explanations have been tested
+- the best human and narrative material has been found
+- additional search has diminishing editorial value
+
+Do not sacrifice verification or discovery merely to be fast.
 
 ## Use calibration without copying it
 
-The calibration examples show what Nosebleeds means by opening a sports subject into richer dimensions while keeping the sport central.
+The examples demonstrate editorial moves, not subjects or templates.
 
-Use them to calibrate ambition.
+The commission defines territory.
 
-Do not force the commissioned idea into one of those examples.
+It does not imprison the final article.
 
-Do not assume every piece needs:
-- a business mechanism
-- a psychological thesis
-- a myth correction
-- a cultural argument
-- an outside-world "so what"
+Do not force:
+- business
+- psychology
+- myth correction
+- cultural thesis
+- revelation
+- one protagonist
+- one hinge
 
-Instead, search for the best truthful conception supported by this subject.
-
-For example, a Rams roster story can open into capital allocation because capital allocation explains football decisions. A famous game can open into psychology because changing incentives and beliefs explain what happened. A city can matter because it changes the emotional stakes of a championship.
-
-The test is always whether the additional layer makes the sports story more rewarding.
-
-## First, verify the surface
+## First verify the surface
 
 Establish:
 - whether the hook is real
-- what the standard telling says
-- the basic chronology or career context
+- the standard telling
+- core chronology or career context
 - key people
 - major source surfaces
 - the obvious explanation
@@ -50,111 +58,115 @@ Establish:
 Preserve:
 Verified, Attributed, Disputed, Legend, Inference, Unverified.
 
+Investigate Research Questions when present as questions to test, never conclusions to prove.
+
 ## Then open it up
 
 Ask repeatedly:
 
 > What is interesting here beyond the obvious version?
 
-and:
-
 > What does this story open up?
 
-Investigate only where relevant:
-- strategy
-- decision-making
-- psychology
-- business
-- money
-- contracts
-- ownership
+> What is the good part the standard version rushes past?
+
+Investigate relevant dimensions only where they make the sports story more rewarding:
+- game and strategy
+- decisions and incentives
+- people and relationships
+- opponents and losing side
+- business and money
 - media
-- culture
-- fandom
-- politics
-- identity
+- fandom and culture
+- politics and identity
 - technology
-- mythology
-- memory
+- mythology and memory
 - geography
-- relationships
-- institutional incentives
-- opponents
-- teammates
-- the losing side
 - consequences
 - contradictions
 - what changed around the subject
 
-Do not hunt for a smoking gun.
+Do not hunt for complexity for its own sake.
 
-Do not force a grand thesis.
+## Diverge before converging
 
-Do not force every dimension into the final article.
+Produce roughly 3-5 genuinely different article possibilities where supported.
 
-Your job is to find possibilities.
+Useful thinking positions include:
+- obvious article
+- narrative article
+- surprising article
+- human article
+- broadly irresistible article
 
-## Famous subjects
+Do not fill these categories mechanically.
 
-If the subject is familiar, identify possible reasons to retell:
-- richer reconstruction
-- neglected person
-- myth versus record
-- contradiction
-- other side
-- afterlife
-- synthesis
-- commercial or cultural layer
-- better causal explanation
-- profile through an unexpected but relevant relationship
+If only three conceptions are materially different, return three.
 
-Do not assume fame is saturation.
+The point is to avoid locking onto the easiest explanatory frame.
 
-## Profiles
+## Good Parts Inventory
 
-If this is a profile, research beyond biography:
-- opponents
-- teammates
-- recurring choices
-- contradictions
-- what changed around the subject
-- failures
-- habits
-- reinventions
-- institutions
-- media
-- business
-- fans
+Actively identify:
+- strangest fact
+- funniest or most absurd detail
+- best human moment
+- best scene
+- best quote
+- strongest contradiction
+- most surprising discovery
+- strongest emotional material
+- best proof object
+- thing a reader will repeat tomorrow
+- detail the obvious version usually skips
 
-Do not worship.
+Do not bury these inside generic notes.
 
-Do not manufacture criticism.
+## Visual research
 
-## Pure sports stories
+Collect actual visual leads while browsing:
+- photographs
+- documents
+- box scores
+- scoreboards
+- newspaper pages
+- objects
+- tickets
+- programs
+- broadcasts
+- maps
+- advertisements
+- data that wants a chart
 
-If a game, season, race, series, or performance is the strongest spine, preserve it.
+Include retrieved URLs and visible credits where available.
 
-Research decision points, tactics, beliefs, reactions, small breaks, and consequences.
+Also note honest constructed visuals that can be made from verified research.
 
-Do not turn the event into a detached psychology or business explainer.
+Do not fabricate visual evidence.
 
 ## Output
-
-Use clear markdown:
 
 # Commissioned Idea
 
 # Hook Verification
 
+# Research Questions Tested
+Use NOT_APPLICABLE if none were supplied.
+
 # Standard Telling
 
-# Preliminary Best Conceptions
-Give 2 to 4 plausible versions where the material supports them.
+# Conception Spread
+Give roughly 3-5 materially different conceptions. Do not create cosmetic variations.
+For each: conception, reader promise, strongest supporting material, biggest risk.
+
+# Preliminary Recommendation
+
+# Good Parts Inventory
 
 # What This Story Opens Up
 
 # Candidate Tapestry Layers
-For each, explain how it connects back to the central sports subject and whether it seems to increase reader enjoyment.
+Explain whether each increases reader enjoyment and how it returns to the sports spine.
 
 # Possible Editorial Spines
 
@@ -192,7 +204,10 @@ When useful.
 
 # Existing Treatment / Saturation Notes
 
-# Potential Visuals with URLs
+# Visual Leads with URLs
+For each, label PROVE, SHOW, or EXPLAIN when possible.
+
+# Constructed Visual Opportunities
 
 # Potential Endings
 

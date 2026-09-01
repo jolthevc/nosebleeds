@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Research Standard v2.1
+## Research Standard v2.2
 ### Find the best truthful piece, then open it up without losing it.
 
 **Status:** Canonical research doctrine for Generation
@@ -184,6 +184,97 @@ Research may discover that:
 - the cultural afterlife is the best payoff
 
 ---
+
+# 5A. DIVERGE BEFORE CONVERGING
+
+Research should not lock onto the commissioned framing too early.
+
+The commission defines territory.
+
+It does not imprison the final piece.
+
+Before the compiler chooses one conception, the research should make visible several genuinely different articles supported by the same factual universe.
+
+Build a spread of roughly 3-5 materially different conceptions.
+
+Useful prompts include:
+
+- the obvious article
+- the most narrative article
+- the most surprising article
+- the most human article
+- the most broadly irresistible article
+
+These are thinking positions, not output quotas or templates.
+
+Do not manufacture five cosmetic variations. If three truly different articles exhaust the territory, three is enough.
+
+The point is to prevent the first clean explanation from becoming the final article merely because it is easy to organize.
+
+A rule may turn out to be a story about the bizarre behavior the old rules rewarded.
+A famous game may turn out to be a story about the losing side.
+A profile may turn out to be a story about everyone forced to adapt to one person.
+A business subject may turn out to be a story about a sporting choice whose economics finally makes sense.
+
+The compiler should choose the conception that creates the best truthful reading experience, not the conception that most closely preserves the wording of the commission.
+
+# 5B. THE GOOD PARTS INVENTORY
+
+Research must distinguish useful evidence from editorial gold.
+
+Identify:
+
+- strangest fact
+- funniest or most absurd detail
+- best human moment
+- most vivid scene
+- best quote
+- strongest contradiction
+- most surprising discovery
+- strongest emotional material
+- best piece of proof
+- best object or artifact
+- thing a reader is likely to tell someone else
+- detail the standard version usually rushes past
+
+These are not mandatory inclusions.
+
+They are a warning against burying the best material beneath comprehensive explanation.
+
+# 5C. VISUAL DISCOVERY IS RESEARCH
+
+As research encounters visual evidence, record it.
+
+Look for:
+
+- photographs
+- scoreboards
+- box scores
+- newspaper pages
+- programs
+- tickets
+- contracts
+- diagrams
+- maps
+- advertisements
+- broadcasts
+- equipment
+- objects
+- archival documents
+- data that wants a chart
+
+Record actual retrieved URLs and visible credits where available.
+
+Also identify constructed visual opportunities that can be created honestly from verified research, such as:
+
+- a score reconstruction
+- a timeline
+- a route
+- a simple arithmetic diagram
+- a before/after statistical comparison
+
+Do not fabricate visual evidence.
+
 
 # 6. THE TAPESTRY MAP
 
@@ -518,6 +609,15 @@ For famous subjects. Use `NOT_APPLICABLE` where appropriate.
 # What This Story Opens Up
 List only layers that materially improve the piece.
 
+# Conception Spread
+Show roughly 3-5 materially different ways to tell the same research territory before convergence. Do not manufacture cosmetic variations.
+
+# Good Parts Inventory
+Rank the most memorable, human, strange, funny, emotional, visually strong, or contagious material. Mark the top items the Writer must protect and give room.
+
+# Dwell Map
+State where the Writer should slow down and where explanatory or chronological material should be compressed.
+
 # Tapestry Map
 Explain how those layers connect back to the spine.
 
@@ -571,6 +671,9 @@ When relevant.
 # Human Stakes / Lived Consequences
 
 # Scenes / Texture / Objects
+
+# Visual Opportunity Map
+State the narrative function, best placement, and whether each need is PROVE, SHOW, or EXPLAIN.
 
 # Potential Visuals with URLs
 
