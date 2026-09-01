@@ -6,6 +6,8 @@ Receives:
 - {{MASTER_RUBRIC}}
 - {{PRODUCTION_STANDARD}}
 - {{VOICE_KERNEL}}
+- {{FEATURE_BRIEF}}
+- {{STYLE_TELEMETRY}}
 - {{DRAFT}}
 - {{RESEARCH_DOCUMENT}}
 - {{REVIEWER_A}}
@@ -58,6 +60,22 @@ Ask:
 If the commissioned nominal subject is producing a dry explanation, Round One may radically reframe within the existing Research universe.
 
 REFRAMING WITHIN RESEARCH IS NOT FAILURE.
+
+## Compare Draft against Feature Brief
+
+Research tells you what was available.
+
+The Feature Brief tells you what the assigned article was supposed to become.
+
+Ask:
+- Did the draft protect DWELL material?
+- Did it preserve human throughlines?
+- Did low-value process or play-by-play leak back in?
+- Did the Writer confuse curation with shortening?
+- Did it cut personality while preserving explanation?
+- Is there a better story already specified in the Feature Brief?
+
+Use {{STYLE_TELEMETRY}} only as diagnostic evidence for rhythm problems.
 
 ## Root-cause questions
 

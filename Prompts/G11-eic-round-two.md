@@ -5,6 +5,9 @@ Provider: strongest editorial model.
 Receives:
 - {{REVISED_ARTICLE}}
 - {{RESEARCH_DOCUMENT}}
+- {{FEATURE_BRIEF}}
+- {{PROSE_CALIBRATION}}
+- {{STYLE_TELEMETRY}}
 - {{COLD_FINAL_REVIEW}}
 - {{VOICE_KERNEL}}
 
@@ -45,6 +48,16 @@ Mandatory:
 Protect the strengths named by G10.
 
 Round Two can make a substantial cut or reorder when the problem is local enough to solve without rebuilding the entire architecture.
+
+Do not interpret "final revision" as "make it shorter."
+
+If G10 found that the article is thin because it compressed the best human or scene material, the brief may instruct G9 to expand that material from Research.
+
+Use the Feature Brief to protect what the article was supposed to dwell on.
+
+If prose is choppy, do not fix it with run-ons. If prose is breathless, do not fix it by chopping every sentence in half.
+
+Use {{PROSE_CALIBRATION}} for qualitative direction only and {{STYLE_TELEMETRY}} as diagnostic evidence only.
 
 Output:
 

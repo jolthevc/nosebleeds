@@ -4,6 +4,9 @@ Provider: Writer model.
 
 Receives:
 - {{VOICE_KERNEL}}
+- {{PROSE_CALIBRATION}}
+- {{FEATURE_BRIEF}}
+- {{STYLE_TELEMETRY}}
 - {{DRAFT}}
 - {{RESEARCH_DOCUMENT}}
 - {{REVISION_BRIEF}}
@@ -81,6 +84,18 @@ When multiple facts, quotes, examples, or people make the same point:
 
 A shorter article can be a deeper article if the remaining material is better selected.
 
+## Curation is not compression
+
+If the article is over-explanatory, do not simply shorten everything.
+
+Cut repeated explanation, low-value process history, duplicate proof, one-use names, and play-by-play that does not change the story.
+
+Protect or expand Feature Brief DWELL material, scenes, recurring human throughlines, humor / personality supported by Research, strong quotes, and strange or emotional detail.
+
+A successful revision may become longer.
+
+Do not optimize toward brevity.
+
 ## Human texture
 
 Do not solve a thin article by adding abstraction.
@@ -111,6 +126,23 @@ Fix the behavior:
 - evidence parades
 
 The revised piece should feel less optimized and more alive while remaining clear.
+
+## Positive prose repair
+
+Use {{PROSE_CALIBRATION}} as calibration only. Never copy its language or rhythms.
+
+Repair both extremes:
+
+- choppy, tiny-sentence prose
+- breathless, over-connected prose
+
+Allow natural connectors and occasional prepositional openings where they improve flow.
+
+Preserve ordinary sentences.
+
+Add personality only when it can be supported by the material, and never on a schedule.
+
+Do not turn "more human" into more jokes.
 
 ## Quote-card test
 

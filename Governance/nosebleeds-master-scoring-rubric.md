@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Master Scoring Rubric v2.3
+## Master Scoring Rubric v2.4
 ### Judge the reading experience we actually made.
 
 **Status:** Canonical scoring system  
@@ -151,9 +151,9 @@ Ask:
 - Which great fact was allowed to breathe?
 - Where did the article become merely informative?
 
-**9.5:** Sustained pleasure with multiple memorable beats. The article is selective, alive, and difficult to put down. It repeatedly gives the reader something they would rather experience here than in a summary.  
-**8:** Enjoyable and strong, but some dutiful stretches, evidence accumulation, or over-explanation remain.  
-**5:** Correct, informative, and professionally assembled, but not sufficiently entertaining.  
+**9.5:** Sustained pleasure with multiple memorable beats. The article is selective, alive, and difficult to put down. It repeatedly gives the reader something they would rather experience here than in a summary. Human texture, scene, humor, tension, awe, or surprise are given room when the material supports them.  
+**8:** Enjoyable and strong, but some dutiful stretches, evidence accumulation, play-by-play, process narration, or over-explanation remain.  
+**5:** Correct, informative, and professionally assembled, but not sufficiently entertaining. The article recounts or explains more than it lets the reader experience.  
 **3:** Homework.
 
 ---
@@ -202,11 +202,17 @@ Mandatory authored-prose scan:
 - date-card chronology used as scaffolding
 - suspiciously perfect A -> B -> C -> D progression
 - evidence parades: many names, quotes, or examples performing the same function
+- lifeless research-memo transitions such as "the league tried fixes" or equivalent stage directions
+- staccato sentence patterns that mistake brevity for energy
+- breathless sentences carrying too many linked clauses
+- prose with no conversational connective tissue
+- personality flattened by overzealous anti-AI cleanup
+- humor or jest inserted mechanically rather than arising from observation
 
-**9.5:** Precise, natural, varied, memorable, and unselfconscious. The narrator trusts the material. The prose can be ordinary when ordinary is best, and no recurring model-shaped cadence is visible.  
-**8:** Strong with isolated synthetic, overworked, over-interpreted, or theatrically punchy moments.  
-**5:** Professional but noticeably model-shaped, over-organized, or generic.  
-**3:** Flat, repetitive, synthetic, or mannered.
+**9.5:** Precise, natural, varied, memorable, and unselfconscious. Related thoughts connect fluidly when useful, colorful sentences coexist with ordinary ones, long sentences stay controlled, and personality comes from observation rather than performance. The narrator trusts the material.  
+**8:** Strong with isolated synthetic, overworked, over-interpreted, theatrically punchy, breathless, or tonally flat moments.  
+**5:** Professional but noticeably model-shaped, over-organized, choppy, breathless, generic, or lifeless.  
+**3:** Flat, repetitive, synthetic, mannered, or difficult to hear as human prose.
 
 Any em dash in authored article prose is a mandatory fix before PASS.
 

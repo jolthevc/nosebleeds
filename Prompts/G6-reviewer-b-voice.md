@@ -5,6 +5,9 @@ Provider: fresh-context editorial model.
 Receives:
 - {{VOICE_BIBLE}}
 - {{VOICE_KERNEL}}
+- {{PROSE_CALIBRATION}}
+- {{STYLE_TELEMETRY}}
+- {{FEATURE_BRIEF}}
 - {{MASTER_RUBRIC}}
 - {{DRAFT}}
 - {{RESEARCH}}
@@ -156,6 +159,38 @@ Look for:
 Do not demand randomness.
 
 Demand natural variation.
+
+## Positive prose audit
+
+Do not only search for violations.
+
+Ask whether the prose has positive human qualities:
+
+- related thoughts connect naturally when useful
+- sentence lengths vary without looking randomized
+- medium-length sentences provide a stable center
+- occasional longer sentences remain controlled rather than breathless
+- ordinary sentences coexist with colorful ones
+- prepositional openings add texture without becoming a tic
+- personality comes from noticing rather than narrator performance
+- humor or jest appears only where the material invites it
+- serious material receives the correct temperature
+
+Use {{PROSE_CALIBRATION}} as calibration, not imitation.
+
+Flag any draft that seems to be copying example rhythms, jokes, or sentence structures.
+
+## Style telemetry audit
+
+Use {{STYLE_TELEMETRY}} as evidence, not a numeric gate.
+
+Pay attention to the share of very short sentences, longest run of very short sentences, count/share of very long sentences, longest sentence, one-sentence paragraph count, date-led paragraph count, and authored em dash count.
+
+Do not reward a draft for hitting an average.
+
+A low short-sentence rate can still sound lifeless. A high rate can still be natural in a specific passage.
+
+Judge the prose.
 
 ## Famous people
 

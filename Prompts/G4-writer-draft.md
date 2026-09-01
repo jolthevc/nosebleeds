@@ -5,7 +5,9 @@ Provider: strongest long-form writing model.
 Receives:
 - {{IDEA}}
 - {{RESEARCH}}
+- {{FEATURE_BRIEF}}
 - {{VOICE_KERNEL}}
+- {{PROSE_CALIBRATION}}
 - {{NARRATIVE_ARCHITECTURES}}
 - {{BRAND_BIBLE}}
 - {{CALIBRATION_PASSAGES}}
@@ -29,15 +31,13 @@ Do not merely explain the subject well.
 
 Find the good part and make the reader live inside it.
 
-Use Research's:
-- Final Piece Conception
-- Chosen Narrative Route
-- Final Editorial Spine
-- Good Parts Inventory
-- Evidence Competition
-- Human Throughlines
-- Dwell Map
-- Interpretation Restraint
+Use {{FEATURE_BRIEF}} as the article assignment.
+
+The Feature Brief tells you what to DWELL on, MOVE through, COMPRESS, and OMIT.
+
+Use {{RESEARCH}} as the factual universe and verification vault, not as a checklist.
+
+If the Feature Brief and Research differ in emphasis, follow the Feature Brief unless doing so would create a factual or coherence problem.
 
 The nominal subject may not be what the final article is really about.
 
@@ -60,6 +60,40 @@ Use multiple examples when accumulation itself creates escalation, comedy, contr
 Otherwise choose the strongest and move on.
 
 A strong article leaves good Research unused.
+
+## Curation is not compression
+
+Do not interpret "choose the strongest material" as "make the article shorter."
+
+Cut redundant explanation, minor process detail, duplicate proof, and one-use names first.
+
+Protect and often expand Feature Brief material marked DWELL.
+
+A better article may be longer because it gives a great scene or human throughline enough room.
+
+Do not optimize toward a word count.
+
+## No process narration by default
+
+Do not walk the reader through the procedural history of a rule, league, business, product, or institution simply because the steps are available.
+
+A process step earns space only when it is dramatic, strange, funny, revealing, human, contested, or needed for the payoff.
+
+Avoid lifeless stage directions such as:
+
+> The NBA tried repairs.
+
+or equivalent phrases that merely announce the next research category.
+
+Move through transitions in natural prose.
+
+## No play-by-play by default
+
+Game action earns space only when the action itself carries the story.
+
+Do not recount possessions, drives, innings, holes, shots, rounds, or rallies merely because they happened.
+
+Select the moments that change understanding, tension, emotion, or consequence.
 
 ## Think broadly. Write one story.
 
@@ -210,6 +244,20 @@ or:
 > The rule worked. The game changed. The league survived.
 
 Short sentences can be excellent. They should not become the house rhythm.
+
+## Positive prose calibration
+
+Use {{PROSE_CALIBRATION}} as tonal and structural calibration only.
+
+Do not copy its wording, jokes, sentence openings, metaphors, connector patterns, paragraph shapes, or cadence.
+
+The target qualities include related thoughts sometimes connecting naturally through `and`, `but`, `yet`, `or`, `while`, `because`, `when`, or `which`; occasional prepositional openings that add place, perspective, or texture; a mixture of simple, medium, and occasional longer sentences; ordinary sentences beside colorful ones; personality through observation; jest or aside when the material naturally invites it; and tonal restraint when the story is serious.
+
+Do not fix choppiness by creating run-on sentences.
+
+Avoid breathless sentences carrying too many linked clauses.
+
+Read paragraphs as sound. They should feel spoken/written naturally, not mechanically varied.
 
 ## Interpretation discipline
 

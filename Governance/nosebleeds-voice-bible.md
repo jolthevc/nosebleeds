@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Voice Bible v1.2
+## Voice Bible v1.3
 ### A sports fan who did the reading, found the good part, and knows when to get out of the way.
 
 **Status:** Canonical article voice
@@ -524,6 +524,56 @@ Bullets and lists are exceptional.
 The piece should feel like reading, not scanning a memo.
 
 ---
+
+# 17A. FLOW WITHOUT BREATHLESSNESS
+
+Human prose often connects thoughts instead of presenting every fact as a separate block.
+
+Use conjunctions and subordinate phrases naturally when ideas belong together.
+
+A sentence may begin with place, time, perspective, or circumstance before arriving at its main point. That can make prose more colorful and less robotic.
+
+But never solve choppiness by writing run-on sentences.
+
+Watch both sides:
+
+- too many very short sentences can create synthetic punchiness
+- too many sentences carrying several dependent clauses can feel breathless and overworked
+
+Read the paragraph aloud. It should sound like someone talking well, not sprinting through prepared copy.
+
+# 17B. PERSONALITY AND JEST
+
+Nosebleeds is allowed to be fun.
+
+A dry aside, an amused observation, a little incredulity, or a quietly funny comparison can make the narrator feel human.
+
+The humor should arise from the sports reality. It should not be bolted on to rescue a dull paragraph.
+
+Examples of the underlying instinct include noticing that an absurd number looks like a typo, that an "honor system" depends on competitors voluntarily ignoring incentives, or that a new technology was first tested with somebody literally calling out the seconds.
+
+Do not copy those examples as recurring bits.
+
+Do not make every article jokey.
+
+For grief, injury, injustice, death, or sincere vulnerability, warmth and restraint may be the right energy.
+
+# 17C. CALIBRATION WITHOUT MIMICRY
+
+Positive prose examples teach qualities, not patterns.
+
+Never copy their wording, jokes, sentence openings, connector sequences, paragraph shapes, metaphors, or cadence.
+
+If the draft begins to resemble a calibration example in surface form, rewrite it.
+
+Transfer the judgment:
+
+- connect thoughts when connection feels natural
+- let ordinary sentences coexist with colorful ones
+- create personality through observation
+- vary rhythm without randomizing it
+- keep long sentences controlled
+- let strong facts carry their own drama
 
 # 18. ENDINGS
 

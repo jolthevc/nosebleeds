@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Narrative Architectures v2.2
+## Narrative Architectures v2.3
 ### One spine, many layers.
 
 **Status:** Canonical structural guidance  
@@ -470,6 +470,48 @@ Do not compress rich material.
 End when the piece is over.
 
 ---
+
+# 10A. PROCESS NARRATION IS NOT A DEFAULT SHAPE
+
+A rule, league, product, business, or institution often has a procedural history.
+
+That does not mean the article should recount the procedure.
+
+Do not default to:
+
+problem -> attempted fix -> committee -> test -> adoption -> first use -> statistics -> legacy
+
+Use procedural steps only when they are themselves dramatic, strange, human, contested, funny, or necessary to understand the payoff.
+
+The answer to a story may be less interesting than the problem that made the answer necessary.
+
+# 10B. GAME STORY IS NOT PLAY-BY-PLAY
+
+Sports action earns space when it changes understanding, tension, emotion, or consequence.
+
+Do not narrate possessions, drives, innings, holes, shots, rounds, or rallies merely because they happened.
+
+A collapse may require detailed action. A profile, rule story, business piece, or cultural piece may require almost none.
+
+Select the sporting moments that contain the story.
+
+# 10C. EDITORIAL ASYMMETRY
+
+Do not distribute space evenly across chronology or concepts.
+
+One extraordinary scene may deserve several paragraphs. A historically important but dull step may deserve one sentence.
+
+Space follows reader value.
+
+# 10D. FEATURE BRIEF PRECEDENCE
+
+After Research, G3.5 produces the Feature Brief.
+
+The Feature Brief is the Writer's assignment.
+
+The full Research document remains the factual universe and verification vault, but it is not a checklist.
+
+When the Feature Brief says DWELL, COMPRESS, or OMIT, follow that editorial selection unless truth or coherence requires a change.
 
 # 11. BEAT PLAN
 

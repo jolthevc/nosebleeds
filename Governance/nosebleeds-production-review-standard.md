@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Production & Review Standard v2.3
+## Production & Review Standard v2.4
 ### Once commissioned, find the best truthful version and make the reading experience great.
 
 **Status:** Canonical production workflow
@@ -29,17 +29,23 @@ The production system should not force every piece into the same form.
 1. G1 Research Pass One
 2. G2 Research Pass Two
 3. G3 Research Compiler
-4. G4 Writer Draft
-5. G5 Reviewer A, Story and Reader Experience
-6. G6 Reviewer B, Voice and Nosebleeds
-7. G7 Reviewer C, Truth and Evidence
-8. G8 EIC
-9. G9 Writer Revision
-10. G10 Cold Final Review
-11. G11 EIC Round Two if required
-12. G9 Writer Revision if required
-13. G10 Cold Final Review again
-14. G12 Packaging
+4. G3.5 Feature Editor / Story Architect
+5. G4 Writer Draft
+6. Draft Style Telemetry, deterministic
+7. G4.5 Prose & Character Editor
+8. Final Draft Style Telemetry, deterministic
+9. G5 Reviewer A, Story and Reader Experience
+10. G6 Reviewer B, Voice and Nosebleeds
+11. G7 Reviewer C, Truth and Evidence
+12. G8 EIC
+13. G9 Writer Revision
+14. Revision Style Telemetry, deterministic
+15. G10 Cold Final Review
+16. G11 EIC Round Two if required
+17. G9 Writer Revision if required
+18. Revision Style Telemetry, deterministic if Round Two runs
+19. G10 Cold Final Review again
+20. G12 Packaging
 
 Maximum two revision rounds.
 
@@ -115,18 +121,34 @@ The piece may contain many dimensions, but they should feel woven rather than st
 
 ---
 
-# 5. WRITER INPUTS
+# 5. FEATURE EDITOR AND WRITER INPUTS
+
+G3.5 receives:
+
+- commissioned idea
+- canonical Research document
+- Feature Editor Standard
+- Story Calibration
+- Voice Kernel
+- relevant editorial calibration
+
+G3.5 creates the Feature Brief and selected Writer Source Packet.
 
 The Writer receives:
 
 - commissioned idea
-- Research document
+- Feature Brief
+- selected Writer Source Packet
+- Research document as factual reference
 - Brand Bible
 - Voice Kernel
 - Narrative Architectures
+- Prose Calibration
 - approved calibration passages where available
 
-The Research document is the factual universe.
+The Feature Brief is the assignment.
+
+The Research document is the factual universe, not a checklist.
 
 ---
 
@@ -252,6 +274,40 @@ A quote can land without commentary.
 A paragraph can simply tell the reader what happened.
 
 ---
+
+## Curation is not compression
+
+The Writer and revisers must not equate selectivity with brevity.
+
+When the article is over-explanatory, cut redundant explanation, procedural history, duplicate proof, and secondary voices first.
+
+Do not automatically cut the scene, person, humor, or human detail that makes the article worth reading.
+
+A revision may become longer if it removes low-value coverage and gives the best material more room.
+
+## Prose & Character Editor
+
+G4.5 is a single pre-review editorial pass.
+
+It is not a generic "humanizer."
+
+It may improve sentence flow, personality, character presence, jest, narrator restraint, and sentence/paragraph variety using only facts already present in Research.
+
+It may cut redundant sentence-level explanation.
+
+It should not independently reframe the article or invent scene material.
+
+If the problem is structural, leave enough evidence for G5/G8 to diagnose it rather than disguising the problem with line polish.
+
+## Style telemetry
+
+Deterministic telemetry may measure sentence and paragraph patterns such as word count, average and median sentence length, share of very short sentences, longest short-sentence run, share of very long sentences, longest sentence, one-sentence paragraph count, authored em dash count, and date-led paragraph count.
+
+Telemetry is diagnostic only.
+
+There are no numeric prose gates beyond explicit hard rules.
+
+Do not optimize writing toward a target average.
 
 # 7. REVIEWER A: STORY AND READER EXPERIENCE
 

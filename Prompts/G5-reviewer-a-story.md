@@ -5,6 +5,7 @@ Provider: fresh-context editorial model.
 Receives:
 - {{DRAFT}}
 - {{RESEARCH}}
+- {{FEATURE_BRIEF}}
 - {{MASTER_RUBRIC}}
 - {{BRAND_BIBLE}}
 - {{NARRATIVE_ARCHITECTURES}}
@@ -65,6 +66,23 @@ Ask:
 For a deliberately short piece, two exceptional units may be enough.
 
 If a normal-length or long piece cannot produce roughly three, flag a contagion / entertainment problem.
+
+## Feature Brief audit
+
+Compare the draft to {{FEATURE_BRIEF}}.
+
+Ask:
+- Did the Writer actually make the assigned article?
+- Did DWELL material receive room?
+- Did COMPRESS material stay compressed?
+- Did OMIT material leak back in through Research completeness?
+- Did game action become play-by-play?
+- Did process history become the article merely because it was chronological?
+- Did curation accidentally remove the human texture that made the brief exciting?
+
+Curation is not compression.
+
+A shorter draft can be worse if it cuts scene, character, humor, or strangeness while preserving explanation.
 
 ## Curation audit
 

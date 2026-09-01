@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Runtime Prompt Registry v2.3
+## Runtime Prompt Registry v2.4
 ### Source-of-truth map for live prompt files
 
 **Status:** Canonical registry  
@@ -84,11 +84,23 @@ Canonical Research document, 3-5-way final conception comparison, Structural Rou
 Provider:
 Anthropic or strongest non-browsing editorial model.
 
-## G4-writer-draft.md
-First draft with curation-before-coverage, human continuity, anti-over-orderliness, narrator restraint, natural-prose guidance, and inline MEDIA INSERT guidance. Uses explicit TITLE / SUBTITLE / ARTICLE_BODY delimiters for reliable downstream parsing.
+## G3.5-feature-editor.md
+Feature Editor / Story Architect. Converts canonical Research into a selective Feature Brief and Writer Source Packet. Explicitly separates DWELL / MOVE / COMPRESS / OMIT, rejects process narration and play-by-play by default, and protects the best human material from compression.
 
 Provider:
-Anthropic or strongest long-form writing model.
+Strong fresh-context editorial model, no web.
+
+## G4-writer-draft.md
+First draft written from the Feature Brief, with Research treated as a fact vault rather than a checklist. Uses positive Prose Calibration in addition to anti-AI rules. Uses explicit TITLE / SUBTITLE / ARTICLE_BODY delimiters.
+
+Provider:
+Configurable strongest long-form writing model.
+
+## G4.5-prose-character-editor.md
+Single pre-review Prose & Character Editor pass. Improves flow, sentence diversity, character presence, jest, warmth, and naturalness without reframing or inventing facts. Receives deterministic style telemetry.
+
+Provider:
+Strong fresh-context writing/editorial model. Prefer provider independence from G4 when practical.
 
 ## G5-reviewer-a-story.md
 Story, depth, cohesion, reader experience, underused Research gold, entertainment, and over-orderliness.
@@ -243,3 +255,23 @@ Runtime implications:
 - subtitles favor concrete human intrigue over abstract analytical language when possible
 - heroes favor one dominant visual idea over overloaded infographic treatment
 - G4/G9 output delimiters support clean title/body separation and paragraph preservation in n8n
+
+# EDITORIAL V6 FEATURE / PROSE SHIFT
+
+The central upgrade is:
+
+> Research finds possibilities. The Feature Editor chooses the article. The Writer writes that assignment. The Prose Editor makes it feel alive without changing what is true.
+
+Runtime implications:
+
+- add G3.5 Feature Editor between G3 and G4
+- add a selected Writer Source Packet so Research does not behave like a coverage checklist
+- add G4.5 Prose & Character Editor before forensic review
+- add deterministic style telemetry before and after G4.5
+- curation is explicitly different from compression
+- process narration and play-by-play are not default story shapes
+- editorial asymmetry is allowed when the best material deserves room
+- positive prose calibration teaches flow, connectors, prepositional texture, personality, jest, and tonal range
+- positive examples are calibration only; overfitting to wording, jokes, structures, titles, or sentence shapes is prohibited
+- reviewers judge both staccato AI cadence and breathless over-connected prose
+- the final system should feel like a smart friend telling an extraordinary sports story, not a model processing a Research packet

@@ -36,6 +36,20 @@ The lesson is:
 
 ---
 
+# 0A. CALIBRATION WITHOUT OVERFITTING
+
+The examples in this file, `nosebleeds-story-calibration.md`, and `nosebleeds-prose-calibration.md` teach judgment.
+
+They do not define recurring Nosebleeds structures.
+
+Never copy title patterns, opening syntax, jokes, sentence cadence, article sequence, contradiction framing, specific lenses, or subject analogues.
+
+Do not search for a new story that "looks like" Shot Clock, Tiger, Dream Team, or any other calibration subject.
+
+Transfer the editorial move, not the surface form.
+
+A successful new article may look nothing like any example in the calibration library.
+
 # 1. FAMOUS GAME: 28-3
 
 ## Surface

@@ -5,6 +5,9 @@ Provider: fresh context, preferably different from Writer.
 Receives:
 - {{MASTER_RUBRIC}}
 - {{BRAND_IDENTITY}}
+- {{FEATURE_BRIEF}}
+- {{PROSE_CALIBRATION}}
+- {{STYLE_TELEMETRY}}
 - {{REVISED_ARTICLE}}
 - {{RESEARCH_DOCUMENT}}
 
@@ -84,6 +87,22 @@ Ask:
 - Did it preserve a cluster of good but redundant evidence that Research had already marked as expendable?
 - Did it turn recurring human possibilities into a parade of one-use names?
 
+## Feature Brief test
+
+Compare the article to {{FEATURE_BRIEF}}.
+
+Ask:
+- Did the final piece become the article the Feature Editor assigned?
+- Did DWELL material receive disproportionate room?
+- Did the draft preserve human throughlines?
+- Did process narration or play-by-play return?
+- Did curation become mere compression?
+- Did the Writer cut the fun and keep the explanation?
+
+A concise article is not automatically well edited.
+
+A longer article is not automatically indulgent.
+
 ## Curation test
 
 Ask:
@@ -145,6 +164,24 @@ If the line is mainly portable wisdom rather than an earned story-specific insig
 Ask whether the narrator is competing with the facts.
 
 A strange score, vivid quote, or bizarre scene often needs less adjective and less performance, not more.
+
+## Positive human-prose test
+
+Use {{PROSE_CALIBRATION}} as calibration only.
+
+Ask:
+- Does the prose have a stable center of natural medium-length sentences?
+- Do connectors make related thoughts flow without becoming repetitive?
+- Are occasional longer sentences controlled rather than breathless?
+- Are prepositional openings useful rather than patterned?
+- Is there a person inside the prose?
+- Does humor arise from noticing rather than scheduling jokes?
+- Does serious material have the right temperature?
+- Does the article feel alive without trying to sound alive?
+
+Use {{STYLE_TELEMETRY}} as diagnostic evidence only.
+
+Do not PASS lifeless prose merely because it avoids banned AI constructions.
 
 ## Interpretation test
 
