@@ -35,7 +35,7 @@ Package the article's actual conception.
 
 ## Build packages before choosing
 
-Silently generate at least 10 raw title ideas across different instincts:
+Silently generate at least 12 raw title ideas across different instincts:
 
 - score / number
 - contradiction
@@ -46,13 +46,15 @@ Silently generate at least 10 raw title ideas across different instincts:
 - mystery
 - blunt statement
 - emotional tension
+- strange fact
+- human consequence
 - clear explanatory title
 
 Then form 5 serious title + subtitle + hero concepts.
 
 Choose the strongest integrated package.
 
-Do not output the discarded brainstorming.
+Do not output discarded brainstorming.
 
 ## Titles
 
@@ -76,7 +78,7 @@ Be suspicious of default constructions:
 - "What You Never Knew..."
 - vague prestige-magazine abstractions
 
-These constructions are not banned. They simply carry a higher burden because models reach for them too easily.
+These constructions are not banned. They carry a higher burden because models reach for them too easily.
 
 ### Calibration
 
@@ -90,13 +92,13 @@ Weaker:
 > The Rule That Made Winning Teams Risk Losing
 
 More interesting:
-> The NBA Had to Ban Not Playing
+> Fort Wayne Was Right
 
 Weaker:
 > The Arithmetic That Changed Basketball
 
 More interesting:
-> You Could Once Win an NBA Game by Refusing to Shoot
+> The Last 14 Minutes Took 67 Minutes
 
 These are calibration moves, not required titles.
 
@@ -112,10 +114,32 @@ Do not restate the title.
 
 A subtitle may:
 - orient
-- clarify the stakes
+- clarify stakes
 - sharpen the contradiction
 - introduce the person or event
 - tell the reader enough to click without explaining the entire article
+
+Prefer concrete, conversational language when it can do the job.
+
+Be suspicious of abstract nouns such as:
+- incentives
+- rationality
+- transformation
+- optimization
+- legacy
+- significance
+
+when a person, action, score, or consequence can say the same thing more naturally.
+
+Calibration:
+
+More analytical:
+> Before the shot clock, an NBA team could win by refusing to play. One rule changed what rational basketball looked like.
+
+More human:
+> Fort Wayne won by barely shooting. The strange part was that its strategy made perfect sense.
+
+The second is not universally better because it is casual. It is better when it gives the reader a clearer, more human reason to click.
 
 ## Recent-title check
 
@@ -131,18 +155,27 @@ Ask:
 
 The hero should embody the conception.
 
+### One dominant idea
+
+The hero should usually be understood in under two seconds.
+
+Do not turn the hero into an infographic containing every verified detail.
+
+Choose the one visual fact, contradiction, person, object, or image that creates the strongest curiosity.
+
+Put secondary proof in supporting visuals.
+
 Weak:
 - shot-clock story -> tasteful shot clock
 - Tiger story -> generic Tiger portrait
 - roster strategy -> executive at draft table
+- 19-18 story -> hero crammed with score, attendance, player scoring share, field-goal attempts, and explanatory copy
 
 Better:
-- impossible score
-- behavior the rule had to stop
-- opponent's altered world
-- artifact that proves the strange premise
-- visual contradiction
-- object or number at the heart of the story
+- 19-18 story -> `19-18` / `FINAL` as the dominant visual idea
+- rule forcing play -> behavior the rule had to stop
+- athlete changing opponents -> the opponents' altered world
+- roster valuation -> expensive position beside intentionally replaceable one
 
 Real evidence is preferred when it is strong and rights permit.
 
@@ -164,9 +197,33 @@ For each marker:
 - provide caption
 - provide treatment prompt when useful
 
-If a marker is decorative or no longer useful, say so rather than forcing a visual.
+If a marker is decorative, redundant, or no longer useful, omit it rather than forcing a visual.
 
 Also consider one or two excellent supporting visuals not explicitly marked when Research strongly supports them.
+
+## Visual non-redundancy
+
+Hero and supporting visuals should perform distinct jobs.
+
+Do not recommend a detailed box score as a supporting visual if the hero already uses the same box score and the extra detail adds no new understanding.
+
+Prefer a package where visuals progress through different functions:
+- curiosity
+- proof
+- human world
+- explanation
+
+as the article needs.
+
+## Visual readiness
+
+Without changing the output schema, make readiness explicit inside `rights_note` when useful:
+
+- `PRODUCTION_READY_REAL_SOURCE` for a verified real source with a usable sourcing path
+- `PRODUCTION_READY_CONSTRUCT` for a chart, diagram, reconstruction, or illustration that can be made directly from verified Research
+- `NEEDS_HUMAN_SOURCE_OR_LICENSE` when the visual still requires a human sourcing or licensing decision
+
+Never describe a `NEEDS_HUMAN` visual as production ready.
 
 ## Visual functions
 

@@ -410,3 +410,155 @@ Before locking a conception, ask:
 > Are we writing about the nominal subject because it is truly the best story, or because it is the easiest thing to organize?
 
 The best Nosebleeds version often keeps the same research territory while changing what the article is really about.
+
+---
+
+# CALIBRATION: SAME ARTICLE, BETTER CRAFT
+
+A strong conception can still produce weak Nosebleeds prose.
+
+The following examples calibrate execution, not subject choice.
+
+## 1. Do not perform drama on top of dramatic facts
+
+Synthetic instinct:
+
+> Professional basketball committed a crime against entertainment.
+
+Why it is weak:
+
+The narrator is trying to make the material sound exciting before the reader has experienced it. A 19-18 NBA game is already extraordinary.
+
+Better instinct:
+
+Put the score, the player holding the ball, the crowd, and the lack of shots on the page. Let the absurdity do the work.
+
+## 2. Avoid micro-punch clusters
+
+Synthetic instinct:
+
+> He waited. Nothing happened. That was the problem.
+
+Why it is weak:
+
+Each sentence is trying to land. The rhythm sounds written by a model imitating magazine punchiness.
+
+Better instinct:
+
+Use a normal sentence or paragraph that lets the scene carry tension. Short sentences are strongest when they are rare enough to matter.
+
+## 3. Do not translate every good fact
+
+Synthetic instinct:
+
+> The crowd booed while the team held the ball. This revealed the structural flaw at the heart of professional basketball.
+
+Why it is weak:
+
+The second sentence tells the reader what the first sentence already demonstrated.
+
+Better instinct:
+
+Move to the next consequence, quote, or action. Add interpretation only if it changes the reader's understanding.
+
+## 4. Do not turn the story into portable wisdom
+
+Synthetic instinct:
+
+> You cannot ask competitors to behave less intelligently. You have to change what intelligent behavior produces.
+
+Why it is weak:
+
+The line is polished enough to travel outside the article as generic strategy advice. It converts a specific sports story into quote-card wisdom.
+
+Better instinct:
+
+Stay with the actual rule and the actual competitors. The broader idea can remain obvious without being packaged as a maxim.
+
+## 5. Curation beats accumulation
+
+Synthetic instinct:
+
+A paragraph introduces five coaches, three players, and two executives who all objected to the same rule.
+
+Why it is weak:
+
+Research depth becomes name accumulation. Nobody stays long enough to become memorable.
+
+Better instinct:
+
+Choose the one or two dissenters whose objections are most vivid or revealing. Let them speak. Use additional voices only if they escalate or complicate the argument.
+
+## 6. Chronology must earn its place
+
+Synthetic instinct:
+
+> 1950 crisis -> 1951 example -> 1953 reform -> 1954 experiment -> April vote -> summer test -> October debut -> statistical effects -> legacy
+
+Why it is weak:
+
+It is a flawless explanation and a visible outline.
+
+Better instinct:
+
+Ask what route creates the most curiosity. The article may begin with the absurd consequence, jump to the proposed cure, meet the people who thought the cure was bad basketball, then return to the failed experiments that made the cure unavoidable.
+
+Chronology is welcome when it creates escalation. It is not entitled to be the skeleton.
+
+## 7. Do not seal the ending too perfectly
+
+Synthetic instinct:
+
+The final paragraph restates both sides of the article's contradiction and resolves them into a polished final lesson.
+
+Why it is weak:
+
+The piece feels engineered to conclude. The narrator closes every open loop and leaves no air.
+
+Better instinct:
+
+Return to a person, score, object, quote, or consequence. Let the reader carry the larger implication away without one final explanation.
+
+## 8. Front door simplicity
+
+Overbuilt hero instinct:
+
+> A hero containing the 19-18 score, Mikan's scoring share, Fort Wayne's field-goal attempts, attendance, and explanatory copy.
+
+Why it is weaker:
+
+The hero becomes an infographic.
+
+Better instinct:
+
+> 19-18. FINAL.
+
+Let the impossible score create curiosity. Put the extra proof in a supporting visual.
+
+## 9. Subtitle naturalness
+
+More analytical:
+
+> One rule changed what rational basketball looked like.
+
+More human:
+
+> Fort Wayne won by barely shooting. The strange part was that its strategy made perfect sense.
+
+The lesson is not that subtitles must be casual. The lesson is that clarity and conversational intrigue usually outperform abstract nouns when the title already supplies mystery.
+
+# CRAFT TEST
+
+Before calling a draft excellent, ask:
+
+> Is the material interesting, or is the narrator trying to sound interesting?
+
+> Did we choose, or merely include?
+
+> Would a strong human editor cut 15 percent of this explanation and make the story better?
+
+> Are the people memorable, or just well-sourced?
+
+> Does the ending stop, or conclude?
+
+> Does the article feel discovered, or assembled?

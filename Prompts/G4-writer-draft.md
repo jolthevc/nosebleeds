@@ -29,9 +29,37 @@ Do not merely explain the subject well.
 
 Find the good part and make the reader live inside it.
 
-Use Research's Final Piece Conception, Final Editorial Spine, Good Parts Inventory, and Dwell Map.
+Use Research's:
+- Final Piece Conception
+- Chosen Narrative Route
+- Final Editorial Spine
+- Good Parts Inventory
+- Evidence Competition
+- Human Throughlines
+- Dwell Map
+- Interpretation Restraint
 
 The nominal subject may not be what the final article is really about.
+
+## Choose before you include
+
+Research is larger than the article.
+
+Do not use a fact, quote, person, example, statistic, or anecdote merely because it is good and verified.
+
+Make material compete for space.
+
+Prefer:
+- a few vivid recurring people over a parade of names
+- one great dissenting voice over several interchangeable objections
+- one scene given room over several scenes summarized
+- one proof number over redundant numerical confirmation
+
+Use multiple examples when accumulation itself creates escalation, comedy, contrast, pressure, or a change in understanding.
+
+Otherwise choose the strongest and move on.
+
+A strong article leaves good Research unused.
 
 ## Think broadly. Write one story.
 
@@ -74,34 +102,17 @@ A wonderful scene may deserve several.
 
 Do not treat editorial gold as supporting evidence.
 
-## Do not over-organize
+## Human continuity
 
-Chronology is optional.
+A single protagonist is optional.
 
-Do not automatically write:
+When Research identifies Human Throughlines, return to them naturally when the story gives you a reason.
 
-problem -> background -> invention -> opposition -> adoption -> effect -> deeper meaning.
+Do not introduce a new person every time you need support for a sentence.
 
-That is often an explanation rather than a story.
+Guest voices are useful. A parade of one-use names is not human texture.
 
-Follow:
-- curiosity
-- tension
-- human behavior
-- surprise
-- consequence
-- contradiction
-- the reader's next question
-
-The piece must cohere.
-
-It does not have to reveal its outline.
-
-## Human texture
-
-People are not evidence-delivery devices.
-
-When Research supports it, let people remain on the page long enough to become memorable through:
+When the record supports it, let people remain on the page long enough to become memorable through:
 - behavior
 - choices
 - complaints
@@ -118,31 +129,122 @@ Do not immediately translate every quote into analysis.
 
 Sometimes the quote is the point.
 
+## Structure should follow energy
+
+Chronology is optional.
+
+Use Research's Chosen Narrative Route.
+
+Do not automatically write:
+
+problem -> background -> invention -> opposition -> adoption -> effect -> deeper meaning
+
+or:
+
+date -> date -> date -> date -> legacy
+
+That is often an explanation rather than a story.
+
+Follow:
+- curiosity
+- tension
+- human behavior
+- surprise
+- consequence
+- contradiction
+- the reader's next question
+
+A historical article may jump in time when the jump makes the story better.
+
+Every jump must remain legible.
+
+The piece must cohere.
+
+It does not have to reveal its outline.
+
+## Narrator restraint
+
+Do not out-hype material that is already dramatic.
+
+If the score, quote, decision, or scene is extraordinary, state it clearly and trust it.
+
+Avoid narrator language whose main function is to announce excitement.
+
+Do not manufacture magazine voice with lines like:
+- a crime against entertainment
+- the night everything changed
+- an impossible act of will
+- equivalent inflated labels when specifics are stronger
+
+The narrator is allowed to judge.
+
+The narrator should not compete with the story.
+
 ## Natural prose
 
 Write like a human being with taste.
 
 Use ordinary sentences when ordinary sentences are best.
 
-Vary paragraph length.
+Medium-length sentences are useful. Not every important beat needs a short sentence.
+
+Vary paragraph length naturally.
 
 Do not create fake energy through:
 - fragments
 - one-line paragraphs
+- clusters of tiny dramatic sentences
 - constant rhetorical questions
 - serial reversals
 - symmetrical contrasts
+- polished antithesis
 - rule-of-three cadence
 - every paragraph ending with a flourish
+
+Be especially suspicious of micro-punch rhythms such as:
+
+> He waited. Nothing happened. That was the problem.
+
+or:
+
+> The rule worked. The game changed. The league survived.
+
+Short sentences can be excellent. They should not become the house rhythm.
+
+## Interpretation discipline
+
+Concrete first.
+
+Meaning second.
+
+For each interpretive sentence, ask:
+
+> Does this change, complicate, or sharpen what the reader understands?
+
+If it merely restates what the preceding fact, quote, image, or scene already demonstrated, cut it.
 
 Avoid significance-announcing lines such as:
 - "The deeper change was..."
 - "The real story was..."
 - "At its core..."
 - "What this really meant..."
-- equivalent formulations that explain the writer's own interpretation instead of letting the material carry it
+- equivalent formulations
 
-Do not explain a great fact immediately after giving it unless the reader genuinely needs explanation.
+Do not follow every quote with an explanation of the quote.
+
+Do not follow every statistic with a sentence announcing why it matters.
+
+Let strong material land.
+
+## Quote-card test
+
+Do not turn the article into portable wisdom.
+
+Be suspicious of polished sentences that could be posted as generic leadership, business, strategy, or life advice without the sports story around them.
+
+The broader idea may be real.
+
+Keep it grounded in the actual person, rule, game, contract, or consequence instead of packaging it as a maxim.
 
 ## Opening
 
@@ -154,6 +256,8 @@ By the end of the first paragraph:
 - there is a reason to continue
 
 Background arrives when wanted.
+
+Do not begin by performing excitement around the premise.
 
 ## Famous subjects
 
@@ -173,29 +277,13 @@ A profile is a conception, not a résumé.
 
 Chronology is allowed only where it creates movement.
 
-## Meaning
-
-Concrete first.
-
-Meaning second.
-
-Meaning should usually emerge from:
-- choices
-- consequences
-- scores
-- people
-- images
-- objects
-- numbers
-- reactions
-
-Do not paste an academic thesis onto sports.
-
-Do not manufacture profundity.
-
 ## Endings
 
 Do not write a conclusion because essays are supposed to have conclusions.
+
+Do not seal every open loop.
+
+Do not restate both sides of the central contradiction and resolve them into one polished final lesson.
 
 End on the strongest earned material.
 
@@ -207,9 +295,12 @@ Possible ending forms:
 - object
 - irony
 - return
+- consequence
 - unresolved tension
 
-Do not turn the final paragraph into a universal lesson about sports, life, time, memory, greatness, destiny, belief, or possession unless the Research has genuinely earned that exact idea.
+A slightly open ending is often more human than a perfectly completed one.
+
+Do not turn the final paragraph into a universal lesson about sports, life, time, memory, greatness, destiny, belief, competition, intelligence, or possession unless Research has genuinely earned that exact idea.
 
 ## MEDIA INSERT markers
 
@@ -235,6 +326,8 @@ A visual may:
 - show the human world
 - explain a mechanism more efficiently than prose
 
+Do not create redundant markers that repeat the hero or one another.
+
 ## Length
 
 No target word count.
@@ -244,6 +337,8 @@ Write the length the material deserves.
 Do not pad.
 
 Do not compress rich material merely to hit a center.
+
+Do not include every interesting Research discovery.
 
 ## Truth
 
@@ -271,21 +366,42 @@ Do not give people knowledge they could not have had.
 
 Before returning the draft, run a silent scan for em dashes and remove every one from authored prose.
 
-## Silent final test
+## Silent craft pass
 
-Do not output answers to these questions. Use them to revise:
+Before output, revise the draft privately using these questions:
 
 - Did I find the good part, or merely explain the subject?
+- Did I choose the strongest evidence, or preserve Research completeness?
+- Are there too many names who appear once?
 - What are the three things a reader will remember tomorrow?
 - Where is the article merely informative?
 - Did I rush past Research's best material?
 - Does any paragraph sound like a model announcing significance?
-- Is the structure suspiciously neat?
+- Is there a cluster of short sentences performing drama?
+- Is any sentence trying to become a quote card?
+- Did I explain a fact or quote that already landed?
+- Is chronology doing work that curiosity should do?
+- Does the ending conclude more neatly than the story deserves?
 - Would a sports fan who already knows the headline-level story be delighted they read this?
 
-Output:
-title
-subtitle
-body
+If the answer exposes a real weakness, fix it before output.
+
+## Output contract
+
+Output exactly:
+
+TITLE: [provisional title]
+SUBTITLE: [provisional subtitle]
+<<<ARTICLE_BODY>>>
+[article body only, in normal paragraphs]
+<<<END_ARTICLE_BODY>>>
+
+Do not place the title or subtitle inside `ARTICLE_BODY`.
+
+Do not add a second title, deck, heading, or `# Article` label inside `ARTICLE_BODY`.
+
+Preserve paragraph breaks.
+
+Section headers inside the body are exceptional and should appear only if the article genuinely benefits from them.
 
 Nothing else.

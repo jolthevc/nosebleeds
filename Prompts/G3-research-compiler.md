@@ -39,10 +39,12 @@ Useful thinking positions include the obvious, narrative, surprising, human, and
 For each, state:
 - what the article is really about
 - what keeps the reader moving
-- the strongest material
-- the risk
+- strongest material
+- likely human throughlines
+- likely structure
+- biggest risk
 
-Do not create cosmetic variations just to fill slots. Three genuinely different conceptions are better than five synonyms.
+Do not create cosmetic variations just to fill slots.
 
 Do not preserve the commissioned wording merely because it is clean.
 
@@ -54,9 +56,24 @@ For a famous event, the better piece may live inside the losing side, changing b
 
 For a profile, the better piece may be what changed around the subject.
 
+## Structural route test
+
+For historical, institutional, rules, business, and explanatory subjects, explicitly compare at least two possible routes before locking the article:
+
+1. the clean chronological / explanatory route
+2. an energy-driven route organized around curiosity, contradiction, human behavior, or consequence
+
+Use a third route when the research supports something meaningfully different.
+
+Choose chronology only when chronology itself creates escalation, suspense, changing belief, or emotional accumulation.
+
+Do not choose chronology because it is the easiest way to explain the subject.
+
+The final route can still be mostly chronological. It must earn that structure.
+
 ## Then choose
 
-Choose the conception that creates the best truthful reading experience.
+Choose the conception and route that create the best truthful reading experience.
 
 The final piece may be multidimensional, but it needs one coherent spine.
 
@@ -70,6 +87,8 @@ Choose:
 - appropriate reconstruction level
 - where the article should dwell
 - where it should move quickly
+- which people should recur
+- which research should be omitted despite being interesting
 
 Do not force:
 - chronology
@@ -89,7 +108,7 @@ Ask explicitly:
 
 ## Good Parts Inventory
 
-Create a ranked inventory of the material the Writer must not rush past:
+Create a ranked inventory of material the Writer must not rush past:
 
 - strangest fact
 - funniest / most absurd detail
@@ -107,6 +126,56 @@ Mark the top 3-5 as `PROTECT / GIVE ROOM`.
 
 These are editorial assets, not merely evidence.
 
+## Evidence competition
+
+Research abundance is not a requirement to use everything.
+
+Where multiple facts, quotes, people, examples, or statistics perform the same function, make them compete.
+
+For major clusters, classify material as:
+
+- `ANCHOR`: strongest item, likely deserves real space
+- `SUPPORT`: useful only if it escalates, complicates, or verifies something the article needs
+- `OMIT FROM ARTICLE`: good Research that would dilute the reading experience
+
+A deeply researched article can intentionally omit excellent material.
+
+Do not reward completeness.
+
+## Human throughlines
+
+A protagonist is optional.
+
+Identify 1-3 people, teams, groups, or recurring human presences that could naturally give the article continuity if the evidence supports them.
+
+Distinguish:
+- `THROUGHLINE`: worth returning to
+- `GUEST VOICE`: useful once
+- `REFERENCE ONLY`: evidence, not a character
+
+Do not force recurrence where the record is thin.
+
+Do not create a parade of names merely to demonstrate research depth.
+
+## Dwell Map
+
+State where the Writer should:
+
+- `DWELL`: rich scene, person, contradiction, quote, absurdity, or sporting moment that deserves room
+- `MOVE`: important but straightforward material
+- `COMPRESS`: background or mechanism the reader needs only briefly
+- `OMIT`: material that does not earn article space
+
+Editorial attention should follow reader value, not equal chronological importance.
+
+## Interpretation discipline
+
+Identify any major idea that should emerge from the facts without being stated as a polished thesis or maxim.
+
+Flag ideas that would become weaker if packaged as generic leadership, business, strategy, or life advice.
+
+The Writer should not turn the story into quote-card wisdom.
+
 ## Tapestry rule
 
 Every recommended dimension must return to the spine.
@@ -119,7 +188,7 @@ Do not prescribe detached sections called psychology, business, culture, strateg
 
 ## Visual Opportunity Map
 
-Identify the visual moments that could improve the story.
+Identify visual moments that could improve the story.
 
 For each:
 - FUNCTION: PROVE | SHOW | EXPLAIN
@@ -131,6 +200,8 @@ For each:
 Also identify 2-4 possible hero concepts.
 
 A hero should embody the conception, not merely depict the nominal subject.
+
+Prefer one dominant hero idea over an overloaded infographic.
 
 ## Ending guidance
 
@@ -148,6 +219,8 @@ Prefer:
 
 Do not manufacture transcendence.
 
+Do not require the final paragraph to restate the article's contradiction or thesis.
+
 ## Runtime header
 
 Begin with exactly one JSON line:
@@ -164,9 +237,14 @@ Then output:
 
 # Conception Spread
 
+# Structural Route Test
+
 # Final Piece Conception
 
 # Why This Conception Won
+
+# Chosen Narrative Route
+Explain the movement of the article without turning it into a visible section outline.
 
 # Research Outcome
 
@@ -185,14 +263,23 @@ What keeps the reader wanting the next paragraph?
 # Good Parts Inventory
 Mark top 3-5 as PROTECT / GIVE ROOM.
 
+# Evidence Competition
+Use ANCHOR / SUPPORT / OMIT FROM ARTICLE.
+
+# Human Throughlines
+Use THROUGHLINE / GUEST VOICE / REFERENCE ONLY.
+
 # Dwell Map
-State where the Writer should slow down and where it should compress.
+Use DWELL / MOVE / COMPRESS / OMIT.
 
 # What This Story Opens Up
 
 # Tapestry Map
 
 # What to Leave Out
+
+# Interpretation Restraint
+State which ideas should emerge without being packaged as a maxim or thesis.
 
 # Narrative Hinge
 If real. Otherwise `N/A - not the correct structure for this piece.`
@@ -251,7 +338,7 @@ When relevant.
 # Potential Endings
 
 # Researcher Recommended Conception
-Explain likely architecture, register, rhythm, and what the Writer must protect.
+Explain likely architecture, register, rhythm, curation, human continuity, and what the Writer must protect.
 
 # Sources
 

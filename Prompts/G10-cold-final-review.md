@@ -20,13 +20,30 @@ The question is not:
 
 It is:
 
-> **Is this genuinely worth publishing in Nosebleeds?**
+> **Is this genuinely worth publishing in Nosebleeds at a very high bar?**
 
 A polished, accurate, coherent article can still fail.
 
 Professional but generic is not a PASS.
 
 Treat `[MEDIA INSERT ...]` blocks as production markers, not authored prose. Judge their usefulness and placement separately from sentence quality.
+
+## PASS means something demanding
+
+PASS only when remaining improvements are local.
+
+If a materially better version is still available from the existing Research through:
+- better curation
+- better structure
+- a stronger human throughline
+- less explanation
+- more natural prose
+- a different ending
+- materially better use of Research gold
+
+then verdict should be REVISE, not PASS.
+
+Do not let a high numeric average excuse a draft you would still want to materially edit before publication.
 
 ## First: the reader test
 
@@ -37,6 +54,7 @@ Answer privately before scoring:
 - Did I learn or experience something beyond the surface version?
 - Did the writer find the good part or merely explain the subject well?
 - Would someone who already knows the headline-level story be delighted they read this version?
+- Did the article feel discovered, or assembled?
 
 ## Memory / contagion test
 
@@ -50,14 +68,37 @@ If a normal-length or long piece cannot produce roughly three meaningful units, 
 
 Compare Draft to Research's:
 - Final Piece Conception
+- Structural Route Test
+- Chosen Narrative Route
 - Good Parts Inventory
+- Evidence Competition
+- Human Throughlines
 - Dwell Map
+- Interpretation Restraint
 
 Ask:
 - Did the draft foreground the best material?
 - Did it rush past a better scene, quote, person, contradiction, or fact?
 - Did it overinvest in explanatory completeness?
 - Is the article about the best version Research found?
+- Did it preserve a cluster of good but redundant evidence that Research had already marked as expendable?
+- Did it turn recurring human possibilities into a parade of one-use names?
+
+## Curation test
+
+Ask:
+
+> What could I remove without meaningfully reducing understanding but with a clear increase in pleasure, pace, or memorability?
+
+Do not require cuts merely for brevity.
+
+But penalize:
+- evidence accumulation mistaken for depth
+- multiple quotes making the same point
+- too many names introduced once
+- too many examples performing the same function
+- statistics continuing after the reader already understands the change
+- completeness crowding out dwell time on the best material
 
 ## AI signature test
 
@@ -65,12 +106,19 @@ Scan authored prose for:
 - em dashes
 - fake fragments
 - one-line paragraph metronome
-- unnatural punchy short sentences
+- micro-punch clusters of short theatrical sentences
+- unnatural punchiness
 - rule-of-three repetition
 - symmetrical contrasts
+- polished antithesis
 - significance-announcing transitions
 - quote/fact immediately followed by unnecessary interpretation
+- fact -> abstraction -> fact -> abstraction rhythm
 - problem -> solution -> effect -> meaning over-orderliness
+- date-card chronology used as scaffolding
+- evidence parades
+- narrator hype stronger than the material
+- portable quote-card / LinkedIn-style maxims
 - manufactured aphorisms
 - closing swell
 
@@ -78,15 +126,45 @@ Any em dash in authored prose is a mandatory fix. Do not PASS while one remains.
 
 Do not merely count banned phrases. Judge whether the article feels model-shaped.
 
+### Micro-punch test
+
+Short sentences can be excellent.
+
+Flag clusters where several tiny sentences or fragments are clearly being used to manufacture energy.
+
+A dramatic fact should not require the narrator to pantomime drama around it.
+
+### Quote-card test
+
+Identify any sentence that could be removed from the sports story and posted as generic leadership, strategy, business, or life advice.
+
+If the line is mainly portable wisdom rather than an earned story-specific insight, penalize C2 and consider REVISE.
+
+### Narrator-restraint test
+
+Ask whether the narrator is competing with the facts.
+
+A strange score, vivid quote, or bizarre scene often needs less adjective and less performance, not more.
+
+## Interpretation test
+
+Find places where the narrator tells the reader what a strong fact, quote, image, or scene already demonstrated.
+
+If repeated, penalize C2 and B4.
+
+Interpretation should add an idea, not prove that the narrator understood the evidence.
+
 ## Structure / depth
 
 - Are multiple dimensions woven?
 - Does depth increase enjoyment?
 - Is chronology serving the story or replacing it?
+- If Research chose a non-obvious route, did the Writer actually follow it?
 - Is a famous subject worth experiencing again?
 - Is a profile a conception rather than biography?
 - Does the length feel earned?
 - Are people vivid or merely functional?
+- Does the article contain continuity, or only well-sourced names?
 
 ## Ending
 
@@ -97,7 +175,13 @@ Do not reward:
 - generic statement about sports
 - universal life lesson
 - abstract profundity
+- portable maxim
+- polished thesis restatement
+- neat restatement of both sides of the central contradiction
 - sentence engineered to sound quotable rather than earned
+- an ending that seals every loop more perfectly than the story requires
+
+Prefer concrete material and some air.
 
 ## Truth
 
@@ -119,7 +203,7 @@ Then:
 - REVISE
 - FAIL
 
-PASS means the article clears the Nosebleeds bar, not that it is merely competent.
+PASS means the article clears the Nosebleeds bar and no material editorial improvement remains available from the existing Research.
 
 REVISE means there is a materially better version available from the existing Research.
 
@@ -127,9 +211,9 @@ FAIL is reserved for truth/gate failure or a fundamentally broken piece.
 
 Use the existing response fields this way:
 - `strongest_reason_not_to_publish`: one strongest objection only
-- `depth_check`: include whether the Writer found the good part and the largest underused Research asset
-- `cohesion_check`: include any structural AI pattern and authored em-dash count
-- `sing_check`: include the three memorable units, or the two exceptional units for a deliberately short piece, plus the final "does it sing?" judgment
+- `depth_check`: include whether the Writer found the good part, the largest underused Research asset, and the largest curation problem
+- `cohesion_check`: include structural AI pattern, chronology assessment, human-continuity assessment, authored em-dash count, and micro-punch cluster assessment
+- `sing_check`: include the three memorable units, or two exceptional units for a deliberately short piece, plus the final "does it sing?" judgment
 - `gates`: include a prose hard-rule gate when an authored em dash or unresolved `[NEEDS: ...]` marker exists
 
 Return JSON:

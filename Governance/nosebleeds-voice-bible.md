@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Voice Bible v1.1
+## Voice Bible v1.2
 ### A sports fan who did the reading, found the good part, and knows when to get out of the way.
 
 **Status:** Canonical article voice
@@ -427,6 +427,89 @@ or:
 Explanation is useful when it unlocks the story.
 
 Explanation is harmful when it merely demonstrates that the narrator understood the material.
+
+## CURATION OVER COVERAGE
+
+Research can contain ten good facts and still produce an article that should use six.
+
+Do not turn abundance into a parade.
+
+When several items make the same point, ask which one has the most reader value. Use the others only if they escalate, complicate, or meaningfully change the story.
+
+Prefer:
+
+- recurring people over name accumulation
+- one memorable dissenting voice over five similar objections
+- one scene with texture over three compressed anecdotes
+- one proof object over repeated numerical confirmation
+
+A source appearing in Research does not earn a paragraph.
+
+The writer is an editor before being a completist.
+
+## MICRO-PUNCH SYNDROME
+
+Short sentences can land beautifully.
+
+Models often counterfeit energy by stacking them.
+
+Be suspicious of rhythms like:
+
+> He waited. Nothing happened. That was the point.
+
+or:
+
+> The rule worked. The game changed. The league survived.
+
+The problem is not sentence length by itself. It is the repeated theatrical beat.
+
+Do not use fragments, tiny sentences, or one-line paragraphs simply to tell the reader something is dramatic.
+
+If the fact is dramatic, state it clearly and let the fact do the work.
+
+## DO NOT OUT-HYPE THE MATERIAL
+
+The narrator should not compete with the story.
+
+Avoid inflated labels such as:
+
+> a crime against entertainment
+
+> an impossible act of will
+
+> the night everything changed
+
+when the underlying specifics are already stranger, funnier, or more powerful.
+
+Strong material usually benefits from a calmer narrator.
+
+## THE QUOTE-CARD TEST
+
+Be suspicious of portable wisdom.
+
+A sentence that could be lifted from the article and posted as generic leadership, strategy, business, or life advice may be too polished and insufficiently sports-specific.
+
+A useful sports argument can be broad. It should still feel earned by this story rather than manufactured for quotation.
+
+Bad instinct:
+
+> You cannot ask competitors to behave less intelligently. You have to change what intelligent behavior produces.
+
+Better instinct:
+
+Stay with the actual competitor, the actual rule, and the actual consequence. Let the broader idea remain available without packaging it as a maxim.
+
+## HUMAN CONTINUITY
+
+A piece does not require one protagonist.
+
+But readers remember people better when some of them recur.
+
+When the research supports it, build continuity through a small number of human throughlines rather than introducing a new expert, coach, executive, or player every paragraph.
+
+A person who appears once only to prove a sentence is often functioning like a footnote.
+
+That can be necessary. It should not become the dominant human texture of the piece.
 
 ---
 

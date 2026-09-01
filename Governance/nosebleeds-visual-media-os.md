@@ -1,9 +1,9 @@
 # Nosebleeds Visual Media and Image Sourcing OS
 
-**Version 1.3 - Editorial Quality Upgrade - Covers Build Mandate Deliverables 09 (Visual Media and Image Sourcing OS) and the visual portions of 02 and 10.**  
+**Version 1.4 - Craft and Front-Door Upgrade - Covers Build Mandate Deliverables 09 (Visual Media and Image Sourcing OS) and the visual portions of 02 and 10.**  
 **Inherits:** Brand Bible, Research Standard v2.2, Narrative Architectures v2.2, Voice doctrine, and the current G1-G12 production pipeline. Binds by reference.
 
-**Interfaces with:** Production and Review Standard v2.2 through research visual leads, G3 visual needs, G4/G9 media markers, and the G12 publication package. Production governs orchestration; this OS governs visual sourcing, classification, placement, and readiness.
+**Interfaces with:** Production and Review Standard v2.3 through research visual leads, G3 visual needs, G4/G9 media markers, and the G12 publication package. Production governs orchestration; this OS governs visual sourcing, classification, placement, and readiness.
 
 ## Governing ideas
 
@@ -152,6 +152,8 @@ It should:
 - write captions
 - write treatment prompts where useful
 - identify unresolved human sourcing work
+- clearly distinguish production-ready real sources, constructed assets that can be made directly from Research, and ideas that still require a human source/licensing decision
+- remove redundant supporting visuals that duplicate the hero or each other
 
 G12 does not rewrite the article body.
 
@@ -165,6 +167,9 @@ Rules:
 
 - The hero sells the reason the story is irresistible before the reader starts.
 - The hero should embody the conception, not merely depict the nominal subject.
+- The hero should usually communicate one dominant idea at a glance.
+- Do not turn the hero into a dense infographic merely because several verified facts are available.
+- Secondary proof belongs in supporting visuals when the hero becomes stronger by being simpler.
 - Ask: "What image would make someone want to know what happened even before reading the headline?"
 - The hero belongs to the story: person, crowd, object, document, scoreboard, place, or other central visual object.
 - Never the mascot.
@@ -187,6 +192,31 @@ Better instinct:
 - article about roster valuation -> the expensive position beside the intentionally replaceable one
 
 Literal imagery is allowed when it is genuinely the most compelling conception. It is not the default.
+
+### Hero simplicity test
+
+Before approving the hero, ask:
+
+- Can the core idea be understood in under two seconds?
+- Is one visual fact doing most of the work?
+- Have supporting statistics been pushed into supporting assets rather than crammed into the cover?
+- Does the image create curiosity without requiring a paragraph of caption copy?
+
+For a 19-18 story, the final score may be enough. Mikan's scoring share, field-goal attempts, and attendance can live in the next proof visual.
+
+### Visual non-redundancy
+
+The hero and supporting visuals should perform different jobs.
+
+Do not recommend a detailed version of the hero as the first supporting visual unless the added detail materially changes the reader's understanding.
+
+A visual package should progress:
+- front-door curiosity
+- proof
+- human world
+- explanation
+
+as the article requires, not repeat the same evidence at different resolutions.
 
 ## 4. The candidate contract
 
@@ -515,6 +545,13 @@ The current G1-G12 pipeline can satisfy this OS without adding a new visual agen
 - Visual Identity, including logo, typography, color, card system, and layout, remains a separate design brief.
 
 # Change Log
+
+## v1.4 - Craft and Front-Door Upgrade
+
+- Hero simplicity: one dominant visual idea, not an infographic disguised as a cover.
+- Added visual non-redundancy rule between hero and supporting assets.
+- Tightened G12 readiness distinction for real, constructed, and human-sourcing-required visuals.
+- Supporting visuals now compete for distinct narrative function.
 
 ## v1.3 - Editorial Quality Upgrade
 

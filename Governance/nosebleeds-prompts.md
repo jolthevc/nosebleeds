@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Runtime Prompt Registry v2.2
+## Runtime Prompt Registry v2.3
 ### Source-of-truth map for live prompt files
 
 **Status:** Canonical registry  
@@ -79,13 +79,13 @@ Provider:
 OpenAI with web search.
 
 ## G3-research-compiler.md
-Canonical Research document, 3-5-way final conception comparison, Good Parts inventory, Dwell Map, and Visual Opportunity Map.
+Canonical Research document, 3-5-way final conception comparison, Structural Route Test, Good Parts inventory, Evidence Competition, Human Throughlines, Dwell Map, and Visual Opportunity Map.
 
 Provider:
 Anthropic or strongest non-browsing editorial model.
 
 ## G4-writer-draft.md
-First draft with editorial-abundance, anti-over-orderliness, human-texture, and inline MEDIA INSERT guidance.
+First draft with curation-before-coverage, human continuity, anti-over-orderliness, narrator restraint, natural-prose guidance, and inline MEDIA INSERT guidance. Uses explicit TITLE / SUBTITLE / ARTICLE_BODY delimiters for reliable downstream parsing.
 
 Provider:
 Anthropic or strongest long-form writing model.
@@ -115,7 +115,7 @@ Provider:
 Strongest editorial model.
 
 ## G9-writer-revision.md
-Targeted revision.
+Targeted revision with curation, human-continuity, and anti-AI behavior repair. Uses the same explicit ARTICLE_BODY delimiter contract as G4.
 
 Provider:
 Writer model.
@@ -133,7 +133,7 @@ Provider:
 Strongest editorial model.
 
 ## G12-packaging.md
-Integrated title/subtitle/hero front door plus MEDIA INSERT resolution and supporting visual package.
+Integrated title/subtitle/hero front door plus MEDIA INSERT resolution and supporting visual package. Hero should communicate one dominant visual idea; supporting visuals must add distinct value.
 
 Provider:
 Strong editorial model.
@@ -219,3 +219,27 @@ Runtime implications:
 - title, subtitle, and hero are one front-door problem
 - the hero embodies the conception rather than the nominal subject
 - Writer titles are provisional; G12 owns final title/subtitle packaging
+
+
+# EDITORIAL V5 CRAFT SHIFT
+
+The central upgrade is:
+
+> Great Research must be edited, not displayed. Great material should sound interesting without the narrator performing interest around it.
+
+Runtime implications:
+
+- G3 makes chronological and energy-driven structures compete before choosing
+- Research assets compete for article space through ANCHOR / SUPPORT / OMIT decisions
+- G3 identifies recurring Human Throughlines rather than merely listing people
+- G4 and G9 prefer fewer memorable people over one-use-name accumulation
+- evidence parades and completeness are explicit failure modes
+- micro-punch sentence clusters are treated as structural AI behavior
+- narrator hype is penalized when facts are already dramatic
+- portable quote-card / LinkedIn-style maxims are treated as synthetic prose risk
+- interpretation must add understanding rather than restate evidence
+- endings may remain slightly open instead of sealing the argument into a final lesson
+- G10 PASS means no material editorial improvement remains available from existing Research
+- subtitles favor concrete human intrigue over abstract analytical language when possible
+- heroes favor one dominant visual idea over overloaded infographic treatment
+- G4/G9 output delimiters support clean title/body separation and paragraph preservation in n8n

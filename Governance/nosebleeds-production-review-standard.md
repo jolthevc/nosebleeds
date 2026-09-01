@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Production & Review Standard v2.2
+## Production & Review Standard v2.3
 ### Once commissioned, find the best truthful version and make the reading experience great.
 
 **Status:** Canonical production workflow
@@ -90,6 +90,10 @@ The Research document should identify:
 - visual opportunity map
 - likely ending
 - recommended register
+- structural route test
+- chosen narrative route
+- human throughlines
+- evidence competition / what should be omitted
 
 The writer should not attempt to include every research layer.
 
@@ -213,6 +217,26 @@ A strange scene, great quote, human detail, or absurd score may deserve dispropo
 
 Compress merely dutiful explanation.
 
+## Curation
+
+The article is not a completeness test.
+
+When Research contains several examples, voices, quotes, or statistics doing the same job, make them compete for space.
+
+Use multiple examples only when the accumulation itself creates escalation, contrast, comedy, pressure, or a new understanding.
+
+Prefer fewer vivid recurring people over a parade of one-use names.
+
+A strong draft may intentionally leave excellent Research unused.
+
+## Narrator restraint
+
+Do not out-hype material that is already dramatic.
+
+Avoid portable maxims, synthetic punch lines, and abstract restatement after evidence that already landed.
+
+Short sentences are allowed. Clusters of theatrical micro-punches are not a substitute for voice.
+
 ## Naturalness
 
 Do not make the article structurally perfect at the cost of life.
@@ -259,6 +283,9 @@ Reviewer A specifically asks:
 - Where is the article merely informative?
 - Did chronology become a substitute for narrative?
 - Did the Writer find the good part, or merely explain the subject well?
+- Did the Writer use too many examples or voices when fewer would land harder?
+- Are recurring people carrying the story, or is there a name parade?
+- Is the narrator repeatedly translating material the reader already understood?
 
 Reviewer A does not require a hinge or protagonist.
 
@@ -285,6 +312,10 @@ Reviewer B scans for:
 - significance-announcing transitions
 - manufactured aphorisms
 - excessive short punchy sentences or one-line paragraphs
+- clusters of micro-punch sentences that perform drama
+- portable quote-card / LinkedIn-style maxims
+- narrator hype stronger than the underlying material
+- evidence parades and one-use-name accumulation
 - interpretation immediately after a fact that already landed
 - generic reverence
 - hero worship
@@ -362,6 +393,10 @@ Common root causes:
 - the article explains the nominal subject instead of choosing the most compelling conception
 - chronology is doing work that story energy should be doing
 - the prose is clean but model-shaped
+- the article confuses depth with accumulation
+- the article contains too many one-use people or interchangeable examples
+- a portable maxim is standing in for an earned sports-specific idea
+- the narrator is performing drama instead of trusting dramatic facts
 
 The EIC should fix causes, not stack symptoms.
 
@@ -413,7 +448,9 @@ It must also ask:
 
 > What are the three things most likely to travel into another conversation?
 
-A polished, accurate, coherent article may still return REVISE if it is generic, synthetic, over-ordered, or insufficiently entertaining.
+A polished, accurate, coherent article may still return REVISE if it is generic, synthetic, over-ordered, insufficiently selective, or insufficiently entertaining.
+
+PASS should mean that no material improvement remains available from the existing Research through a better framing, structure, curation choice, human throughline, ending, or prose pass. Local copy improvements may remain. Material editorial improvements may not.
 
 It should also identify:
 
@@ -471,6 +508,10 @@ Title, subtitle, and hero are one front-door problem.
 The package should sell the irresistible thing inside the subject, not merely identify the subject.
 
 The hero should embody the conception, not default to the obvious noun in the story.
+
+The hero should usually communicate one dominant idea. Do not turn the hero into an infographic containing every supporting statistic. Use supporting visuals for secondary proof.
+
+Supporting visuals should add distinct value. Do not repeat the hero's function merely because the same evidence is available in more detail.
 
 Do not reduce a layered piece to a generic "history of" headline.
 

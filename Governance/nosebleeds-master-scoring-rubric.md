@@ -1,5 +1,5 @@
 # NOSEBLEEDS
-## Master Scoring Rubric v2.2
+## Master Scoring Rubric v2.3
 ### Judge the reading experience we actually made.
 
 **Status:** Canonical scoring system  
@@ -14,10 +14,10 @@
 Exceptional. Memorable. Difficult to improve without changing the piece.
 
 ## 9 to 9.5
-Publication-level excellent. Strong enough to make the archive better.
+Publication-level excellent. We would publish with pride. Remaining improvements are local, not material changes to framing, structure, curation, prose character, or ending.
 
 ## 8 to 8.5
-Very good but with visible opportunity to sharpen.
+Very good and clearly worth developing, but a materially better version is still available through stronger selection, structure, prose, human texture, entertainment, or ending.
 
 ## 7 to 7.5
 Competent and useful, but not yet distinctive enough.
@@ -151,8 +151,8 @@ Ask:
 - Which great fact was allowed to breathe?
 - Where did the article become merely informative?
 
-**9.5:** Sustained pleasure with multiple memorable beats. The piece repeatedly gives the reader something they would rather experience here than in a summary.  
-**8:** Enjoyable and strong, but some dutiful stretches remain.  
+**9.5:** Sustained pleasure with multiple memorable beats. The article is selective, alive, and difficult to put down. It repeatedly gives the reader something they would rather experience here than in a summary.  
+**8:** Enjoyable and strong, but some dutiful stretches, evidence accumulation, or over-explanation remain.  
 **5:** Correct, informative, and professionally assembled, but not sufficiently entertaining.  
 **3:** Homework.
 
@@ -189,16 +189,22 @@ Mandatory authored-prose scan:
 - em dashes
 - fake fragments
 - repeated one-line paragraphs
+- micro-punch clusters of short theatrical sentences
 - significance-announcing transitions
 - symmetrical contrasts
+- polished antithesis that packages complexity too neatly
 - rule-of-three repetition
+- portable quote-card / LinkedIn-style maxims
+- narrator hype stronger than the underlying material
 - polished aphorisms that manufacture meaning
 - every paragraph ending with a flourish
 - explanatory sentences immediately after facts that already landed
+- date-card chronology used as scaffolding
 - suspiciously perfect A -> B -> C -> D progression
+- evidence parades: many names, quotes, or examples performing the same function
 
-**9.5:** Precise, natural, varied, memorable, and unselfconscious. The prose can be ordinary when ordinary is best.  
-**8:** Strong with isolated synthetic or overworked moments.  
+**9.5:** Precise, natural, varied, memorable, and unselfconscious. The narrator trusts the material. The prose can be ordinary when ordinary is best, and no recurring model-shaped cadence is visible.  
+**8:** Strong with isolated synthetic, overworked, over-interpreted, or theatrically punchy moments.  
 **5:** Professional but noticeably model-shaped, over-organized, or generic.  
 **3:** Flat, repetitive, synthetic, or mannered.
 
@@ -263,10 +269,10 @@ This may come from:
 
 Does the piece stop at the right place?
 
-**9.5:** Final image, fact, consequence, or line lands without summary.  
-**8:** Good ending with minor excess.  
-**5:** Conclusion paragraph.  
-**3:** Manufactured profundity or unnecessary moral.
+**9.5:** Final image, fact, consequence, quote, or return lands without summary and without sealing the story more neatly than life allows.  
+**8:** Good ending with minor excess or one unnecessary interpretive sentence.  
+**5:** Conclusion paragraph, polished thesis restatement, or generic synthesis.  
+**3:** Manufactured profundity, portable maxim, or unnecessary moral.
 
 ## D4. Contagion
 
@@ -400,6 +406,22 @@ and:
 
 > Would a reader who already knows the surface story still be delighted they read this version?
 
+## Selection discipline
+
+Also ask:
+
+> Did the Writer make Research compete for space?
+
+Penalize articles that confuse depth with accumulation.
+
+Common symptoms:
+- too many one-use names
+- multiple quotes making the same point
+- several examples where one would land harder
+- every research discovery receiving equal treatment
+- a vivid scene summarized so the article can preserve less interesting completeness elsewhere
+
+Great editing is subtraction as well as discovery.
 
 # 6. COLD FINAL QUESTION
 

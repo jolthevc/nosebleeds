@@ -97,6 +97,35 @@ The reader should always know where they are.
 
 The reader does not need to know that the writer is marching through an outline.
 
+## STRUCTURAL ROUTE TEST
+
+For historical, institutional, rules, business, and explanatory subjects, do not accept chronological order merely because it is clean.
+
+Before locking the route, compare at least two possible movements:
+
+1. the clean chronological / explanatory route
+2. an energy-driven route organized around curiosity, contradiction, human behavior, or consequence
+
+A third route may be useful when the research supports a radically different conception.
+
+Choose chronology only when chronology itself creates suspense, escalation, changing belief, or emotional accumulation.
+
+If chronology is chosen because it is easiest to understand, that is not enough.
+
+## BRAIDING WITHOUT CONFUSION
+
+A non-chronological article should not become random.
+
+Useful braid moves include:
+
+- opening on the consequence, then returning to how it became possible
+- introducing opposition before the invention so the reader understands what was at stake
+- returning to a recurring person after a mechanism section
+- using the present only when it sharpens the contrast
+- interrupting chronology with a scene that reveals the cost or absurdity of the current system
+
+Every jump should answer a reader question or create a better one.
+
 # 1B. STORY ENERGY DETERMINES DWELL TIME
 
 Not every beat deserves equal space.
@@ -120,6 +149,24 @@ Compress:
 - facts that matter to completeness more than enjoyment
 
 A piece may spend 500 words on a strange game and 70 words on a formally important meeting if that produces the better reading experience.
+
+## EVIDENCE COMPETITION
+
+When multiple facts, quotes, scenes, or people perform the same narrative function, make them compete for space.
+
+Use more than one only when the accumulation itself creates escalation, contrast, comedy, pressure, or a change in understanding.
+
+Do not confuse corroboration in Research with repetition in the article.
+
+The article should contain the strongest evidence, not all available evidence.
+
+## HUMAN THROUGHLINES
+
+A single protagonist is optional, but recurring people can provide continuity.
+
+When several human carriers are available, ask which two or three can naturally recur across the piece.
+
+Use one-off voices selectively. A parade of names can make a heavily researched article feel thinner rather than richer.
 
 # 1C. EXPLANATION IS NOT A NARRATIVE ENGINE
 

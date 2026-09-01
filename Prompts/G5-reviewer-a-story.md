@@ -43,7 +43,12 @@ Ask:
 
 ## Good-parts audit
 
-Compare Draft against Research's Good Parts Inventory.
+Compare Draft against Research's:
+- Good Parts Inventory
+- Evidence Competition
+- Human Throughlines
+- Dwell Map
+- Chosen Narrative Route
 
 Identify:
 - best Research asset the Writer underused
@@ -61,21 +66,67 @@ For a deliberately short piece, two exceptional units may be enough.
 
 If a normal-length or long piece cannot produce roughly three, flag a contagion / entertainment problem.
 
+## Curation audit
+
+A deeply researched article should not feel like it is trying to prove how deeply researched it is.
+
+Look for:
+- too many one-use names
+- multiple quotes making the same point
+- several examples where one would land harder
+- statistics accumulating after the reader already understands the mechanism
+- every research discovery receiving a paragraph because it exists
+- an opposition section that becomes a roster of dissenters
+- background preserved for completeness while vivid material is compressed
+
+Ask:
+
+> Which 10-20 percent of the article could disappear and make the piece more enjoyable without reducing what the reader meaningfully understands?
+
+Do not demand a cut merely to hit a percentage. Use the question to expose low-value completeness.
+
+## Human continuity audit
+
+A protagonist is not required.
+
+But ask:
+- Which people do I actually remember?
+- Does anyone recur naturally?
+- Are humans present as people, or as citations with names?
+- Would removing several one-use names improve continuity?
+
+If Research offered human throughlines and the draft abandoned them for a parade of witnesses, flag it.
+
 ## Structure audit
 
 Penalize over-orderliness.
 
 Watch for:
 - chronology used by default
-- obvious A -> B -> C -> D progression
+- date-card progression
+- obvious A -> B -> C -> D movement
 - one paragraph of fact followed by one paragraph of interpretation repeatedly
 - sections that exist for completeness rather than pleasure
 - every important development receiving equal space
 - a clean rule/business/history explanation instead of a compelling story
 
+Compare the draft to Research's Structural Route Test.
+
+If the draft reverted to the clean chronological route despite Research choosing a more interesting route, treat that as a material failure.
+
 Coherence is required.
 
 Neatness is not.
+
+## Interpretation audit
+
+Look for moments where the narrator explains what a strong fact, quote, score, or scene already demonstrated.
+
+Flag repeated patterns such as:
+
+> evidence -> abstract interpretation -> new evidence -> abstract interpretation
+
+The narrator should add insight, not subtitles for the reader's own comprehension.
 
 ## Watch for
 
@@ -93,6 +144,8 @@ Neatness is not.
 - premature compression
 - summary ending
 - professional but generic execution
+- research accumulation mistaken for depth
+- a better article still visibly trapped inside the same Research
 
 Do not require:
 - one protagonist
@@ -117,7 +170,7 @@ Score:
 Return JSON only:
 
 {
-  "overall_assessment": "Include: whether the Writer found the good part, the three most memorable units, the biggest underused Research asset, and any merely informative stretch.",
+  "overall_assessment": "Include: whether the Writer found the good part, the three most memorable units, the biggest underused Research asset, the biggest curation problem, the human-continuity assessment, and any merely informative stretch.",
   "strengths": [
     { "where": "", "what": "", "protect": "" }
   ],
@@ -145,4 +198,4 @@ Return JSON only:
   "verdict": "PASS | REVISE | FAIL"
 }
 
-FAIL means this draft fails the review, not that the commission should be abandoned.
+FAIL means this draft fails the review, not that the commissioned idea should be discarded.
